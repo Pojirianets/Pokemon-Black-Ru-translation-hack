@@ -1,0 +1,32 @@
+
+
+
+
+
+Creating save data.\nPlease wait...
+Hi there!\xF000븁\x0000\nWelcome to the world of Pokémon!\xF000븁\x0000
+My name is Professor Juniper.\nEveryone calls me the Pokémon Professor!\xF000븁\x0000
+That's right! This world is widely\ninhabited by mysterious creatures\xF000븀\x0000\ncalled Pokémon!\xF000븁\x0000
+Pokémon have mysterious powers.\nThey come in many shapes\xF000븀\x0000\nand live in many different places.\xF000븁\x0000\nWe humans live happily with Pokémon!\nLiving and working together,\xF000븀\x0000\nwe complement each other.\xF000븁\x0000\nWe help each other out to\naccomplish difficult tasks.\xF000븁\x0000\nHaving Pokémon battle one another\nis particularly popular, and it deepens\xF000븀\x0000\nthe bonds between people and Pokémon.\xF000븀\x0000\nAnd that is why I research Pokémon.\xF000븁\x0000
+Well, that's enough from me...\nCould you tell me about yourself?\xF000븁\x0000
+Are you a boy?\nOr a girl?\xF000븁\x0000
+You're a boy, right?\xF000븁\x0000
+You're a girl, right?\xF000븁\x0000
+
+
+I'd like to know your name.\xF000븁\x0000\nPlease tell me.\xF000븁\x0000
+Your name is \xF000Ā\x0001\x0000?\xF000븁\x0000
+Your name is \xF000Ā\x0001\x0000?\xF000븁\x0000
+Yes
+No
+So your name's \xF000Ā\x0001\x0000.\nWhat a wonderful name!\xF000븁\x0000
+Well then. I'm going to introduce you\nto your two best friends!\xF000븁\x0000
+This young man is Cheren.\xF000븁\x0000\nHe can be a little difficult, but\nhe's a very honest person.\xF000븁\x0000
+This young woman is Bianca.\xF000븁\x0000\nShe's a little flighty,\nbut she works very hard.\xF000븁\x0000
+I think you three have potential,\nso I'm going to give you\xF000븀\x0000\na very, very important Pokémon.\xF000븁\x0000
+\xF000Ā\x0001\x0000!\xF000븁\x0000\nThe moment you choose the\nPokémon that will accompany\xF000븀\x0000\nyou on your journey,\xF000븀\x0000\nyour story will truly begin.\xF000븁\x0000\nDuring your journey, you will meet many\nPokémon and people with different\xF000븀\x0000\npersonalities and points of view!\xF000븁\x0000\nI really hope you find what is important\nto you in all of these travels...\xF000븁\x0000\nThat's right! Befriend\nnew people and Pokémon and\xF000븀\x0000\ngrow as a person!\xF000븁\x0000\nThat is the most important goal\nfor your journey!\xF000븁\x0000\nLet's go visit the world of Pokémon!\xF000븁\x0000
+
+
+
+
+
