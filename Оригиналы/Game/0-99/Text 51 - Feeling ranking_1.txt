@@ -1,0 +1,16 @@
+The Feeling Check results for\nyou and \xF000Ā\x0001\x0000 show that...
+RESULTS
+You are touching the screen incorrectly. \nPlease play according to the guide.
+Your feelings are at Rank I!\nClose enough to say a friendly hello.
+Your feelings are at Rank H!\nYou have an interest in each other.
+Your feelings are at Rank G!\nClose enough to go for a walk together.
+Your feelings are at Rank F!\nYou probably have nicknames for each other.
+Your feelings are at Rank E!\nYou are as close as best friends.
+Your feelings are at Rank D!\nClose enough to make good-night calls.
+Your feelings are at Rank C!\nClose enough for traveling together.
+Your feelings are at Rank B!\nEverybody's quite envious of you two.
+Your feelings are at Rank A!\nYou are emotionally united.
+Your feelings are at Rank S!\nUndoubtedly a fated pair!
+\xF000Ā\x0001\x0000 put the \xF000Ȁ\x0001\x0002 \xF000ĉ\x0001\x0001\nin the \xF000\xFF00\x0001\x0002Medicine\xF000\xFF00\x0001\x0000 Case.
+\xF000Ā\x0001\x0000 put the \xF000Ȁ\x0001\x0002 \xF000ĉ\x0001\x0001\nin the \xF000\xFF00\x0001\x0002Medicine\xF000\xFF00\x0001\x0000 Case.
+Too bad!\nThe Bag is full...

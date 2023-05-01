@@ -1,0 +1,55 @@
+\xF000Ă\x0001\x0000 is selected.
+
+Release this Pokémon?
+\xF000Ă\x0001\x0000 was released.
+Bye-bye, \xF000Ă\x0001\x0000!
+Your party's full!
+That's your last Pokémon!
+What do you want to do?
+Jump to which Box?
+Please pick a theme.
+Pick the wallpaper.
+Continue Box operations?
+The Box is full.
+The Bag is full.
+Took the \xF000ĉ\x0001\x0000.
+\xF000ĉ\x0001\x0000 is now being held.
+Which one will you take?
+Place it in which Box?
+
+
+
+Take this \xF000ĉ\x0001\x0000?
+Mail can't be taken away.
+\xF000ĉ\x0001\x0000 is selected.
+Put away \xF000ĉ\x0001\x0000?
+Placed \xF000ĉ\x0001\x0000 in the Bag.
+It can hold an item.
+Please remove the Mail.
+You can't release an Egg.
+\xF000Ă\x0001\x0000 came back!
+Was it worried about you?
+An Egg can't hold an item.
+Touch the Mark!
+
+
+
+
+DEPOSIT POKÉMON
+WITHDRAW POKÉMON
+MOVE POKÉMON
+MOVE ITEMS
+BATTLE BOX
+SELECT A SLEEPY POKÉMON
+Mail cannot be moved!
+It cannot hold \xF000ĉ\x0001\x0000!
+It has Mail!
+You're out of Pokémon that can fight!
+Mail cannot be moved!
+It cannot hold Mail here.
+Eggs cannot be selected!
+\xF000Ă\x0001\x0000 will be tucked in.\nOK?
+This Pokémon doesn't seem\nsleepy now.
+Select another Pokémon?
+Your Battle Box is locked.\nYou cannot move your Pokémon.
+Your Battle Box is locked.\nItems cannot be given or taken.

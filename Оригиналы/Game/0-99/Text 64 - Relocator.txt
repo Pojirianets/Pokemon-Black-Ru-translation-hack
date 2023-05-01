@@ -1,0 +1,14 @@
+Loading...\nPlease wait a moment.
+The game inserted is not compatible.\nTurn off the power, insert a\ncompatible Game Card, and try again.\xF000븁\x0000
+Saving...\nDon't turn off the power.
+The game has been saved. \xF000븂\x0001<
+The Relocator will close.\nPlease turn off the power.
+The saved data could not be accessed.\nThe Relocator will close.\xF000븁\x0000
+Unable to connect to the\nother DS system.\xF000븁\x0000
+Save failed...\nThe Relocator will close.\xF000븁\x0000
+The Relocator is activated.\nSearching for Pokémon...\n\nPlease wait a moment.
+
+
+YES
+NO
+デバッグROM\nDP　Y\nPT　X\nGS　A

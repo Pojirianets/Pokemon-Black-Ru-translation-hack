@@ -1,0 +1,7 @@
+Let's Dress Up \xF000Ă\x0001\x0000\nwith Props!
+Is this look OK?
+Waiting for other participants\nto Dress Up.
+\xF000Ċ\x0001\x0000: A Prop that looks\nnice on the \xF000ı\x0001\x0001.
+Props that look nice on the \xF000ı\x0001\x0000\nwere sorted at the beginning.
+The order of Props was\nrestored to the original order.
+You can pull out Props from the list\nand put them on your Pokémon.

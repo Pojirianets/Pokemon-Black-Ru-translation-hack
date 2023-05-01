@@ -1,0 +1,45 @@
+Please insert a Pokémon\nDiamond, Pearl, Platinum, HeartGold,\nor SoulSilver Version Game Card in the\nother DS system and turn it on. Then\nselect “Poké Transfer ID: \xF000Ȅ\x0001\x0000"\nfrom “DS Download Play."
+Sending data to\nthe other DS system.
+Please select Pokémon\nin the other DS system.
+Activating Poké Transfer...
+Testing Poké Transfer...
+Receiving test data...
+Saving...\nDon't turn off the power.
+The game has been saved.\xF000븂\x0001<
+Poké Transfer will end.\xF000븂\x0001<
+Will you cancel Poké Transfer?
+Unable to connect to the\nother DS system.\xF000븁\x0000
+Waiting for the other DS system's\ndecision.
+Poké Transfer ID: \xF000Ȅ\x0001\x0000
+Pokémon Black Version\nPoké Transfer Program
+Pokémon White Version\nPoké Transfer Program
+Relocator ID: \xF000Ȅ\x0001\x0000
+Pokémon Black Version\nRelocator Program
+Pokémon White Version\nRelocator Program
+YES
+NO
+Please insert a Pokémon Diamond,\nPearl, Platinum, HeartGold, or\nSoulSilver Version Game Card in the\nother DS system and turn it on.\n\nThen select\n“Relocator ID: \xF000Ȅ\x0001\x0000"\nfrom “DS Download Play."\n\nPress the B Button to cancel.
+Activating Relocator...\nPlease stand by.
+No. of specially distributed Pokémon: \xF000Ȃ\x0001\x0000\nWill you transfer these Pokémon\xF000븁\x0000\nto Pokémon Black Version?
+No. of specially distributed Pokémon: \xF000Ȃ\x0001\x0000\nWill you transfer these Pokémon\xF000븁\x0000\nto Pokémon White Version?
+There is no room left in the PC!\nPlease make some room.\xF000븁\x0000
+Transferring Pokémon\nwith the Relocator.\nPlease stand by...
+Held items will be put in\nthe Bag. Is that OK?
+When the Bag is full of a certain item, you'll\nlose held items of that kind. Is that OK?
+Will you cancel transferring Pokémon\nwith the Relocator?
+Pokémon transfer\nwill be canceled.\xF000븁\x0000
+No. of specially distributed Pokémon\nsafely transferred: \xF000Ȃ\x0001\x0000!\xF000븁\x0000\nThe machine has transferred\nthese Pokémon to the PC!\xF000븁\x0000
+Found a Lock Capsule.\nWill you take the Lock Capsule?
+The Lock Capsule is being transferred\nwith the Relocator.\nPlease wait a moment...
+The Lock Capsule was safely\ntransferred. It was put away\nin the Key Items Case.\xF000븁\x0000
+
+The Relocator is done.\nPlease turn the power off in the\nother DS system.\xF000븁\x0000
+This Pokémon knows a hidden move.\nIt cannot transfer\nwith the Relocator.\xF000븁\x0000\nNo. of Pokémon with no HM: \xF000Ȃ\x0001\x0000!\xF000븁\x0000
+You have already received\nthe Lock Capsule.\xF000븁\x0000
+Save failed...\nThe Relocator will close.\xF000븁\x0000
+The data has been saved.\xF000븁\x0000
+Nothing was found to be\ntransferred.\xF000븁\x0000
+The software inserted is incorrect.\nThe Relocator will close.\xF000븁\x0000
+Do you want to cancel\nthe Relocator?
+DS Wireless Communications\nwill be launched.
+Error reading the save file.\xF000븁\x0000\nThere may not be a save file,\nor the save file may be corrupted.\xF000븁\x0000\nThe Relocator will close.\xF000븁\x0000

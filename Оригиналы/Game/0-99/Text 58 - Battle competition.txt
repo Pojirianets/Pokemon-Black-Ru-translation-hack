@@ -1,0 +1,40 @@
+To participate in the Live Competition,\nyou need to update your Digital Player ID.\xF000븁\x0000\nIs it OK to update it?
+To participate in the Live Competition,\nthe Digital Player ID will be updated.\xF000븁\x0000\nThe Battle Box from the previous\ntournament will be unregistered.\xF000븁\x0000\nIs it OK to update your Digital Player ID?
+A Digital Player ID will be received\nvia Infrared Connection.\xF000븁\x0000\nPlease point your Nintendo Game Card\nat the sending Game Card\xF000븀\x0000\nand press the A Button.\xF000븁\x0000
+You have registered and unregistered\nfrom this tournament already.\xF000븁\x0000\nYou cannot reregister\nfor this tournament.\xF000븁\x0000
+You have registered and participated\nin this tournament already.\xF000븁\x0000\nYou cannot reregister for a tournament\nyou've already participated in.\xF000븁\x0000
+Your Battle Box will be registered\nfor the tournament.\xF000븁\x0000\nCaution!\nOnce registered,\xF000븀\x0000\nyou will not be able to\xF000븀\x0000\nmove your Pokémon to or from\xF000븀\x0000\nyour Battle Box.\xF000븁\x0000\nWill you still register the Pokémon\nin your Battle Box?
+Yes
+No
+Will you cancel registering\nthe Pokémon to participate?
+The conditions for the tournament\nhave not been met.\xF000븁\x0000\nPlease place your Pokémon\nin the Battle Box.\xF000븁\x0000
+Saving...\nDon't turn off the power.
+Your Battle Box has been registered\nfor the tournament.\xF000븁\x0000\nYou will not be able to\nmove your Pokémon to or from\xF000븀\x0000\nyour Battle Box.\xF000븁\x0000
+Pokémon Battle Competition!\nWhat would you like to do?
+Battle
+Look back
+Cancel participation
+The last battle will be\nplayed back.\xF000븁\x0000
+Once unregistered, you will not be able to\nparticipate in the same tournament.\xF000븁\x0000\nIs it OK to unregister?
+You will be unregistered.\nAre you sure about this?
+Your Battle Box has been\nunregistered.\xF000븁\x0000
+You will communicate with your opponent\nvia Infrared Connection.\xF000븁\x0000\nPlease face your Nintendo Game Card\nat your opponent's Game Card\xF000븀\x0000\nand press the A Button.\xF000븁\x0000
+Will you cancel the Infrared Connection?
+The selected tournaments do not match.\xF000븁\x0000\nPlease check the Digital Player ID\nand follow the instructions\xF000븀\x0000\ngiven by tournament staff.\xF000븁\x0000
+An opponent has been found!
+Follow the instructions given by \ntournament staff and press the A Button.\xF000븁\x0000
+The battle has ended.\nThe Pokémon in your Battle Box\xF000븀\x0000\nare now unregistered.\xF000븁\x0000
+Failed to receive\nyour Digital Player ID.\xF000븁\x0000
+Failed to receive\nyour Digital Player ID.\xF000븁\x0000
+The connection\nfailed.\xF000븁\x0000
+Live Competition will be ended.\xF000븁\x0000
+DONE
+Live Competition is ended.\nThank you for participating.\xF000븁\x0000
+Receiving data...\nPlease wait a moment.
+Searching for your opponent...\nPlease wait a moment.
+There was a problem\nwith the last battle.\xF000븀\x0000\nIt cannot be played back.\xF000븁\x0000
+Communicating. Please stand by...
+You have already had a battle\nwith this person.\xF000븁\x0000\nYou cannot battle\nthe same opponent again.\xF000븁\x0000
+There are no Pokémon in\nyour Battle Box.\xF000븁\x0000\nPlease check the tournament\nrules to place Pokémon\xF000븀\x0000\nin your Battle Box.\xF000븁\x0000
+Please choose your Pokémon.
+An error occurred, and\nthe battle has been disrupted.\xF000븁\x0000\nPlease follow the instructions\ngiven by tournament staff.\xF000븁\x0000

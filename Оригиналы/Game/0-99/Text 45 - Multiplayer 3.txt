@@ -1,0 +1,97 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Communication will be ended.
+
+
+
+
+
+
+
+
+\xF000Ā\x0001\x0000 entered \xF000Ā\x0001\x0001's\nEntralink.
+\xF000Ā\x0001\x0000 returned\nto the Entralink.
+Connected to \xF000Ā\x0001\x0000's world!
+\xF000Ā\x0001\x0000 left\nfor the home Entralink.
+The mission will begin soon. Please\ntap JOIN if you want to participate.
+The mission will begin soon...\nPlease wait a moment.
+Seems busy with a mission...
+The mission is complete.
+The mission failed...
+\xF000Ā\x0001\x0000 received Pass Power\nfrom \xF000Ā\x0001\x0001's Entralink.
+\xF000Ā\x0001\x0000 received Pass Power\nfrom the Entralink.
+This is where \xF000Ā\x0001\x0000 is.
+Connecting to \xF000Ā\x0001\x0000's world...\nPlease wait a moment.
+Connecting to \xF000Ā\x0001\x0000's and\n\xF000Ā\x0001\x0001's world... Please wait a moment.
+↑: \xF000Ā\x0001\x0000 is this way!
+↓: \xF000Ā\x0001\x0000 is this way!
+→: \xF000Ā\x0001\x0000 is this way!
+←: \xF000Ā\x0001\x0000 is this way!
+?: \xF000Ā\x0001\x0000's presence disappeared.\n   Must be hiding somewhere around here.
+You've never been here before.
+Someone is nearby,\nvisiting your world.
+Someone is visiting\nyour world.
+Connecting... Searching for someone\nnear your Entralink.
+Someone is visiting\nyour world.
+Another person's world\nis about to disappear.
+\xF000Ā\x0001\x0000 is battling here.
+Tap where the adventurer is\nto warp to that place.
+Tap where the adventurer is\nto warp to that place.
+Tap where the adventurer is\nto warp to that place.
+Tap where the adventurer is\nto warp to that place.
+Tap where you want to hide the item\nto warp to that place.
+Tap where the adventurer is\nto warp to that place.
+
+
+
+
+
+Tap it to go to the Entralink.
+OWN WORLD
+\xF000Ā\x0001\x0000'S WORLD
+JOIN
+BACK
+
+
+Checked your Entree.
+Checked \xF000Ā\x0001\x0000's\nEntree.
+
+
+
+You are back in your own world.\nYou look normal!
+You are in the middle of a mission.\nCannot go to another Entralink!
+You are in the middle of a mission.\nCannot go to another Entralink!
+You are in \xF000Ā\x0001\x0000's world.\nYou look different!
+...Not connected to any other\nworlds yet.
+Please wait until\nsomeone else's world is found.
+You can go back to your\nown world from here.\xF000븁\x0000\nDo you want to go back?
+
+The other world has vanished,\nand you are back in your own Entralink.
+Mission failed!\nYour mission partner was faster...\xF000븁\x0000\nThe other world has vanished,\nand you are back in your own Entralink.
+Mission failed!\nThe time ran out...\xF000븁\x0000\nThe other world has vanished,\nand you are back in your own Entralink.
+You've been sent back to\nyour own Entralink abruptly!\xF000븁\x0000\nThe connection with the other\nEntralink was lost.
+You've been sent back to\nyour own Entralink abruptly!\xF000븁\x0000\nThe connection with the other\nEntralink was lost.
+
+Mission failed!\nThe other person refused the offer...\xF000븁\x0000\nThe other world has vanished,\nand you are back in your own Entralink.
+
+
+
+The mission to save yourself\nhas started. You will return\xF000븀\x0000\nto your own world.\xF000븁\x0000

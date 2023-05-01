@@ -1,0 +1,669 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to Mystery Gift!
+RECEIVE GIFT
+CHECK THE CARD ALBUM
+QUIT
+The communication channel must be opened\nto receive Mystery Gifts.\xF000븀\x0000\nIs that OK?
+Yes
+No
+Please choose how you want to\nreceive your gift.
+GET VIA WIRELESS
+GET VIA NINTENDO WFC
+GET VIA INFRARED
+BACK
+Please choose how you want to\nreceive your gift.
+Please throw away one card you no longer\nneed to keep.\xF000븁\x0000
+You must throw away one card\nto receive a Mystery Gift.\xF000븀\x0000\nIs that OK?
+Yes
+No
+DS Wireless Communications will\nbe launched.
+Yes
+No
+Connect to Nintendo Wi-Fi Connection?
+Yes
+No
+Infrared Communications will\nbe launched.\xF000븁\x0000\nPlease point your Nintendo Game Card\nat the other person's Game Card\xF000븀\x0000\nand press the A Button.\xF000븁\x0000
+Yes
+No
+Searching for a gift.\nPlease wait...
+Choose the gift you want to receive.
+Cancel receiving this gift?
+Yes
+No
+Receive this gift?
+Yes
+No
+Receiving your gift.\nDon't turn off the power.
+The gift has been received!\xF000븁\x0000\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.\xF000븁\x0000
+Saving your Card Album...\nDon't turn off the power.
+What would you like to do with this\nWonder Card?
+Swap
+Trash
+Back
+This card cannot be thrown away because\nyou have not received the gift yet.\xF000븁\x0000\nPlease pick up the gift from the\ndeliveryman in any Pokémon Center.\xF000븁\x0000
+The card has been thrown away.\xF000븁\x0000
+Please select a card to swap with.
+Is it OK to throw away this card?
+Yes
+No
+What would you like to know about?
+ABOUT MYSTERY GIFT
+ABOUT THE CARD ALBUM
+WHEN THE ALBUM IS FULL
+BACK
+INFO
+Mystery Gift allows you\nto receive great gifts\xF000븀\x0000\nthrough various communication modes.\xF000븁\x0000\nOnce you have received a gift,\nplease go to any Pokémon Center and\xF000븀\x0000\npick it up from the deliveryman.\xF000븁\x0000
+When you've received your Mystery Gift,\nyour Wonder Card will be displayed\xF000븀\x0000\nin the Card Album.\xF000븁\x0000\nYou can check the card to see\nif you've picked up the gift\xF000븀\x0000\nfrom a deliveryman.\xF000븁\x0000\nMake sure to pick up gifts\nthat are waiting for you.\xF000븁\x0000\nThere is a limit to how many\ncards you can save in the Album.\xF000븁\x0000\nYou can store up to 12 cards if you\nhave previously saved your game.\xF000븁\x0000\nIf you don't have a saved game yet,\nyou can store up to three cards.\xF000븁\x0000\nWhen the card slots are full, you will not\nbe able to receive any more. Please delete\xF000븀\x0000\nsome from the Album.\xF000븁\x0000
+When the Card Album is full,\nyou cannot receive new cards.\xF000븁\x0000\nTo receive new cards,\nchoose a Wonder Card and\xF000븀\x0000\npress the A Button to throw it away.\xF000븁\x0000\nIf you have gifts waiting,\ngo to any Pokémon Center\xF000븁\x0000\nand pick up your gifts\nfrom the deliveryman.\xF000븁\x0000
+When you've received a Mystery Gift,\nyour Wonder Card will be displayed\xF000븀\x0000\nin the Card Album.\xF000븁\x0000\nYou can check the card to see\nif you've picked up the gift\xF000븀\x0000\nfrom a deliveryman.\xF000븁\x0000\nMake sure to pick up gifts\nthat are waiting for you.\xF000븁\x0000\nThere is a limit to how many \ncards you can save in the Album.\xF000븁\x0000\nYou can store up to 12 cards if you have\npreviously saved your game.\xF000븁\x0000\nIf you don't have a saved game yet,\nyou can store up to three cards.\xF000븁\x0000\nWhen the card slots are full, you will not\nbe able to receive any more. Please delete\xF000븀\x0000\nsome from the Album.\xF000븁\x0000
+Communicating. Please stand by...
+Our deliveryman is currently overloaded\nwith gifts for you!\xF000븁\x0000\nPlease go see him at any Pokémon Center\nand pick up your gifts.\xF000븁\x0000
+You've already received this gift.\nYou may not get another one.\xF000븁\x0000
+There were no gifts to be found...\xF000븁\x0000
+
+You are out of room for Wonder Cards.\xF000븁\x0000\nYou may not accept another gift until you\nthrow away one or more Wonder Cards.
+Yes
+No
+There was a problem\nwith receiving the gift.\xF000븁\x0000
+
+You cannot receive any more gifts until \nyou have a saved game.\xF000븀\x0000\nPlease start a new game and save it.\xF000븁\x0000
+CARD ALBUM
+A Button: Sort
+BACK
+\xF000ȁ\x0001\x0000/\xF000ȁ\x0001\x0001
+\xF000봃\x0001\x0000\xF000ȁ\x0001\x0001/\xF000ȁ\x0001\x0002/\xF000ȃ\x0001\x0000
+Wonder Card
+Date received
+\xF000ȁ\x0001\x0001/\xF000ȁ\x0001\x0002/\xF000ȃ\x0001\x0000
+A: Done
+
+Thank you for coming to see\nthe Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to see\nthe 2010 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to see\nthe 2011 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to see\nthe 2012 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to see\nthe 2013 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to see\nthe 2014 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to see\nthe 2015 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to see\nthe 2016 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to see\nthe 2017 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to see\nthe 2018 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to see\nthe 2019 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to see\nthe 2020 Pokémon Movie!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nthe Pokémon Center!\nPlease pick up your gift from\nthe deliveryman in the game.
+Thank you for coming to\nthe Pokémon Center Tokyo!\nPlease pick up your gift from\nthe deliveryman in the game.
+Thank you for coming to\nthe Pokémon Center Osaka!\nPlease pick up your gift from\nthe deliveryman in the game.
+Thank you for coming to\nthe Pokémon Center Fukuoka!\nPlease pick up your gift from\nthe deliveryman in the game.
+Thank you for coming to\nthe Pokémon Center Nagoya!\nPlease pick up your gift from\nthe deliveryman in the game.
+Thank you for coming to\nthe Pokémon Center Sapporo!\nPlease pick up your gift from\nthe deliveryman in the game.
+Thank you for coming to\nthe Pokémon Center Yokohama!\nPlease pick up your gift from\nthe deliveryman in the game.
+Thank you for participating in the\nPokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in the\n2010 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in the\n2011 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in the\n2012 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in the\n2013 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in the\n2014 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in the\n2015 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in the\n2016 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in the\n2017 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in the\n2018 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in the\n2019 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in the\n2020 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to the\nPokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to the\n2010 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to the\n2011 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to the\n2012 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to the\n2013 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to the\n2014 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to the\n2015 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to the\n2016 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to the\n2017 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to the\n2018 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to the\n2019 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to the\n2020 Pokémon World Championships!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to a\nPokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to a\n2010 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to a\n2011 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to a\n2012 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to a\n2013 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to a\n2014 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to a\n2015 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to a\n2016 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to a\n2017 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to a\n2018 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to a\n2019 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to a\n2020 Pokémon Video Game event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in a 2010\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in a 2011\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in a 2012\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in a 2013\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in a 2014\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in a 2015\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in a 2016\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in a 2017\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in a 2018\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in a 2019\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for participating in a 2020\nPokémon Video Game Championships event!\nPlease pick up your gift from\nthe deliveryman in any Pokémon Center.
+Thank you for coming to the event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the\nPokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for playing Pokémon!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the store!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for participating in\nthe Battle Competition!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for participating in\nthe video-game event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+This is a gift from the video game event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+This is a present from\nthe Pokémon Fan Club!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for watching Pokémon Sunday!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+This is a gift from Pokémon Sunday!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for participating in\nthe Challenge Plaza!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+This is a gift from the\nChallenge Plaza!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for participating in\nthe Battle Challenge!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+This is a gift from the\nBattle Challenge!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for participating in\nthe Trainers' Court!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+This is a gift from the\nTrainers' Court!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for participating in\nthe Battle Tour!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+This is a gift from the Battle Tour!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nthe Pokémon Concert!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for watching\nthe Pokémon animation!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for playing over\nNintendo Wi-Fi Connection!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for receiving this distribution!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for playing the\nPokémon Ranger series game!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+The Ranger Union requests that you\nprotect a Pokémon.\nPlease pick it up from the\ndeliveryman in any Pokémon Center.
+The Ranger Union requests that you\nprotect an Egg.\nPlease pick it up from the\ndeliveryman in any Pokémon Center.
+Thank you for playing in the\nPokémon Dream World!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+This is a gift from the\nPokémon Dream World!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for playing in the Pokémon DW!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+This is a gift from the Pokémon DW!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to a\n2010 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to a\n2011 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to a\n2012 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to a\n2013 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to a\n2014 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to a\n2015 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to a\n2016 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to a\n2017 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to a\n2018 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to a\n2019 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to a\n2020 Pokémon event!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nPokémon Festa!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nPokémon Festa 2010!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nPokémon Festa 2011!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nPokémon Festa 2012!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nPokémon Festa 2013!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nPokémon Festa 2014!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nPokémon Festa 2015!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nPokémon Festa 2016!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nPokémon Festa 2017!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nPokémon Festa 2018!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nPokémon Festa 2019!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nPokémon Festa 2020!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the POKÉPARK!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+This is a gift from the POKÉPARK!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the\nPOKÉPARK in 2010!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the\nPOKÉPARK in 2011!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the\nPOKÉPARK in 2012!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the\nPOKÉPARK in 2013!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the\nPOKÉPARK in 2014!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the\nPOKÉPARK in 2015!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the\nPOKÉPARK in 2016!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the\nPOKÉPARK in 2017!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the\nPOKÉPARK in 2018!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the\nPOKÉPARK in 2019!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to the\nPOKÉPARK in 2020!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Please pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming\nto see the Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to see\nthe 2010 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to see\nthe 2011 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to see\nthe 2012 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to see\nthe 2013 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to see\nthe 2014 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to see\nthe 2015 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to see\nthe 2016 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to see\nthe 2017 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to see\nthe 2018 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to see\nthe 2019 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to see\nthe 2020 Pokémon Movie!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nthe Pokémon Center!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nthe Pokémon Center Tokyo!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nthe Pokémon Center Osaka!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nthe Pokémon Center Fukuoka!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nthe Pokémon Center Nagoya!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nthe Pokémon Center Sapporo!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nthe Pokémon Center Yokohama!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in\nthe Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in the\n2010 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in the\n2011 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in the\n2012 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in the\n2013 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in the\n2014 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in the\n2015 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in the\n2016 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in the\n2017 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in the\n2018 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in the\n2019 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in the\n2020 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\nPokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\n2010 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\n2011 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\n2012 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\n2013 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\n2014 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\n2015 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\n2016 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\n2017 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\n2018 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\n2019 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\n2020 Pokémon World Championships!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\nPokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2010 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2011 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2012 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2013 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2014 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2015 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2016 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2017 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2018 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2019 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2020 Pokémon Video Game event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in a 2010\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in a 2011\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in a 2012\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in a 2013\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in a 2014\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in a 2015\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in a 2016\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in a 2017\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in a 2018\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in a 2019\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in a 2020\nPokémon Video Game Championships event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\nPokémon event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for playing Pokémon!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the store!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating in\nthe Battle Competition!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for participating\nin the video-game event!\nYou have already picked up your gift\nfrom the deliveryman.
+This is a gift from the video-game event!\nPlease pick up your gift from \nthe deliveryman in any Pokémon Center.
+This is a present from\nthe Pokémon Fan Club!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for watching Pokémon Sunday!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+This is a gift from Pokémon Sunday!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for participating in\nthe Challenge Plaza!\nYou have already picked up your gift\nfrom the deliveryman.
+This is a gift from the\nChallenge Plaza!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for participating in\nthe Battle Challenge!\nYou have already picked up your gift\nfrom the deliveryman.
+This is a gift from the\nBattle Challenge!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for participating in\nthe Trainers' Court!\nYou have already picked up your gift\nfrom the deliveryman.
+This is a gift from the\nTrainers' Court!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for participating in\nthe Battle Tour!\nYou have already picked up your gift\nfrom the deliveryman.
+This is a gift from the Battle Tour!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for coming to\nthe Pokémon Concert!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for watching\nthe Pokémon animation!\nPlease pick up your gift from the\ndeliveryman in any Pokémon Center.
+Thank you for playing over\nNintendo Wi-Fi Connection!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for receiving this distribution!\nYou have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+Thank you for playing the\nPokémon Ranger series game!\nYou have already picked up your gift\nfrom the deliveryman.
+The Ranger Union requests that you\nprotect a Pokémon.\nYou have already picked it up\nfrom the deliveryman.
+The Ranger Union requested that you\nprotect an Egg.\nYou have already picked it up\nfrom the deliveryman.
+Thank you for playing in the\nPokémon Dream World!\nYou have already picked up your gift\nfrom the deliveryman.
+This is a gift from the\nPokémon Dream World!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for playing in the Pokémon DW!\nYou have already picked up your gift\nfrom the deliveryman.
+This is a gift from the Pokémon DW!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2010 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2011 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2012 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2013 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2014 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2015 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2016 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2017 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2018 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2019 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to a\n2020 Pokémon event!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nPokémon Festa!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nPokémon Festa 2010!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nPokémon Festa 2011!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nPokémon Festa 2012!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nPokémon Festa 2013!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nPokémon Festa 2014!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nPokémon Festa 2015!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nPokémon Festa 2016!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nPokémon Festa 2017!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nPokémon Festa 2018!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nPokémon Festa 2019!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to\nPokémon Festa 2020!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the POKÉPARK!\nYou have already picked up your gift\nfrom the deliveryman.
+This is a gift from the POKÉPARK!\nPlease pick up your gift from \nthe deliveryman in any Pokémon center.
+Thank you for coming to the\nPOKÉPARK in 2010!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\nPOKÉPARK in 2011!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\nPOKÉPARK in 2012!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\nPOKÉPARK in 2013!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\nPOKÉPARK in 2014!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\nPOKÉPARK in 2015!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\nPOKÉPARK in 2016!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\nPOKÉPARK in 2017!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\nPOKÉPARK in 2018!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\nPOKÉPARK in 2019!\nYou have already picked up your gift\nfrom the deliveryman.
+Thank you for coming to the\nPOKÉPARK in 2020!\nYou have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.
+You have already picked up your gift\nfrom the deliveryman.

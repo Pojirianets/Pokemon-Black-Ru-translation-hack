@@ -1,0 +1,7 @@
+Turn on the C-Gear and\nestablish communications?
+When communications are on, closing the\nsystem will put it into Sleep Mode if the \nbattery is low. Please watch the battery.
+Will you turn C-Gear off to stop\ncommunications?
+\xF000\xFF00\x0001\x0001Warning!\xF000\xFF00\x0001\x0000\nPlease turn C-Gear off\nin places--such as airplanes\nand hospitals--where wireless\ncommunications are prohibited.
+C-Gear cannot be turned on.\nWireless communications are turned OFF.\nTurn wireless communications ON in the\nSystem Settings.\nError code: 50699
+YES
+NO

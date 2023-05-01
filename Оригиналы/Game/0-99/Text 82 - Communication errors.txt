@@ -1,0 +1,2 @@
+Communication error.
+Communication error.\nPlease turn off the power.

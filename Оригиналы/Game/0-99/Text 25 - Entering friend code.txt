@@ -1,0 +1,7 @@
+Please enter the Friend Code.
+Enter\nTrain Number (01-\xF000ȁ\x0001\x0000)
+Enter\nRank (01-\xF000ȁ\x0001\x0000)
+BACK
+OK
+There is no such Train Number.\nPlease enter a number up to \xF000ȁ\x0001\x0000.
+There is no such Rank.\nPlease enter a number up to \xF000ȁ\x0001\x0000.

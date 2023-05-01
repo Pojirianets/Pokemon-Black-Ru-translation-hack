@@ -1,0 +1,43 @@
+\xF000Ā\x0001\x0000'S ENTREE
+ACCEPT A MISSION
+RECEIVE PASS POWER
+CHECK STATUS
+There is a mission\nin progress.
+Entree's Total Level: \xF000Ȃ\x0001\x0000
+
+
+◆White Lv.: \xF000ȃ\x0001\x0000
+◇Black Lv.: \xF000ȃ\x0001\x0000
+Available Pass Powers: \xF000ȃ\x0001\x0000
+Time spent in the Entralink: \xF000ȁ\x0001\x0000:\xF000ȁ\x0001\x0001
+Completed missions: \xF000Ȅ\x0001\x0000
+ENTREE STATUS
+BEGIN A MISSION
+MISSION IN PROGRESS
+The mission is starting now!\xF000븂\x0001Z
+Another mission is already\nin progress.
+Please select one of the\nsix missions.
+Please select a mission.
+You cannot accept this mission\nwhen three worlds are connected.
+You cannot accept a mission when\nyou have a visitor in your Entralink.
+By selecting missions,\nyou can help others.\xF000븁\x0000\nPlease select “SUPPORT MISSION"\nand begin a mission.
+The wrong mission was selected...\xF000븁\x0000\nPlease select “SUPPORT MISSION"\nto begin.
+
+
+
+
+
+
+YES
+NO
+Will you receive this Pass Power\nfrom the Entree?
+
+AVAILABLE PASS POWER
+Received “\xF000Ĝ\x0001\x0000"\nfrom the Entree!\xF000븁\x0000\nThe “\xF000Ĝ\x0001\x0000" is\nregistered to C-Gear!
+RECEIVE POWER
+Please select the Pass Power\nyou want to receive from the Entree.
+CURRENT PASS POWER
+No Pass Power has been received.
+Orbs needed: \xF000ȃ\x0001\x0000
+\xF000봂\x0000◆The White Level to receive it: \xF000Ȃ\x0001\x0000◆\n\nCurrent levels\n◇Black Lv. : \xF000Ȃ\x0001\x0002   ◆White Lv. : \xF000Ȃ\x0001\x0001
+\xF000봂\x0000◆The Black Level to receive it: \xF000Ȃ\x0001\x0000◆\n\nCurrent levels\n◇Black Lv. : \xF000Ȃ\x0001\x0002   ◆White Lv. : \xF000Ȃ\x0001\x0001

@@ -1,0 +1,16 @@
+\xF000Ā\x0001\x0000 has joined.
+Would you like to stop drawing?
+\xF000Ā\x0001\x0000 has left.
+\xF000Ā\x0001\x0000, the leader, has left.\nThe group will be disbanded.\xF000븂\x0001<
+If the leader drops out, the group will\nbe disbanded. Is that OK?
+There are no members.\nThe group will be disbanded.\xF000븂\x0001<
+The drawing session was ended.
+
+\xF000Ā\x0001\x0000
+
+
+
+
+Joined a drawing session!
+YES
+NO

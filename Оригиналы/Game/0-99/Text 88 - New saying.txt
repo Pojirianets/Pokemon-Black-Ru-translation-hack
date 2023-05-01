@@ -1,0 +1,9 @@
+It will forget the saying it knows\nnow. Is that OK?
+Press the A Button, then speak\ninto the microphone.\xF000븁\x0000
+\xF000Ă\x0001\x0000 learned a new saying!\xF000븁\x0000
+\xF000Ă\x0001\x0000 failed to learn a\nnew saying.\xF000븁\x0000
+
+
+Preparing microphone...
+YES
+NO

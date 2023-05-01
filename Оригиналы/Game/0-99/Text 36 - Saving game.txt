@@ -1,0 +1,6 @@
+
+
+
+Saving...\nDon't turn off the power.
+\xF000Ā\x0001\x0000 saved the game.
+There is already a saved game file.\nIt is impossible to save.

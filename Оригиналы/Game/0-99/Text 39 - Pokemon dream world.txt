@@ -1,0 +1,50 @@
+GAME SYNC
+
+
+Would you like to save the game?
+YES
+NO
+Saving...\nDon't turn off the power.
+Do you want to choose the\nNintendo Wi-Fi Connection settings?
+The Pokémon has been tucked in.\nDon't turn off the power...
+
+Is it OK to wake up this Pokémon?
+The Pokémon is being woken up...\nDon't turn off the power.
+\xF000Ă\x0001\x0000 has woken up!
+Please wait a moment...
+\xF000Ă\x0001\x0000 fell\nasleep. It's sleeping soundly!
+
+Game Sync has run out of energy.\nIt will take one day to recharge it.
+This Pokémon is not dreaming yet.
+
+There are no Pokémon in your PC that can\nbe sent to the Pokémon Dream World.
+This Pokémon is dreaming.
+You haven't yet received the\nDream Remnants from last time.\xF000븁\x0000\nYou'll lose it if you wake this Pokémon up\nto receive new Dream Remnants.\xF000븁\x0000\nIs it OK to wake up this Pokémon?
+\xF000Ă\x0001\x0000 has gained\n\xF000ȁ\x0001\x0001 level(s).
+C-Gear skin has changed.\nMusical show has changed.\nPokédex skin has changed.
+C-Gear skin has changed.
+Musical show has changed.
+Pokédex skin has changed.
+C-Gear skin has changed.\nMusical show has changed.
+Musical show has changed.\nPokédex skin has changed.
+C-Gear skin has changed.\nPokédex skin has changed.
+An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting"\nsection of your Instruction Booklet.\n\nError Code: 13201
+An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting"\nsection of your Instruction Booklet.\n\nError Code: 13202
+A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nplease refer to the “Troubleshooting"\nsection of your Instruction Booklet.\n\nError Code: 13203
+A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting"\nsection of your Instruction Booklet.\n\nError Code: 13204
+An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting"\nsection of your Instruction Booklet.\n\nError Code: 13205
+This service has been discontinued.\n\nError Code: 13206
+A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting"\nsection of your Instruction Booklet.\n\nError Code: 13207
+An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting"\nsection of your Instruction Booklet.\n\nError Code: 13208
+A communication error occurred.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting"\nsection of your Instruction Booklet.\n\nError Code: 13209
+An error occurred on the server.\nPlease try again.\n\nIf this does not solve the problem,\nrefer to the “Troubleshooting"\nsection of your Instruction Booklet.\n\nError Code: 13210
+The server is experiencing high\ntraffic volumes.\nUnable to connect.\nPlease wait a little while and try again.\n\nError Code: 13211
+The server is undergoing maintenance.\nYou can review the details at the\nPokémon Global Link website.\nhttp://www.pokemon-gl.com\n\nError Code: 13212
+You can let your Pokémon play\nin the Pokémon Dream World on the Internet.
+You must set up\nthe Game Sync settings\nto play Pokémon Dream World.
+Please read the Instruction Booklet\nfor details about Game Sync settings.
+\xF000Ă\x0001\x0000 has woken up!
+There is already a saved game file.\nIt is impossible to save.\xF000븁\x0000\nPlease refer to the Instruction\nBooklet for details.\xF000븁\x0000\nPress Up + SELECT + B Button\non the title screen to erase\xF000븀\x0000\nthe current saved game file.
+Your Game Sync ID has been issued.\n\nYou can check your Game Sync ID\nin Game Sync Settings on the main menu.
+Access the Pokémon Global Link website\nat http://www.pokemon-gl.com/\nand complete the setup\nto use all features of Game Sync.\n\nRead the Instruction Booklet\nfor complete details.
+Your PC is full!\xF000븁\x0000\nYou must have one empty place\navailable to wake up the Pokémon.

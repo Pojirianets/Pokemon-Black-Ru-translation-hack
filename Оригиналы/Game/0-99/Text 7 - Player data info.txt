@@ -1,0 +1,21 @@
+NAME:
+WORK:
+HOBBY:
+TIME:
+\xF000Ĩ\x0001\x0000
+\xF000Ĩ\x0001\x0000
+\xF000Ȃ\x0001\x0002:\xF000ȁ\x0001\x0003
+FROM:
+\xF000Ĥ\x0001\x0000\n\xF000ĥ\x0001\x0001
+Number of times thanked:\nNumber of people passed by:
+\xF000봃\x0001\x0000\xF000Ȅ\x0001\x0000\n\xF000봃\x0001\x0000\xF000Ȅ\x0001\x0001
+
+
+Passerby time: \xF000ȁ\x0001\x0000:\xF000ȁ\x0001\x0001
+Passerby time: \xF000ȁ\x0001\x0000:\xF000ȁ\x0001\x0001
+Battling a wild \xF000ā\x0001\x0000
+Battling a special Pokémon
+Battling \xF000Ď\x0001\x0000 \xF000Ā\x0001\x0001
+Battling a Gym Leader
+Battling a special Trainer
+Moving through \xF000ą\x0001\x0000

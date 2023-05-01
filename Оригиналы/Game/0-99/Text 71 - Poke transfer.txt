@@ -1,0 +1,30 @@
+Loading...\nPlease wait a moment.
+No compatible Game Card is inserted.\nPlease turn off the power and\ninsert a compatible Game Card\nbefore you retry Poké Transfer.\xF000븁\x0000
+Activating Poké Transfer...\nPlease stand by.
+Saving...\nDon't turn off the power.
+The game has been saved.\xF000븂\x0001<
+Would you like to use\nPoké Transfer again?
+Poké Transfer will close.\nPlease turn off the power.
+There is not enough room\nleft in the PC in the other\nDS system.\xF000븁\x0000
+There aren't six Pokémon in the PC\nBoxes for Poké Transfer to catch.\xF000븁\x0000
+The saved data\ncould not be accessed.\xF000븁\x0000
+Unable to connect\nto the other DS system.\xF000븁\x0000
+Save failed...\xF000븁\x0000
+Pokémon CANNOT be returned\nonce they transfer.\xF000븀\x0000\nTransfer these Pokémon?
+Pokémon were sent back\nwhere they came from.\xF000븁\x0000
+Error reading the save file.\nThere may not be a save file,\nor the save file may be corrupted.\xF000븁\x0000
+No compatible Game Card is inserted.\nPlease turn off the power and\ninsert a compatible Game Card\nbefore you retry Poké Transfer.\xF000븁\x0000
+YES
+NO
+Lv. \xF000Ȃ\x0001\x0000
+An Egg cannot be caught\nwith Poké Transfer!
+This Pokémon knows a hidden move.\nIt cannot be caught with Poké Transfer.
+This Pokémon cannot be\ncaught with Poké Transfer.
+The six chosen Pokémon will be transferred.
+Oh! This Pichu needs to stay where it is.\xF000븁\x0000\nIt appears to have traveled\nthrough time.\xF000븁\x0000\nIt has been affected by traveling\nso far through time with Celebi.\xF000븁\x0000\nIt'll be very risky to transfer it,\nso it's best for Pichu to stay where it is.
+Held items will be put\nin the Bag. Is that OK?
+When the Bag is full of a certain item, you'll\nlose held items of that kind. Is that OK?
+Would you like to end Poké Transfer?
+Please choose the six Pokémon\nto transfer and slide them\nto the frame to the right.
+Catch all the Pokémon\nbefore time runs out!
+デバッグROM\nDP　Y\nPT　X\nGS　A

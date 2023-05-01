@@ -1,0 +1,16 @@
+Welcome to Battle Competition!
+There are two kinds of Battle Competition.\nOne is the Wi-Fi Competition, which is held\xF000븀\x0000\nvia Nintendo Wi-Fi Connection, and the\xF000븀\x0000\nother is the Live Competition, which is\xF000븀\x0000\nheld at certain events.\xF000븁\x0000\nOnly Pokémon registered in your\nBattle Box can participate.\xF000븁\x0000\nOnce registered, you cannot move\nyour Pokémon to and from your\xF000븀\x0000\nBattle Box.\xF000븁\x0000\nWhen you participate in a competition,\nyour Digital Player ID will be updated.\xF000븀\x0000\nPlease check it.\xF000븁\x0000
+To the Wi-Fi Competition
+To the Live Competition
+Check your Digital Player ID
+Info
+Back
+Participate
+To participate in the Wi-Fi Competition,\nyou'll need to access the webpage\xF000븀\x0000\nof the Pokémon Global Link to register.\xF000븀\x0000\nhttp://www.pokemon-gl.com\xF000븁\x0000\nPlease check the Pokémon Global Link\nwebpage for the competition regulations,\xF000븀\x0000\nits duration, and other information.\xF000븁\x0000
+Will you participate in\nthe Wi-Fi Competition?
+
+
+
+Cancel participation
+Will you participate in\nthe Live Competition?
+You can check the information\nregarding the Live Competition at the\xF000븀\x0000\nPokémon official website:\xF000븀\x0000\nhttp://www.pokemon.com.\xF000븁\x0000\nPlease check the Pokémon official website\nfor the competition regulations,\xF000븀\x0000\nits duration, and other information.\xF000븁\x0000

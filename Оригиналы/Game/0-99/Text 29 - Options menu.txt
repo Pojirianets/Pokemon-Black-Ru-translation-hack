@@ -1,0 +1,36 @@
+OPTIONS
+TEXT SPEED
+BATTLE SCENE
+BATTLE STYLE
+SOUND
+CHARACTERS
+
+SAVE BEFORE IR
+CONFIRM
+QUIT
+SLOW
+MID
+FAST
+ON
+OFF
+SHIFT
+SET
+STEREO
+MONO
+
+
+
+
+SAVE
+NO SAVE
+You can choose from three different\ntext-scrolling speeds.
+You can choose whether to view\nmove animations.
+You can choose to switch Pokémon\nwhen an opponent's Pokémon faints.
+You can choose the way the game sounds.
+
+
+You can choose to save the game\nbefore C-Gear launches infrared.
+You have saved data already.\nYou cannot change this option.\xF000븁\x0000
+Would you like to make these changes?
+YES
+NO

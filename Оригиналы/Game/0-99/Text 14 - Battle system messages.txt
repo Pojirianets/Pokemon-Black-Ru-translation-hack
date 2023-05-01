@@ -1,0 +1,1159 @@
+\xF000Ă\x0001\x0000 fainted!
+The wild \xF000Ă\x0001\x0000 fainted!
+The foe's \xF000Ă\x0001\x0000 fainted!
+\xF000Ă\x0001\x0000 recovered\nfrom fainting!
+The wild \xF000Ă\x0001\x0000 recovered\nfrom fainting!
+The foe's \xF000Ă\x0001\x0000 recovered\nfrom fainting!
+It's super effective on\n\xF000Ă\x0001\x0000!
+It's super effective on\nthe wild \xF000Ă\x0001\x0000!
+It's super effective on\nthe foe's \xF000Ă\x0001\x0000!
+It's super effective on\n\xF000Ă\x0001\x0000 and \xF000Ă\x0001\x0001!
+It's super effective on the wild\n\xF000Ă\x0001\x0000 and \xF000Ă\x0001\x0001!
+It's super effective on\nthe foe's \xF000Ă\x0001\x0000 and \xF000Ă\x0001\x0001!
+It's super effective on \xF000Ă\x0001\x0000,\n\xF000Ă\x0001\x0001, and \xF000Ă\x0001\x0002!
+It's super effective on the wild\n\xF000Ă\x0001\x0000, \xF000Ă\x0001\x0001, and \xF000Ă\x0001\x0002!
+It's super effective on the foe's\n\xF000Ă\x0001\x0000, \xF000Ă\x0001\x0001, and \xF000Ă\x0001\x0002!
+It's not very effective on \xF000Ă\x0001\x0000.
+It's not very effective on\nthe wild \xF000Ă\x0001\x0000.
+It's not very effective on\nthe foe's \xF000Ă\x0001\x0000.
+It's not very effective on\n\xF000Ă\x0001\x0000 or \xF000Ă\x0001\x0001.
+It's not very effective on the wild\n\xF000Ă\x0001\x0000 or \xF000Ă\x0001\x0001.
+It's not very effective on the foe's\n\xF000Ă\x0001\x0000 or \xF000Ă\x0001\x0001.
+It's not very effective on \xF000Ă\x0001\x0000,\n\xF000Ă\x0001\x0001, or \xF000Ă\x0001\x0002!
+It's not very effective on the wild\n\xF000Ă\x0001\x0000, \xF000Ă\x0001\x0001, or \xF000Ă\x0001\x0002!
+It's not very effective on the foe's\n\xF000Ă\x0001\x0000, \xF000Ă\x0001\x0001, or \xF000Ă\x0001\x0002!
+But it failed to affect\n\xF000Ă\x0001\x0000!
+But it failed to affect\nthe wild \xF000Ă\x0001\x0000!
+But it failed to affect\nthe foe's \xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0000's Attack\nrose!
+The wild \xF000Ă\x0001\x0000's Attack\nrose!
+The foe's \xF000Ă\x0001\x0000's Attack\nrose!
+\xF000Ă\x0001\x0000's Defense\nrose!
+The wild \xF000Ă\x0001\x0000's Defense\nrose!
+The foe's \xF000Ă\x0001\x0000's Defense\nrose!
+\xF000Ă\x0001\x0000's Special Attack\nrose!
+The wild \xF000Ă\x0001\x0000's Special Attack\nrose!
+The foe's \xF000Ă\x0001\x0000's Special Attack\nrose!
+\xF000Ă\x0001\x0000's Special Defense\nrose!
+The wild \xF000Ă\x0001\x0000's Special Defense\nrose!
+The foe's \xF000Ă\x0001\x0000's Special Defense\nrose!
+\xF000Ă\x0001\x0000's Speed\nrose!
+The wild \xF000Ă\x0001\x0000's Speed\nrose!
+The foe's \xF000Ă\x0001\x0000's Speed\nrose!
+\xF000Ă\x0001\x0000's accuracy\nrose!
+The wild \xF000Ă\x0001\x0000's accuracy\nrose!
+The foe's \xF000Ă\x0001\x0000's accuracy\nrose!
+\xF000Ă\x0001\x0000's evasiveness\nrose!
+The wild \xF000Ă\x0001\x0000's evasiveness\nrose!
+The foe's \xF000Ă\x0001\x0000's evasiveness\nrose!
+\xF000Ă\x0001\x0000's Attack\nrose sharply!
+The wild \xF000Ă\x0001\x0000's Attack\nrose sharply!
+The foe's \xF000Ă\x0001\x0000's Attack\nrose sharply!
+\xF000Ă\x0001\x0000's Defense\nrose sharply!
+The wild \xF000Ă\x0001\x0000's Defense\nrose sharply!
+The foe's \xF000Ă\x0001\x0000's Defense\nrose sharply!
+\xF000Ă\x0001\x0000's Special Attack\nrose sharply!
+The wild \xF000Ă\x0001\x0000's Special Attack\nrose sharply!
+The foe's \xF000Ă\x0001\x0000's Special Attack\nrose sharply!
+\xF000Ă\x0001\x0000's Special Defense\nrose sharply!
+The wild \xF000Ă\x0001\x0000's Special Defense\nrose sharply!
+The foe's \xF000Ă\x0001\x0000's Special Defense\nrose sharply!
+\xF000Ă\x0001\x0000's Speed\nrose sharply!
+The wild \xF000Ă\x0001\x0000's Speed\nrose sharply!
+The foe's \xF000Ă\x0001\x0000's Speed\nrose sharply!
+\xF000Ă\x0001\x0000's accuracy\nrose sharply!
+The wild \xF000Ă\x0001\x0000's accuracy\nrose sharply!
+The foe's \xF000Ă\x0001\x0000's accuracy\nrose sharply!
+\xF000Ă\x0001\x0000's evasiveness\nrose sharply!
+The wild \xF000Ă\x0001\x0000's evasiveness\nrose sharply!
+The foe's \xF000Ă\x0001\x0000's evasiveness\nrose sharply!
+\xF000Ă\x0001\x0000's Attack\nrose drastically!
+The wild \xF000Ă\x0001\x0000's Attack\nrose drastically!
+The foe's \xF000Ă\x0001\x0000's Attack\nrose drastically!
+\xF000Ă\x0001\x0000's Defense\nrose drastically!
+The wild \xF000Ă\x0001\x0000's Defense\nrose drastically!
+The foe's \xF000Ă\x0001\x0000's Defense\nrose drastically!
+\xF000Ă\x0001\x0000's Special Attack\nrose drastically!
+The wild \xF000Ă\x0001\x0000's Special Attack\nrose drastically!
+The foe's \xF000Ă\x0001\x0000's Special Attack\nrose drastically!
+\xF000Ă\x0001\x0000's Special Defense\nrose drastically!
+The wild \xF000Ă\x0001\x0000's Special Defense\nrose drastically!
+The foe's \xF000Ă\x0001\x0000's Special Defense\nrose drastically!
+\xF000Ă\x0001\x0000's Speed\nrose drastically!
+The wild \xF000Ă\x0001\x0000's Speed\nrose drastically!
+The foe's \xF000Ă\x0001\x0000's Speed\nrose drastically!
+\xF000Ă\x0001\x0000's accuracy\nrose drastically!
+The wild \xF000Ă\x0001\x0000's accuracy\nrose drastically!
+The foe's \xF000Ă\x0001\x0000's accuracy\nrose drastically!
+\xF000Ă\x0001\x0000's evasiveness\nrose drastically!
+The wild \xF000Ă\x0001\x0000's evasiveness\nrose drastically!
+The foe's \xF000Ă\x0001\x0000's evasiveness\nrose drastically!
+\xF000Ă\x0001\x0000's Attack\nfell!
+The wild \xF000Ă\x0001\x0000's Attack\nfell!
+The foe's \xF000Ă\x0001\x0000's Attack\nfell!
+\xF000Ă\x0001\x0000's Defense\nfell!
+The wild \xF000Ă\x0001\x0000's Defense\nfell!
+The foe's \xF000Ă\x0001\x0000's Defense\nfell!
+\xF000Ă\x0001\x0000's Special Attack\nfell!
+The wild \xF000Ă\x0001\x0000's Special Attack\nfell!
+The foe's \xF000Ă\x0001\x0000's Special Attack\nfell!
+\xF000Ă\x0001\x0000's Special Defense\nfell!
+The wild \xF000Ă\x0001\x0000's Special Defense\nfell!
+The foe's \xF000Ă\x0001\x0000's Special Defense\nfell!
+\xF000Ă\x0001\x0000's Speed\nfell!
+The wild \xF000Ă\x0001\x0000's Speed\nfell!
+The foe's \xF000Ă\x0001\x0000's Speed\nfell!
+\xF000Ă\x0001\x0000's accuracy\nfell!
+The wild \xF000Ă\x0001\x0000's accuracy\nfell!
+The foe's \xF000Ă\x0001\x0000's accuracy\nfell!
+\xF000Ă\x0001\x0000's evasiveness\nfell!
+The wild \xF000Ă\x0001\x0000's evasiveness\nfell!
+The foe's \xF000Ă\x0001\x0000's evasiveness\nfell!
+\xF000Ă\x0001\x0000's Attack\nharshly fell!
+The wild \xF000Ă\x0001\x0000's Attack\nharshly fell!
+The foe's \xF000Ă\x0001\x0000's Attack\nharshly fell!
+\xF000Ă\x0001\x0000's Defense\nharshly fell!
+The wild \xF000Ă\x0001\x0000's Defense\nharshly fell!
+The foe's \xF000Ă\x0001\x0000's Defense\nharshly fell!
+\xF000Ă\x0001\x0000's Special Attack\nharshly fell!
+The wild \xF000Ă\x0001\x0000's Special Attack\nharshly fell!
+The foe's \xF000Ă\x0001\x0000's Special Attack\nharshly fell!
+\xF000Ă\x0001\x0000's Special Defense\nharshly fell!
+The wild \xF000Ă\x0001\x0000's Special Defense\nharshly fell!
+The foe's \xF000Ă\x0001\x0000's Special Defense\nharshly fell!
+\xF000Ă\x0001\x0000's Speed\nharshly fell!
+The wild \xF000Ă\x0001\x0000's Speed\nharshly fell!
+The foe's \xF000Ă\x0001\x0000's Speed\nharshly fell!
+\xF000Ă\x0001\x0000's accuracy\nharshly fell!
+The wild \xF000Ă\x0001\x0000's accuracy\nharshly fell!
+The foe's \xF000Ă\x0001\x0000's accuracy\nharshly fell!
+\xF000Ă\x0001\x0000's evasiveness\nharshly fell!
+The wild \xF000Ă\x0001\x0000's evasiveness\nharshly fell!
+The foe's \xF000Ă\x0001\x0000's evasiveness\nharshly fell!
+\xF000Ă\x0001\x0000's Attack\nseverely fell!
+The wild \xF000Ă\x0001\x0000's Attack\nseverely fell!
+The foe's \xF000Ă\x0001\x0000's Attack\nseverely fell!
+\xF000Ă\x0001\x0000's Defense\nseverely fell!
+The wild \xF000Ă\x0001\x0000's Defense\nseverely fell!
+The foe's \xF000Ă\x0001\x0000's Defense\nseverely fell!
+\xF000Ă\x0001\x0000's Special Attack\nseverely fell!
+The wild \xF000Ă\x0001\x0000's Special Attack\nseverely fell!
+The foe's \xF000Ă\x0001\x0000's Special Attack\nseverely fell!
+\xF000Ă\x0001\x0000's Special Defense\nseverely fell!
+The wild \xF000Ă\x0001\x0000's Special Defense\nseverely fell!
+The foe's \xF000Ă\x0001\x0000's Special Defense\nseverely fell!
+\xF000Ă\x0001\x0000's Speed\nseverely fell!
+The wild \xF000Ă\x0001\x0000's Speed\nseverely fell!
+The foe's \xF000Ă\x0001\x0000's Speed\nseverely fell!
+\xF000Ă\x0001\x0000's accuracy\nseverely fell!
+The wild \xF000Ă\x0001\x0000's accuracy\nseverely fell!
+The foe's \xF000Ă\x0001\x0000's accuracy\nseverely fell!
+\xF000Ă\x0001\x0000's evasiveness\nseverely fell!
+The wild \xF000Ă\x0001\x0000's evasiveness\nseverely fell!
+The foe's \xF000Ă\x0001\x0000's evasiveness\nseverely fell!
+\xF000Ă\x0001\x0000's Attack won't\ngo any higher!
+The wild \xF000Ă\x0001\x0000's Attack\nwon't go any higher!
+The foe's \xF000Ă\x0001\x0000's Attack\nwon't go any higher!
+\xF000Ă\x0001\x0000's Defense won't\ngo any higher!
+The wild \xF000Ă\x0001\x0000's Defense\nwon't go any higher!
+The foe's \xF000Ă\x0001\x0000's Defense\nwon't go any higher!
+\xF000Ă\x0001\x0000's Special Attack won't\ngo any higher!
+The wild \xF000Ă\x0001\x0000's Special Attack\nwon't go any higher!
+The foe's \xF000Ă\x0001\x0000's Special Attack\nwon't go any higher!
+\xF000Ă\x0001\x0000's Special Defense won't\ngo any higher!
+The wild \xF000Ă\x0001\x0000's Special Defense\nwon't go any higher!
+The foe's \xF000Ă\x0001\x0000's Special Defense\nwon't go any higher!
+\xF000Ă\x0001\x0000's Speed won't\ngo any higher!
+The wild \xF000Ă\x0001\x0000's Speed\nwon't go any higher!
+The foe's \xF000Ă\x0001\x0000's Speed\nwon't go any higher!
+\xF000Ă\x0001\x0000's accuracy won't\ngo any higher!
+The wild \xF000Ă\x0001\x0000's accuracy\nwon't go any higher!
+The foe's \xF000Ă\x0001\x0000's accuracy\nwon't go any higher!
+\xF000Ă\x0001\x0000's evasiveness won't\ngo any higher!
+The wild \xF000Ă\x0001\x0000's evasiveness\nwon't go any higher!
+The foe's \xF000Ă\x0001\x0000's evasiveness\nwon't go any higher!
+\xF000Ă\x0001\x0000's Attack won't\ngo any lower!
+The wild \xF000Ă\x0001\x0000's Attack\nwon't go any lower!
+The foe's \xF000Ă\x0001\x0000's Attack\nwon't go any lower!
+\xF000Ă\x0001\x0000's Defense won't\ngo any lower!
+The wild \xF000Ă\x0001\x0000's Defense\nwon't go any lower!
+The foe's \xF000Ă\x0001\x0000's Defense\nwon't go any lower!
+\xF000Ă\x0001\x0000's Special Attack won't\ngo any lower!
+The wild \xF000Ă\x0001\x0000's Special Attack\nwon't go any lower!
+The foe's \xF000Ă\x0001\x0000's Special Attack\nwon't go any lower!
+\xF000Ă\x0001\x0000's Special Defense won't\ngo any lower!
+The wild \xF000Ă\x0001\x0000's Special Defense\nwon't go any lower!
+The foe's \xF000Ă\x0001\x0000's Special Defense\nwon't go any lower!
+\xF000Ă\x0001\x0000's Speed won't\ngo any lower!
+The wild \xF000Ă\x0001\x0000's Speed\nwon't go any lower!
+The foe's \xF000Ă\x0001\x0000's Speed\nwon't go any lower!
+\xF000Ă\x0001\x0000's accuracy won't\ngo any lower!
+The wild \xF000Ă\x0001\x0000's accuracy\nwon't go any lower!
+The foe's \xF000Ă\x0001\x0000's accuracy\nwon't go any lower!
+\xF000Ă\x0001\x0000's evasiveness won't\ngo any lower!
+The wild \xF000Ă\x0001\x0000's evasiveness\nwon't go any lower!
+The foe's \xF000Ă\x0001\x0000's evasiveness\nwon't go any lower!
+\xF000Ă\x0001\x0000's stat changes\nwere removed!
+The wild \xF000Ă\x0001\x0000's stat changes\nwere removed!
+The foe's \xF000Ă\x0001\x0000's stat changes\nwere removed!
+\xF000Ă\x0001\x0000's stats\nwere not lowered!
+The wild \xF000Ă\x0001\x0000's stats\nwere not lowered!
+The foe's \xF000Ă\x0001\x0000's stats\nwere not lowered!
+\xF000Ă\x0001\x0000's Attack\nwas not lowered!
+The wild \xF000Ă\x0001\x0000's Attack\nwas not lowered!
+The foe's \xF000Ă\x0001\x0000's Attack\nwas not lowered!
+\xF000Ă\x0001\x0000's Defense\nwas not lowered!
+The wild \xF000Ă\x0001\x0000's Defense\nwas not lowered!
+The foe's \xF000Ă\x0001\x0000's Defense\nwas not lowered!
+\xF000Ă\x0001\x0000's accuracy\nwas not lowered!
+The wild \xF000Ă\x0001\x0000's accuracy\nwas not lowered!
+The foe's \xF000Ă\x0001\x0000's accuracy\nwas not lowered!
+It doesn't affect\n\xF000Ă\x0001\x0000...
+It doesn't affect\nthe wild \xF000Ă\x0001\x0000...
+It doesn't affect\nthe foe's \xF000Ă\x0001\x0000...
+\xF000Ă\x0001\x0000 avoided\nthe attack!
+The wild \xF000Ă\x0001\x0000 avoided\nthe attack!
+The foe's \xF000Ă\x0001\x0000 avoided\nthe attack!
+\xF000Ă\x0001\x0000 is\nunaffected!
+The wild \xF000Ă\x0001\x0000 is\nunaffected!
+The foe's \xF000Ă\x0001\x0000 is\nunaffected!
+The \xF000ĉ\x0001\x0001 weakened the damage\nto \xF000Ă\x0001\x0000!
+The \xF000ĉ\x0001\x0001 weakened the damage\nto the wild \xF000Ă\x0001\x0000!
+The \xF000ĉ\x0001\x0001 weakened the damage\nto the foe's \xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0000 transformed!
+The wild \xF000Ă\x0001\x0000\ntransformed!
+The foe's \xF000Ă\x0001\x0000\ntransformed!
+\xF000Ă\x0001\x0000 dropped\nits \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 dropped\nits \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 dropped\nits \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000's status\nwas restored!
+The wild \xF000Ă\x0001\x0000's status\nwas restored!
+The foe's \xF000Ă\x0001\x0000's status\nwas restored!
+\xF000Ă\x0001\x0000 moved\nto the center!
+The wild \xF000Ă\x0001\x0000 moved\nto the center!
+The foe's \xF000Ă\x0001\x0000 moved\nto the center!
+\xF000Ă\x0001\x0000\nwas poisoned!
+The wild \xF000Ă\x0001\x0000\nwas poisoned!
+The foe's \xF000Ă\x0001\x0000\nwas poisoned!
+\xF000Ă\x0001\x0000 was badly\npoisoned!
+The wild \xF000Ă\x0001\x0000 was badly\npoisoned!
+The foe's \xF000Ă\x0001\x0000 was badly\npoisoned!
+\xF000Ă\x0001\x0000 was badly\npoisoned by the \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 was badly\npoisoned by the \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 was badly\npoisoned by the \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000 was hurt\nby poison!
+The wild \xF000Ă\x0001\x0000 was hurt\nby poison!
+The foe's \xF000Ă\x0001\x0000 was hurt\nby poison!
+\xF000Ă\x0001\x0000 was cured of its\npoisoning.
+\xF000Ă\x0001\x0000 was cured of its\npoisoning.
+\xF000Ă\x0001\x0000 was cured of its\npoisoning.
+\xF000Ă\x0001\x0000 is already\npoisoned.
+The wild \xF000Ă\x0001\x0000 is already\npoisoned.
+The foe's \xF000Ă\x0001\x0000 is already\npoisoned.
+\xF000Ă\x0001\x0000 cannot\nbe poisoned!
+The wild \xF000Ă\x0001\x0000 cannot\nbe poisoned!
+The foe's \xF000Ă\x0001\x0000 cannot\nbe poisoned!
+\xF000Ă\x0001\x0000 was burned!
+The wild \xF000Ă\x0001\x0000\nwas burned!
+The foe's \xF000Ă\x0001\x0000\nwas burned!
+\xF000Ă\x0001\x0000 was burned by \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000\nwas burned by \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000\nwas burned by \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000 was hurt\nby its burn!
+The wild \xF000Ă\x0001\x0000 was hurt\nby its burn!
+The foe's \xF000Ă\x0001\x0000 was hurt\nby its burn!
+\xF000Ă\x0001\x0000's burn was healed.
+The wild \xF000Ă\x0001\x0000 healed its burn!
+The foe's \xF000Ă\x0001\x0000 healed its burn!
+\xF000Ă\x0001\x0000 already\nhas a burn.
+The wild \xF000Ă\x0001\x0000 already\nhas a burn.
+The foe's \xF000Ă\x0001\x0000 already\nhas a burn.
+\xF000Ă\x0001\x0000 cannot\nbe burned!
+The wild \xF000Ă\x0001\x0000 cannot\nbe burned!
+The foe's \xF000Ă\x0001\x0000 cannot\nbe burned!
+\xF000Ă\x0001\x0000 is paralyzed!\nIt may be unable to move!
+The wild \xF000Ă\x0001\x0000 is paralyzed!\nIt may be unable to move!
+The foe's \xF000Ă\x0001\x0000 is paralyzed!\nIt may be unable to move!
+\xF000Ă\x0001\x0000 is paralyzed!\nIt can't move!
+The wild \xF000Ă\x0001\x0000 is paralyzed!\nIt can't move!
+The foe's \xF000Ă\x0001\x0000 is paralyzed!\nIt can't move!
+\xF000Ă\x0001\x0000 was cured of\nparalysis.
+The wild \xF000Ă\x0001\x0000 was cured of\nparalysis.
+The foe's \xF000Ă\x0001\x0000 was cured of\nparalysis.
+\xF000Ă\x0001\x0000 is\nalready paralyzed!
+The wild \xF000Ă\x0001\x0000 is\nalready paralyzed!
+The foe's \xF000Ă\x0001\x0000 is\nalready paralyzed!
+\xF000Ă\x0001\x0000 cannot\nbe paralyzed!
+The wild \xF000Ă\x0001\x0000 cannot\nbe paralyzed!
+The foe's \xF000Ă\x0001\x0000 cannot\nbe paralyzed!
+\xF000Ă\x0001\x0000 was\nfrozen solid!
+The wild \xF000Ă\x0001\x0000 was\nfrozen solid!
+The foe's \xF000Ă\x0001\x0000 was\nfrozen solid!
+\xF000Ă\x0001\x0000 is\nfrozen solid!
+The wild \xF000Ă\x0001\x0000 is\nfrozen solid!
+The foe's \xF000Ă\x0001\x0000 is\nfrozen solid!
+\xF000Ă\x0001\x0000 thawed out!
+The wild \xF000Ă\x0001\x0000 thawed out!
+The foe's \xF000Ă\x0001\x0000 thawed out!
+\xF000Ă\x0001\x0000 is\nalready frozen solid!
+The wild \xF000Ă\x0001\x0000 is\nalready frozen solid!
+The foe's \xF000Ă\x0001\x0000 is\nalready frozen solid!
+\xF000Ă\x0001\x0000 cannot be\nfrozen solid!
+The wild \xF000Ă\x0001\x0000 cannot be\nfrozen solid!
+The foe's \xF000Ă\x0001\x0000 cannot be\nfrozen solid!
+\xF000Ă\x0001\x0000's \xF000ć\x0001\x0001\nmelted the ice!
+The wild \xF000Ă\x0001\x0000's \xF000ć\x0001\x0001\nmelted the ice!
+The foe's \xF000Ă\x0001\x0000's \xF000ć\x0001\x0001\nmelted the ice!
+\xF000Ă\x0001\x0000\nfell asleep!
+The wild \xF000Ă\x0001\x0000\nfell asleep!
+The foe's \xF000Ă\x0001\x0000\nfell asleep!
+\xF000Ă\x0001\x0000 is fast\nasleep.
+The wild \xF000Ă\x0001\x0000 is fast\nasleep.
+The foe's \xF000Ă\x0001\x0000 is fast\nasleep.
+\xF000Ă\x0001\x0000 woke up!
+The wild \xF000Ă\x0001\x0000\nwoke up!
+The foe's \xF000Ă\x0001\x0000\nwoke up!
+\xF000Ă\x0001\x0000 is\nalready asleep!
+The wild \xF000Ă\x0001\x0000 is\nalready asleep!
+The foe's \xF000Ă\x0001\x0000 is\nalready asleep!
+\xF000Ă\x0001\x0000 stays awake!
+The wild \xF000Ă\x0001\x0000 stays awake!
+The foe's \xF000Ă\x0001\x0000 stays awake!
+\xF000Ă\x0001\x0000 began having\na nightmare!
+The wild \xF000Ă\x0001\x0000 began\nhaving a nightmare!
+The foe's \xF000Ă\x0001\x0000 began\nhaving a nightmare!
+\xF000Ă\x0001\x0000 is locked\nin a nightmare!
+The wild \xF000Ă\x0001\x0000 is locked\nin a nightmare!
+The foe's \xF000Ă\x0001\x0000 is locked\nin a nightmare!
+\xF000Ă\x0001\x0000\nfell in love!
+The wild \xF000Ă\x0001\x0000\nfell in love!
+The foe's \xF000Ă\x0001\x0000\nfell in love!
+\xF000Ă\x0001\x0000\nfell in love from the \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000\nfell in love from the \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000\nfell in love from the \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000 is in love\nwith \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 is in love\nwith \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 is in love\nwith \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 is\nimmobilized by love!
+The wild \xF000Ă\x0001\x0000 is\nimmobilized by love!
+The foe's \xF000Ă\x0001\x0000 is\nimmobilized by love!
+\xF000Ă\x0001\x0000 got over its\ninfatuation.
+The wild \xF000Ă\x0001\x0000 got over its\ninfatuation.
+The foe's \xF000Ă\x0001\x0000 got over its\ninfatuation.
+\xF000Ă\x0001\x0000's status\nis returned to normal!
+The wild \xF000Ă\x0001\x0000's status\nis returned to normal!
+The foe's \xF000Ă\x0001\x0000's status\nis returned to normal!
+\xF000Ă\x0001\x0000 became\nconfused!
+The wild \xF000Ă\x0001\x0000 became\nconfused!
+The foe's \xF000Ă\x0001\x0000 became\nconfused!
+\xF000Ă\x0001\x0000 is\nconfused!
+The wild \xF000Ă\x0001\x0000 is\nconfused!
+The foe's \xF000Ă\x0001\x0000 is\nconfused!
+\xF000Ă\x0001\x0000 snapped out of its\nconfusion.
+The wild \xF000Ă\x0001\x0000 snapped\nout of confusion!
+The foe's \xF000Ă\x0001\x0000 snapped\nout of confusion!
+\xF000Ă\x0001\x0000 is\nalready confused!
+The wild \xF000Ă\x0001\x0000 is\nalready confused!
+The foe's \xF000Ă\x0001\x0000 is\nalready confused!
+\xF000Ă\x0001\x0000 doesn't\nbecome confused!
+The wild \xF000Ă\x0001\x0000 doesn't\nbecome confused!
+The foe's \xF000Ă\x0001\x0000 doesn't\nbecome confused!
+\xF000Ă\x0001\x0000 became\nconfused due to fatigue!
+The wild \xF000Ă\x0001\x0000 became\nconfused due to fatigue!
+The foe's \xF000Ă\x0001\x0000 became\nconfused due to fatigue!
+\xF000Ă\x0001\x0000 flinched\nand couldn't move!
+The wild \xF000Ă\x0001\x0000 flinched\nand couldn't move!
+The foe's \xF000Ă\x0001\x0000 flinched\nand couldn't move!
+\xF000Ă\x0001\x0000 lost its\nfocus and couldn't move!
+The wild \xF000Ă\x0001\x0000 lost its\nfocus and couldn't move!
+The foe's \xF000Ă\x0001\x0000 lost its\nfocus and couldn't move!
+\xF000Ă\x0001\x0000 was identified!
+The wild \xF000Ă\x0001\x0000 was identified!
+The foe's \xF000Ă\x0001\x0000 was identified!
+\xF000Ă\x0001\x0000 is hurt\nby \xF000ć\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 is hurt\nby \xF000ć\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 is hurt\nby \xF000ć\x0001\x0001!
+\xF000Ă\x0001\x0000 was freed\nfrom \xF000ć\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 was freed\nfrom \xF000ć\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 was freed\nfrom \xF000ć\x0001\x0001!
+\xF000Ă\x0001\x0000 is damaged\nby recoil!
+The wild \xF000Ă\x0001\x0000 is damaged\nby recoil!
+The foe's \xF000Ă\x0001\x0000 is damaged\nby recoil!
+It traced\n\xF000Ă\x0001\x0000's \xF000Ć\x0001\x0001!
+It traced the wild\n\xF000Ă\x0001\x0000's \xF000Ć\x0001\x0001!
+It traced the foe's\n\xF000Ă\x0001\x0000's \xF000Ć\x0001\x0001!
+A critical hit on \xF000Ă\x0001\x0000!
+A critical hit on the wild \xF000Ă\x0001\x0000!
+A critical hit on the foe's \xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0000's HP was restored.
+The wild \xF000Ă\x0001\x0000 had its HP restored.
+The foe's \xF000Ă\x0001\x0000 had its HP restored.
+\xF000Ă\x0001\x0000 restored\n\xF000ć\x0001\x0001's PP!
+The wild \xF000Ă\x0001\x0000 restored\n\xF000ć\x0001\x0001's PP!
+The foe's \xF000Ă\x0001\x0000 restored\n\xF000ć\x0001\x0001's PP!
+\xF000Ă\x0001\x0000 restored all its\nmoves' PP!
+The wild \xF000Ă\x0001\x0000 restored all its\nmoves' PP!
+The foe's \xF000Ă\x0001\x0000 restored all its\nmoves' PP!
+\xF000Ă\x0001\x0000 is buffeted\nby the sandstorm!
+The wild \xF000Ă\x0001\x0000 is buffeted\nby the sandstorm!
+The foe's \xF000Ă\x0001\x0000 is buffeted\nby the sandstorm!
+\xF000Ă\x0001\x0000 is buffeted\nby the hail!
+The wild \xF000Ă\x0001\x0000 is buffeted\nby the hail!
+The foe's \xF000Ă\x0001\x0000 is buffeted\nby the hail!
+\xF000Ă\x0001\x0000\nis hurt!
+The wild \xF000Ă\x0001\x0000\nis hurt!
+The foe's \xF000Ă\x0001\x0000\nis hurt!
+\xF000Ă\x0001\x0000 acquired\n\xF000Ć\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 acquired\n\xF000Ć\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 acquired\n\xF000Ć\x0001\x0001!
+\xF000Ă\x0001\x0000 floats in the air\nwith its Air Balloon!
+The wild \xF000Ă\x0001\x0000 floats in the air\nwith its Air Balloon!
+The foe's \xF000Ă\x0001\x0000 floats in the air\nwith its Air Balloon!
+\xF000Ă\x0001\x0000's Air Balloon\npopped!
+The wild \xF000Ă\x0001\x0000's Air Balloon\npopped!
+The foe's \xF000Ă\x0001\x0000's Air Balloon\npopped!
+\xF000Ă\x0001\x0000 is switched out\nwith the Eject Button!
+The wild \xF000Ă\x0001\x0000 is switched out\nwith the Eject Button!
+The foe's \xF000Ă\x0001\x0000 is switched out\nwith the Eject Button!
+\xF000Ă\x0001\x0000 held up its Red Card\nagainst \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 held up its Red Card\nagainst the wild \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 held up its Red Card\nagainst the foe's \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 held up its Red Card\nagainst \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 held up its Red Card\nagainst the wild \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 held up its Red Card\nagainst \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 held up its Red Card\nagainst the foe's \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 was hurt\nby the Rocky Helmet!
+The wild \xF000Ă\x0001\x0000 was hurt\nby the Rocky Helmet!
+The foe's \xF000Ă\x0001\x0000 was hurt\nby the Rocky Helmet!
+The power of \xF000Ă\x0001\x0000's\nFire-type moves rose!
+The power of the wild \xF000Ă\x0001\x0000's\nFire-type moves rose!
+The power of the foe's \xF000Ă\x0001\x0000's\nFire-type moves rose!
+\xF000Ă\x0001\x0000\nwas hurt!
+The wild \xF000Ă\x0001\x0000\nwas hurt!
+The foe's \xF000Ă\x0001\x0000\nwas hurt!
+It was alerted to \xF000Ă\x0001\x0000's\n\xF000ć\x0001\x0001!
+It was alerted to the wild \xF000Ă\x0001\x0000's\n\xF000ć\x0001\x0001!
+It was alerted to the foe's \xF000Ă\x0001\x0000's\n\xF000ć\x0001\x0001!
+\xF000Ă\x0001\x0000\nshuddered!
+The wild \xF000Ă\x0001\x0000\nshuddered!
+The foe's \xF000Ă\x0001\x0000\nshuddered!
+\xF000Ă\x0001\x0000 frisked its\ntarget and found one \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 frisked its\ntarget and found one \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 frisked its\ntarget and found one \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000\nbreaks the mold!
+The wild \xF000Ă\x0001\x0000\nbreaks the mold!
+The foe's \xF000Ă\x0001\x0000\nbreaks the mold!
+\xF000Ă\x0001\x0000 is\nloafing around!
+The wild \xF000Ă\x0001\x0000 is\nloafing around!
+The foe's \xF000Ă\x0001\x0000 is\nloafing around!
+\xF000Ă\x0001\x0000\ntook the attack!
+The wild \xF000Ă\x0001\x0000\ntook the attack!
+The foe's \xF000Ă\x0001\x0000\ntook the attack!
+\xF000Ă\x0001\x0000 stays awake!
+The wild \xF000Ă\x0001\x0000 stays awake!
+The foe's \xF000Ă\x0001\x0000 stays awake!
+\xF000Ă\x0001\x0000 anchors itself!
+The wild \xF000Ă\x0001\x0000 anchors itself!
+The foe's \xF000Ă\x0001\x0000 anchors itself!
+\xF000Ă\x0001\x0000 sucked up the\nliquid ooze!
+The wild \xF000Ă\x0001\x0000 sucked up the\nliquid ooze!
+The foe's \xF000Ă\x0001\x0000 sucked up the\nliquid ooze!
+It stole\n\xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001!
+It stole\nthe wild \xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001!
+It stole\nthe foe's \xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000's Ability\nbecame Mummy!
+The wild \xF000Ă\x0001\x0000's Ability\nbecame Mummy!
+The foe's \xF000Ă\x0001\x0000's Ability\nbecame Mummy!
+It bounced back\n\xF000Ă\x0001\x0000's \xF000ć\x0001\x0001!
+It bounced back\nthe wild \xF000Ă\x0001\x0000's \xF000ć\x0001\x0001!
+It bounced back\nthe foe's \xF000Ă\x0001\x0000's \xF000ć\x0001\x0001!
+\xF000Ă\x0001\x0000 avoids attacks\nby its ally Pokémon!
+The wild \xF000Ă\x0001\x0000 avoids attacks\nby its ally Pokémon!
+The foe's \xF000Ă\x0001\x0000 avoids attacks\nby its ally Pokémon!
+It poisoned \xF000Ă\x0001\x0000!
+It poisoned the wild \xF000Ă\x0001\x0000!
+It poisoned the foe's \xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0000 harvested\none \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 harvested\none \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 harvested\none \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000's\nillusion wore off!
+The wild \xF000Ă\x0001\x0000's\nillusion wore off!
+The foe's \xF000Ă\x0001\x0000's\nillusion wore off!
+\xF000Ă\x0001\x0000\nmaxed its Attack!
+The wild \xF000Ă\x0001\x0000\nmaxed its Attack!
+The foe's \xF000Ă\x0001\x0000\nmaxed its Attack!
+\xF000Ă\x0001\x0000\nis tormented!
+The wild \xF000Ă\x0001\x0000\nis tormented!
+The foe's \xF000Ă\x0001\x0000\nis tormented!
+\xF000Ă\x0001\x0000 is exerting\nits pressure!
+The wild \xF000Ă\x0001\x0000 is exerting\nits pressure!
+The foe's \xF000Ă\x0001\x0000 is exerting\nits pressure!
+\xF000Ă\x0001\x0000 found\none \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 found\none \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 found\none \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000's item\ncannot be stolen!
+The wild \xF000Ă\x0001\x0000's item\ncannot be stolen!
+The foe's \xF000Ă\x0001\x0000's item\ncannot be stolen!
+\xF000Ă\x0001\x0000\ncan't get it going!
+The wild \xF000Ă\x0001\x0000\ncan't get it going!
+The foe's \xF000Ă\x0001\x0000\ncan't get it going!
+\xF000Ă\x0001\x0000 finally got\nits act together!
+The wild \xF000Ă\x0001\x0000 finally got\nits act together!
+The foe's \xF000Ă\x0001\x0000 finally got\nits act together!
+\xF000Ă\x0001\x0000 is radiating\na bursting aura!
+The wild \xF000Ă\x0001\x0000 is radiating\na bursting aura!
+The foe's \xF000Ă\x0001\x0000 is radiating\na bursting aura!
+\xF000Ă\x0001\x0000 is radiating\na blazing aura!
+The wild \xF000Ă\x0001\x0000 is radiating\na blazing aura!
+The foe's \xF000Ă\x0001\x0000 is radiating\na blazing aura!
+\xF000Ă\x0001\x0000 swapped\nAbilities with its target!
+The wild \xF000Ă\x0001\x0000 swapped\nAbilities with its target!
+The foe's \xF000Ă\x0001\x0000 swapped\nAbilities with its target!
+\xF000Ă\x0001\x0000 braced\nitself!
+The wild \xF000Ă\x0001\x0000 braced\nitself!
+The foe's \xF000Ă\x0001\x0000 braced\nitself!
+\xF000Ă\x0001\x0000 endured\nthe hit!
+The wild \xF000Ă\x0001\x0000 endured\nthe hit!
+The foe's \xF000Ă\x0001\x0000 endured\nthe hit!
+\xF000Ă\x0001\x0000 protected\nitself!
+The wild \xF000Ă\x0001\x0000 protected\nitself!
+The foe's \xF000Ă\x0001\x0000 protected\nitself!
+It broke through\n\xF000Ă\x0001\x0000's protection!
+It broke through the wild\n\xF000Ă\x0001\x0000's protection!
+It broke through the foe's\n\xF000Ă\x0001\x0000's protection!
+\xF000Ă\x0001\x0000\nprotected itself!
+The wild \xF000Ă\x0001\x0000\nprotected itself!
+The foe's \xF000Ă\x0001\x0000\nprotected itself!
+\xF000Ă\x0001\x0000 fell for\nthe feint!
+The wild \xF000Ă\x0001\x0000 fell for\nthe feint!
+The foe's \xF000Ă\x0001\x0000 fell for\nthe feint!
+\xF000Ă\x0001\x0000 flew\nup high!
+The wild \xF000Ă\x0001\x0000 flew\nup high!
+The foe's \xF000Ă\x0001\x0000 flew\nup high!
+\xF000Ă\x0001\x0000's rage\nis building!
+The wild \xF000Ă\x0001\x0000's rage\nis building!
+The foe's \xF000Ă\x0001\x0000's rage\nis building!
+\xF000Ă\x0001\x0000 hid\nunderwater!
+The wild \xF000Ă\x0001\x0000 hid\nunderwater!
+The foe's \xF000Ă\x0001\x0000 hid\nunderwater!
+\xF000Ă\x0001\x0000 burrowed\nits way under the ground!
+The wild \xF000Ă\x0001\x0000 burrowed\nits way under the ground!
+The foe's \xF000Ă\x0001\x0000 burrowed\nits way under the ground!
+\xF000Ă\x0001\x0000 vanished\ninstantly!
+The wild \xF000Ă\x0001\x0000 vanished\ninstantly!
+The foe's \xF000Ă\x0001\x0000 vanished\ninstantly!
+\xF000Ă\x0001\x0000 sprang up!
+The wild \xF000Ă\x0001\x0000 sprang up!
+The foe's \xF000Ă\x0001\x0000 sprang up!
+\xF000Ă\x0001\x0000 whipped\nup a whirlwind!
+The wild \xF000Ă\x0001\x0000 whipped\nup a whirlwind!
+The foe's \xF000Ă\x0001\x0000 whipped\nup a whirlwind!
+\xF000Ă\x0001\x0000 became\ncloaked in a harsh light!
+The wild \xF000Ă\x0001\x0000 became\ncloaked in a harsh light!
+The foe's \xF000Ă\x0001\x0000 became\ncloaked in a harsh light!
+\xF000Ă\x0001\x0000 absorbed\nlight!
+The wild \xF000Ă\x0001\x0000 absorbed\nlight!
+The foe's \xF000Ă\x0001\x0000 absorbed\nlight!
+\xF000Ă\x0001\x0000 tucked in\nits head!
+The wild \xF000Ă\x0001\x0000 tucked in\nits head!
+The foe's \xF000Ă\x0001\x0000 tucked in\nits head!
+\xF000Ă\x0001\x0000 received\nan encore!
+The wild \xF000Ă\x0001\x0000 received\nan encore!
+The foe's \xF000Ă\x0001\x0000 received\nan encore!
+\xF000Ă\x0001\x0000's encore\nended!
+The wild \xF000Ă\x0001\x0000's encore\nended!
+The foe's \xF000Ă\x0001\x0000's encore\nended!
+\xF000Ă\x0001\x0000's Ability\nwas suppressed!
+The wild \xF000Ă\x0001\x0000's Ability\nwas suppressed!
+The foe's \xF000Ă\x0001\x0000's Ability\nwas suppressed!
+\xF000Ă\x0001\x0000 fell for\nthe taunt!
+The wild \xF000Ă\x0001\x0000 fell for\nthe taunt!
+The foe's \xF000Ă\x0001\x0000 fell for\nthe taunt!
+\xF000Ă\x0001\x0000 can't use\n\xF000ć\x0001\x0001 after the taunt!
+The wild \xF000Ă\x0001\x0000 can't use\n\xF000ć\x0001\x0001 after the taunt!
+The foe's \xF000Ă\x0001\x0000 can't use\n\xF000ć\x0001\x0001 after the taunt!
+\xF000Ă\x0001\x0000's taunt\nwore off!
+The wild \xF000Ă\x0001\x0000's taunt\nwore off!
+The foe's \xF000Ă\x0001\x0000's taunt\nwore off!
+\xF000Ă\x0001\x0000 was subjected\nto torment!
+The wild \xF000Ă\x0001\x0000 was subjected\nto torment!
+The foe's \xF000Ă\x0001\x0000 was subjected\nto torment!
+\xF000Ă\x0001\x0000 can't use the same move\ntwice in a row due to the torment!
+The wild \xF000Ă\x0001\x0000 can't use the same move\ntwice in a row due to the torment!
+The foe's \xF000Ă\x0001\x0000 can't use the\nsame move twice in a row due to the torment!
+\xF000Ă\x0001\x0000's torment\nwore off!
+The wild \xF000Ă\x0001\x0000's torment\nwore off!
+The foe's \xF000Ă\x0001\x0000's torment\nwore off!
+\xF000Ă\x0001\x0000 sealed the\nopponent's move(s)!
+The wild \xF000Ă\x0001\x0000 sealed the\nopponent's move(s)!
+The foe's \xF000Ă\x0001\x0000 sealed the\nopponent's move(s)!
+\xF000Ă\x0001\x0000 can't use\nthe sealed \xF000ć\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 can't use\nthe sealed \xF000ć\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 can't use\nthe sealed \xF000ć\x0001\x0001!
+\xF000Ă\x0001\x0000's \xF000ć\x0001\x0001\nwas disabled!
+The wild \xF000Ă\x0001\x0000's\n\xF000ć\x0001\x0001 was disabled!
+The foe's \xF000Ă\x0001\x0000's\n\xF000ć\x0001\x0001 was disabled!
+\xF000Ă\x0001\x0000's \xF000ć\x0001\x0001\nis disabled!
+The wild \xF000Ă\x0001\x0000's\n\xF000ć\x0001\x0001 is disabled!
+The foe's \xF000Ă\x0001\x0000's\n\xF000ć\x0001\x0001 is disabled!
+\xF000Ă\x0001\x0000 is no\nlonger disabled!
+The wild \xF000Ă\x0001\x0000 is no\nlonger disabled!
+The foe's \xF000Ă\x0001\x0000 is no\nlonger disabled!
+\xF000Ă\x0001\x0000 surrounded\nitself with a veil of water!
+The wild \xF000Ă\x0001\x0000 surrounded\nitself with a veil of water!
+The foe's \xF000Ă\x0001\x0000 surrounded\nitself with a veil of water!
+Aqua Ring restored\n\xF000Ă\x0001\x0000's HP!
+Aqua Ring restored\nthe wild \xF000Ă\x0001\x0000's HP!
+Aqua Ring restored\nthe foe's \xF000Ă\x0001\x0000's HP!
+\xF000Ă\x0001\x0000 was seeded!
+The wild \xF000Ă\x0001\x0000\nwas seeded!
+The foe's \xF000Ă\x0001\x0000\nwas seeded!
+\xF000Ă\x0001\x0000's health is\nsapped by Leech Seed!
+The wild \xF000Ă\x0001\x0000's health is\nsapped by Leech Seed!
+The foe's \xF000Ă\x0001\x0000's health is\nsapped by Leech Seed!
+\xF000Ă\x0001\x0000 cut its own HP\nand maximized its Attack!
+The wild \xF000Ă\x0001\x0000 cut its own HP\nand maximized its Attack!
+The foe's \xF000Ă\x0001\x0000 cut its own HP\nand maximized its Attack!
+\xF000Ă\x0001\x0000 is tightening\nits focus!
+The wild \xF000Ă\x0001\x0000 is tightening\nits focus!
+The foe's \xF000Ă\x0001\x0000 is tightening\nits focus!
+\xF000Ă\x0001\x0000 copied\n\xF000Ă\x0001\x0001's \xF000Ć\x0001\x0002!
+\xF000Ă\x0001\x0000 copied the wild\n\xF000Ă\x0001\x0001's \xF000Ć\x0001\x0002!
+\xF000Ă\x0001\x0000 copied the foe's\n\xF000Ă\x0001\x0001's \xF000Ć\x0001\x0002!
+The wild \xF000Ă\x0001\x0000 copied\n\xF000Ă\x0001\x0001's \xF000Ć\x0001\x0002!
+The wild \xF000Ă\x0001\x0000 copied the wild\n\xF000Ă\x0001\x0001's \xF000Ć\x0001\x0002!
+The foe's \xF000Ă\x0001\x0000 copied\n\xF000Ă\x0001\x0001's \xF000Ć\x0001\x0002!
+The foe's \xF000Ă\x0001\x0000 copied the\nfoe's \xF000Ă\x0001\x0001's \xF000Ć\x0001\x0002!
+\xF000Ă\x0001\x0000 is trying\nto take its foe down with it!
+The wild \xF000Ă\x0001\x0000 is trying\nto take its foe down with it!
+The foe's \xF000Ă\x0001\x0000 is trying\nto take its foe down with it!
+\xF000Ă\x0001\x0000 took its attacker\ndown with it!
+The wild \xF000Ă\x0001\x0000 took its attacker\ndown with it!
+The foe's \xF000Ă\x0001\x0000 took its attacker\ndown with it!
+\xF000Ă\x0001\x0000 wants its target\nto bear a grudge!
+The wild \xF000Ă\x0001\x0000 wants its target\nto bear a grudge!
+The foe's \xF000Ă\x0001\x0000 wants its target\nto bear a grudge!
+\xF000Ă\x0001\x0000's\n\xF000ć\x0001\x0001 lost all its PP\xF000븀\x0000\ndue to the grudge!
+The wild \xF000Ă\x0001\x0000's\n\xF000ć\x0001\x0001 lost all its PP\xF000븀\x0000\ndue to the grudge!
+The foe's \xF000Ă\x0001\x0000's\n\xF000ć\x0001\x0001 lost all its PP\xF000븀\x0000\ndue to the grudge!
+\xF000Ă\x0001\x0000 slept and\nbecame healthy!
+The wild \xF000Ă\x0001\x0000 slept and\nbecame healthy!
+The foe's \xF000Ă\x0001\x0000 slept and\nbecame healthy!
+It reduced the PP of \xF000Ă\x0001\x0000's\n\xF000ć\x0001\x0001 by \xF000Ȁ\x0001\x0002!
+It reduced the PP of the wild\n\xF000Ă\x0001\x0000's \xF000ć\x0001\x0001 by \xF000Ȁ\x0001\x0002!
+It reduced the PP of the foe's\n\xF000Ă\x0001\x0000's \xF000ć\x0001\x0001 by \xF000Ȁ\x0001\x0002!
+\xF000Ă\x0001\x0000 transformed\ninto \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 transformed\ninto the wild \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 transformed\ninto the foe's \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 transformed\ninto \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 transformed\ninto the wild \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 transformed\ninto \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 transformed\ninto the foe's \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 took aim at\n\xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 took aim at\nthe wild \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 took aim at\nthe foe's \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 took aim at\n\xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 took aim at\nthe wild \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 took aim at\n\xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 took aim at\nthe foe's \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 levitated\nwith electromagnetism!
+The wild \xF000Ă\x0001\x0000 levitated\nwith electromagnetism!
+The foe's \xF000Ă\x0001\x0000 levitated\nwith electromagnetism!
+\xF000Ă\x0001\x0000's\nelectromagnetism wore off!
+The wild \xF000Ă\x0001\x0000's\nelectromagnetism wore off!
+The electromagnetism of the foe's\n\xF000Ă\x0001\x0000 wore off!
+\xF000Ă\x0001\x0000 began\ncharging power!
+The wild \xF000Ă\x0001\x0000 began\ncharging power!
+The foe's \xF000Ă\x0001\x0000 began\ncharging power!
+\xF000Ă\x0001\x0000 grew drowsy!
+The wild \xF000Ă\x0001\x0000 grew drowsy!
+The foe's \xF000Ă\x0001\x0000 grew drowsy!
+\xF000Ă\x0001\x0000 became\nthe center of attention!
+The wild \xF000Ă\x0001\x0000 became\nthe center of attention!
+The foe's \xF000Ă\x0001\x0000 became\nthe center of attention!
+\xF000Ă\x0001\x0000 switched stat\nchanges with the target!
+The wild \xF000Ă\x0001\x0000 switched stat\nchanges with the target!
+The foe's \xF000Ă\x0001\x0000 switched stat\nchanges with the target!
+\xF000Ă\x0001\x0000 switched all\nchanges to its Attack and Sp. Atk\xF000븀\x0000\nwith the target!
+The wild \xF000Ă\x0001\x0000 switched all\nchanges to its Attack and Sp. Atk\xF000븀\x0000\nwith the target!
+The foe's \xF000Ă\x0001\x0000 switched all\nchanges to its Attack and Sp. Atk\xF000븀\x0000\nwith the target!
+\xF000Ă\x0001\x0000 switched all\nchanges to its Defense and Sp. Def\xF000븀\x0000\nwith the target!
+The wild \xF000Ă\x0001\x0000 switched all\nchanges to its Defense and Sp. Def\xF000븀\x0000\nwith the target!
+The foe's \xF000Ă\x0001\x0000 switched all\nchanges to its Defense and Sp. Def\xF000븀\x0000\nwith the target!
+\xF000Ă\x0001\x0000 switched\nitems with its target!
+The wild \xF000Ă\x0001\x0000 switched\nitems with its target!
+The foe's \xF000Ă\x0001\x0000 switched\nitems with its target!
+\xF000Ă\x0001\x0000 obtained\none \xF000ĉ\x0001\x0001.
+The wild \xF000Ă\x0001\x0000 obtained\none \xF000ĉ\x0001\x0001.
+The foe's \xF000Ă\x0001\x0000 obtained\none \xF000ĉ\x0001\x0001.
+\xF000Ă\x0001\x0000 learned\n\xF000ć\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 learned\n\xF000ć\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 learned\n\xF000ć\x0001\x0001!
+\xF000Ă\x0001\x0000 sketched\n\xF000ć\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 sketched\n\xF000ć\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 sketched\n\xF000ć\x0001\x0001!
+\xF000Ă\x0001\x0000 became cloaked\nin mystical moonlight!
+The wild \xF000Ă\x0001\x0000 became cloaked\nin mystical moonlight!
+The foe's \xF000Ă\x0001\x0000 became cloaked\nin mystical moonlight!
+The healing wish came true\nfor \xF000Ă\x0001\x0000!
+The healing wish came true\nfor the wild \xF000Ă\x0001\x0000!
+The healing wish came true\nfor the foe's \xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0000's wish\ncame true!
+The wild \xF000Ă\x0001\x0000's wish\ncame true!
+The foe's \xF000Ă\x0001\x0000's wish\ncame true!
+\xF000Ă\x0001\x0000 caused\nan uproar!
+The wild \xF000Ă\x0001\x0000 caused\nan uproar!
+The foe's \xF000Ă\x0001\x0000 caused\nan uproar!
+The uproar woke up\nthe \xF000Ă\x0001\x0000!
+The uproar woke up the\nwild \xF000Ă\x0001\x0000!
+The uproar woke up the\nfoe's \xF000Ă\x0001\x0000!
+But the uproar kept\n\xF000Ă\x0001\x0000 awake!
+But the uproar kept\nthe wild \xF000Ă\x0001\x0000 awake!
+But the uproar kept\nthe foe's \xF000Ă\x0001\x0000 awake!
+But \xF000Ă\x0001\x0000 can't\nsleep in an uproar!
+But the wild \xF000Ă\x0001\x0000 can't\nsleep in an uproar!
+But the foe's \xF000Ă\x0001\x0000 can't\nsleep in an uproar!
+\xF000Ă\x0001\x0000 is making\nan uproar!
+The wild \xF000Ă\x0001\x0000 is making\nan uproar!
+The foe's \xF000Ă\x0001\x0000 is making\nan uproar!
+\xF000Ă\x0001\x0000\ncalmed down.
+The wild \xF000Ă\x0001\x0000\ncalmed down.
+The foe's \xF000Ă\x0001\x0000\ncalmed down.
+\xF000Ă\x0001\x0000 stockpiled \xF000Ȁ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 stockpiled \xF000Ȁ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 stockpiled \xF000Ȁ\x0001\x0001!
+\xF000Ă\x0001\x0000's stockpiled\neffect wore off!
+The wild \xF000Ă\x0001\x0000's stockpiled\neffect wore off!
+The foe's \xF000Ă\x0001\x0000's stockpiled\neffect wore off!
+\xF000Ă\x0001\x0000 can't use\nitems anymore!
+The wild \xF000Ă\x0001\x0000 can't use\nitems anymore!
+The foe's \xF000Ă\x0001\x0000 can't use\nitems anymore!
+\xF000Ă\x0001\x0000 can use\nitems again!
+The wild \xF000Ă\x0001\x0000 can use\nitems again!
+The foe's \xF000Ă\x0001\x0000 can use\nitems again!
+\xF000Ă\x0001\x0000 found\none \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 found\none \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 found\none \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000 planted its roots!
+The wild \xF000Ă\x0001\x0000 planted\nits roots!
+The foe's \xF000Ă\x0001\x0000 planted\nits roots!
+\xF000Ă\x0001\x0000 absorbed\nnutrients with its roots!
+The wild \xF000Ă\x0001\x0000 absorbed\nnutrients with its roots!
+The foe's \xF000Ă\x0001\x0000 absorbed\nnutrients with its roots!
+\xF000Ă\x0001\x0000 anchored\nitself with its roots!
+The wild \xF000Ă\x0001\x0000 anchored\nitself with its roots!
+The foe's \xF000Ă\x0001\x0000 anchored\nitself with its roots!
+\xF000Ă\x0001\x0000 is storing\nenergy!
+The wild \xF000Ă\x0001\x0000 is storing\nenergy!
+The foe's \xF000Ă\x0001\x0000 is storing\nenergy!
+\xF000Ă\x0001\x0000 unleashed\nenergy!
+The wild \xF000Ă\x0001\x0000 unleashed\nenergy!
+The foe's \xF000Ă\x0001\x0000 unleashed\nenergy!
+\xF000Ă\x0001\x0000 waits for a target\nto make a move!
+The wild \xF000Ă\x0001\x0000 waits for\na target to make a move!
+The foe's \xF000Ă\x0001\x0000 waits for\na target to make a move!
+\xF000Ă\x0001\x0000 snatched\n\xF000Ă\x0001\x0001's move!
+\xF000Ă\x0001\x0000 snatched the wild\n\xF000Ă\x0001\x0001's move!
+\xF000Ă\x0001\x0000 snatched the foe's\n\xF000Ă\x0001\x0001's move!
+The wild \xF000Ă\x0001\x0000 snatched\n\xF000Ă\x0001\x0001's move!
+The wild \xF000Ă\x0001\x0000 snatched\nthe wild \xF000Ă\x0001\x0001's move!
+The foe's \xF000Ă\x0001\x0000 snatched\n\xF000Ă\x0001\x0001's move!
+The foe's \xF000Ă\x0001\x0000 snatched\nthe foe's \xF000Ă\x0001\x0001's move!
+\xF000Ă\x0001\x0000 shrouded\nitself with Magic Coat!
+The wild \xF000Ă\x0001\x0000 shrouded\nitself with Magic Coat!
+The foe's \xF000Ă\x0001\x0000 shrouded\nitself with Magic Coat!
+\xF000Ă\x0001\x0000\nbounced the \xF000ć\x0001\x0001 back!
+The wild \xF000Ă\x0001\x0000\nbounced the \xF000ć\x0001\x0001 back!
+The foe's \xF000Ă\x0001\x0000\nbounced the \xF000ć\x0001\x0001 back!
+\xF000Ă\x0001\x0000 fled\nfrom battle!
+The wild \xF000Ă\x0001\x0000 fled\nfrom battle!
+The foe's \xF000Ă\x0001\x0000 fled\nfrom battle!
+\xF000Ă\x0001\x0000 went back\nto \xF000Ā\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 went back\nto \xF000Ā\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 went back\nto \xF000Ā\x0001\x0001!
+\xF000Ă\x0001\x0000 switched\nits Attack and Defense!
+The wild \xF000Ă\x0001\x0000 switched\nits Attack and Defense!
+The foe's \xF000Ă\x0001\x0000 switched\nits Attack and Defense!
+\xF000Ă\x0001\x0000 stole and\nate its target's \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 stole and\nate its target's \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 stole and\nate its target's \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000 flung\nits \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 flung\nits \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 flung\nits \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000 blew away\n\xF000ć\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 blew away\n\xF000ć\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 blew away\n\xF000ć\x0001\x0001!
+\xF000Ă\x0001\x0000 put in\na substitute!
+The wild \xF000Ă\x0001\x0000 put in\na substitute!
+The foe's \xF000Ă\x0001\x0000 put in\na substitute!
+\xF000Ă\x0001\x0000 already\nhas a substitute!
+The wild \xF000Ă\x0001\x0000 already\nhas a substitute!
+The foe's \xF000Ă\x0001\x0000 already\nhas a substitute!
+The substitute took damage\nfor \xF000Ă\x0001\x0000!
+The substitute took damage\nfor the wild \xF000Ă\x0001\x0000!
+The substitute took damage\nfor the foe's \xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0000's\nsubstitute faded!
+The wild \xF000Ă\x0001\x0000's\nsubstitute faded!
+The foe's \xF000Ă\x0001\x0000's\nsubstitute faded!
+Wide Guard protected\n\xF000Ă\x0001\x0000!
+Wide Guard protected\nthe wild \xF000Ă\x0001\x0000!
+Wide Guard protected\nthe foe's \xF000Ă\x0001\x0000!
+Quick Guard protected\n\xF000Ă\x0001\x0000!
+Quick Guard protected\nthe wild \xF000Ă\x0001\x0000!
+Quick Guard protected\nthe foe's \xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0000 was squeezed\nby \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 was squeezed\nby the wild \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 was squeezed\nby the foe's \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 was squeezed\nby \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 was squeezed\nby the wild \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 was squeezed\nby \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 was squeezed\nby the foe's \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 was wrapped by\n\xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 was wrapped\nby the wild \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 was wrapped\nby the foe's \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 was wrapped by\n\xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 was wrapped\nby the wild \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 was wrapped\nby \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 was wrapped\nby the foe's \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0001 clamped\n\xF000Ă\x0001\x0000!
+The wild \xF000Ă\x0001\x0001 clamped\n\xF000Ă\x0001\x0000!
+The foe's \xF000Ă\x0001\x0001 clamped\n\xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0001 clamped\nthe wild \xF000Ă\x0001\x0000!
+The wild \xF000Ă\x0001\x0001 clamped\nthe wild \xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0001 clamped\nthe foe's \xF000Ă\x0001\x0000!
+The foe's \xF000Ă\x0001\x0001 clamped\nthe foe's \xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0000 became trapped\nin the vortex!
+The wild \xF000Ă\x0001\x0000 became trapped\nin the vortex!
+The foe's \xF000Ă\x0001\x0000 became trapped\nin the vortex!
+\xF000Ă\x0001\x0000 became trapped\nin the fiery vortex!
+The wild \xF000Ă\x0001\x0000 became trapped\nin the fiery vortex!
+The foe's \xF000Ă\x0001\x0000 became trapped\nin the fiery vortex!
+\xF000Ă\x0001\x0000 became\ntrapped by swirling magma!
+The wild \xF000Ă\x0001\x0000 became\ntrapped by swirling magma!
+The foe's \xF000Ă\x0001\x0000 became\ntrapped by swirling magma!
+\xF000Ă\x0001\x0000 became trapped\nby Sand Tomb!
+The wild \xF000Ă\x0001\x0000 became trapped\nby Sand Tomb!
+The foe's \xF000Ă\x0001\x0000 became trapped\nby Sand Tomb!
+\xF000Ă\x0001\x0000 has no\nmoves left!
+The wild \xF000Ă\x0001\x0000 has no\nmoves left!
+The foe's \xF000Ă\x0001\x0000 has no\nmoves left!
+\xF000Ă\x0001\x0000 is protected\nby Safeguard!
+The wild \xF000Ă\x0001\x0000 is protected\nby Safeguard!
+The foe's \xF000Ă\x0001\x0000 is protected\nby Safeguard!
+\xF000Ă\x0001\x0000 is protected\nby the mist!
+The wild \xF000Ă\x0001\x0000 is protected\nby the mist!
+The foe's \xF000Ă\x0001\x0000 is protected\nby the mist!
+\xF000Ă\x0001\x0000 was\ndragged out!
+The wild \xF000Ă\x0001\x0000 was\ndragged out!
+The foe's \xF000Ă\x0001\x0000 was\ndragged out!
+\xF000Ă\x0001\x0000 must\nrecharge!
+The wild \xF000Ă\x0001\x0000 must\nrecharge!
+The foe's \xF000Ă\x0001\x0000 must\nrecharge!
+\xF000Ă\x0001\x0000 is hurt\nby the spikes!
+The wild \xF000Ă\x0001\x0000 is hurt\nby the spikes!
+The foe's \xF000Ă\x0001\x0000 is hurt\nby the spikes!
+Pointed stones dug into\n\xF000Ă\x0001\x0000!
+Pointed stones dug into\nthe wild \xF000Ă\x0001\x0000!
+Pointed stones dug into\nthe foe's \xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0000 twisted\nthe dimensions!
+The wild \xF000Ă\x0001\x0000 twisted\nthe dimensions!
+The foe's \xF000Ă\x0001\x0000 twisted\nthe dimensions!
+\xF000Ă\x0001\x0000's perish count\nfell to \xF000Ȁ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000's perish count\nfell to \xF000Ȁ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000's perish count\nfell to \xF000Ȁ\x0001\x0001!
+\xF000Ă\x0001\x0000 became cloaked\nin a freezing light!
+The wild \xF000Ă\x0001\x0000 became cloaked\nin a freezing light!
+The foe's \xF000Ă\x0001\x0000 became cloaked\nin a freezing light!
+\xF000Ă\x0001\x0000 became cloaked\nin freezing air!
+The wild \xF000Ă\x0001\x0000 became cloaked\nin freezing air!
+The foe's \xF000Ă\x0001\x0000 became cloaked\nin freezing air!
+\xF000Ă\x0001\x0000 prevents\nescape with \xF000Ć\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 prevents\nescape with \xF000Ć\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 prevents\nescape with \xF000Ć\x0001\x0001!
+\xF000Ă\x0001\x0000 can no\nlonger escape!
+The wild \xF000Ă\x0001\x0000 can no\nlonger escape!
+The foe's \xF000Ă\x0001\x0000 can no\nlonger escape!
+\xF000Ă\x0001\x0000\ncan't escape!
+The wild \xF000Ă\x0001\x0000\ncan't escape!
+The foe's \xF000Ă\x0001\x0000\ncan't escape!
+
+
+
+\xF000Ă\x0001\x0000 was prevented\nfrom healing!
+The wild \xF000Ă\x0001\x0000 was prevented\nfrom healing!
+The foe's \xF000Ă\x0001\x0000 was prevented\nfrom healing!
+\xF000Ă\x0001\x0000's Heal Block\nwore off!
+The wild \xF000Ă\x0001\x0000's Heal Block\nwore off!
+The foe's \xF000Ă\x0001\x0000's Heal Block\nwore off!
+\xF000Ă\x0001\x0000 was prevented\nfrom healing due to Heal Block!
+The wild \xF000Ă\x0001\x0000 was prevented\nfrom healing due to Heal Block!
+The foe's \xF000Ă\x0001\x0000 was prevented\nfrom healing due to Heal Block!
+\xF000Ă\x0001\x0000 can't use\n\xF000ć\x0001\x0001 because of Heal Block!
+The wild \xF000Ă\x0001\x0000 can't use\n\xF000ć\x0001\x0001 because of Heal Block!
+The foe's \xF000Ă\x0001\x0000 can't use\n\xF000ć\x0001\x0001 because of Heal Block!
+\xF000Ă\x0001\x0000's\nHP is full!
+The wild \xF000Ă\x0001\x0000's\nHP is full!
+The foe's \xF000Ă\x0001\x0000's\nHP is full!
+\xF000Ă\x0001\x0000 transformed\ninto the \xF000ă\x0001\x0001 type!
+The wild \xF000Ă\x0001\x0000 transformed\ninto the \xF000ă\x0001\x0001 type!
+The foe's \xF000Ă\x0001\x0000 transformed\ninto the \xF000ă\x0001\x0001 type!
+\xF000Ă\x0001\x0000 had its\nenergy drained!
+The wild \xF000Ă\x0001\x0000 had its\nenergy drained!
+The foe's \xF000Ă\x0001\x0000 had its\nenergy drained!
+\xF000Ă\x0001\x0000 kept going\nand crashed!
+The wild \xF000Ă\x0001\x0000 kept going\nand crashed!
+The foe's \xF000Ă\x0001\x0000 kept going\nand crashed!
+\xF000Ă\x0001\x0000\ncannot use \xF000ć\x0001\x0001!
+The wild \xF000Ă\x0001\x0000\ncannot use \xF000ć\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000\ncannot use \xF000ć\x0001\x0001!
+\xF000Ă\x0001\x0000 restored its\nhealth using its \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 restored its\nhealth using its \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 restored its\nhealth using its \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000 restored\n\xF000ć\x0001\x0002's PP using its\xF000븀\x0000\n\xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 restored\n\xF000ć\x0001\x0002's PP using its\xF000븀\x0000\n\xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 restored\n\xF000ć\x0001\x0002's PP using its\xF000븀\x0000\n\xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000 restored\na little HP using its \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 restored\na little HP using its \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 restored\na little HP using its \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001\ncured its poison!
+The wild \xF000Ă\x0001\x0000's\n\xF000ĉ\x0001\x0001 cured its poison!
+The foe's \xF000Ă\x0001\x0000's\n\xF000ĉ\x0001\x0001 cured its poison!
+\xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001\ncured its paralysis!
+The wild \xF000Ă\x0001\x0000's\n\xF000ĉ\x0001\x0001 cured its paralysis!
+The foe's \xF000Ă\x0001\x0000's\n\xF000ĉ\x0001\x0001 cured its paralysis!
+\xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001\nwoke it up!
+The wild \xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001\nwoke it up!
+The foe's \xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001\nwoke it up!
+\xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001\ndefrosted it!
+The wild \xF000Ă\x0001\x0000's\n\xF000ĉ\x0001\x0001 defrosted it!
+The foe's \xF000Ă\x0001\x0000's\n\xF000ĉ\x0001\x0001 defrosted it!
+\xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001\nhealed its burn!
+The wild \xF000Ă\x0001\x0000's\n\xF000ĉ\x0001\x0001 healed its burn!
+The foe's \xF000Ă\x0001\x0000's\n\xF000ĉ\x0001\x0001 healed its burn!
+\xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001\nsnapped it out of its confusion!
+The wild \xF000Ă\x0001\x0000's\n\xF000ĉ\x0001\x0001 snapped it out of\xF000븀\x0000\nits confusion!
+The foe's \xF000Ă\x0001\x0000's\n\xF000ĉ\x0001\x0001 snapped it out of\xF000븀\x0000\nits confusion!
+\xF000Ă\x0001\x0000 cured its\ninfatuation status\xF000븀\x0000\nusing its \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 cured its\ninfatuation status\xF000븀\x0000\nusing its \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 cured its\ninfatuation status\xF000븀\x0000\nusing its \xF000ĉ\x0001\x0001!
+The \xF000ĉ\x0001\x0001 raised\n\xF000Ă\x0001\x0000's Attack!
+The \xF000ĉ\x0001\x0001 raised\nthe wild \xF000Ă\x0001\x0000's Attack!
+The \xF000ĉ\x0001\x0001 raised\nthe foe's \xF000Ă\x0001\x0000's Attack!
+The \xF000ĉ\x0001\x0001 raised\n\xF000Ă\x0001\x0000's Defense!
+The \xF000ĉ\x0001\x0001 raised\nthe wild \xF000Ă\x0001\x0000's Defense!
+The \xF000ĉ\x0001\x0001 raised\nthe foe's \xF000Ă\x0001\x0000's Defense!
+The \xF000ĉ\x0001\x0001 raised\n\xF000Ă\x0001\x0000's Special Attack!
+The \xF000ĉ\x0001\x0001 raised\nthe wild \xF000Ă\x0001\x0000's Special Attack!
+The \xF000ĉ\x0001\x0001 raised\nthe foe's \xF000Ă\x0001\x0000's Special Attack!
+The \xF000ĉ\x0001\x0001 raised\n\xF000Ă\x0001\x0000's Special Defense!
+The \xF000ĉ\x0001\x0001 raised\nthe wild \xF000Ă\x0001\x0000's Special Defense!
+The \xF000ĉ\x0001\x0001 raised\nthe foe's \xF000Ă\x0001\x0000's Special Defense!
+The \xF000ĉ\x0001\x0001 raised\n\xF000Ă\x0001\x0000's Speed!
+The \xF000ĉ\x0001\x0001 raised\nthe wild \xF000Ă\x0001\x0000's Speed!
+The \xF000ĉ\x0001\x0001 raised\nthe foe's \xF000Ă\x0001\x0000's Speed!
+The \xF000ĉ\x0001\x0001 raised\n\xF000Ă\x0001\x0000's accuracy!
+The \xF000ĉ\x0001\x0001 raised\nthe wild \xF000Ă\x0001\x0000's accuracy!
+The \xF000ĉ\x0001\x0001 raised\nthe foe's \xF000Ă\x0001\x0000's accuracy!
+The \xF000ĉ\x0001\x0001 raised\n\xF000Ă\x0001\x0000's evasiveness!
+The \xF000ĉ\x0001\x0001 raised\nthe wild \xF000Ă\x0001\x0000's evasiveness!
+The \xF000ĉ\x0001\x0001 raised\nthe foe's \xF000Ă\x0001\x0000's evasiveness!
+The \xF000ĉ\x0001\x0001 sharply raised\n\xF000Ă\x0001\x0000's Attack!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe wild \xF000Ă\x0001\x0000's Attack!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe foe's \xF000Ă\x0001\x0000's Attack!
+The \xF000ĉ\x0001\x0001 sharply raised\n\xF000Ă\x0001\x0000's Defense!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe wild \xF000Ă\x0001\x0000's Defense!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe foe's \xF000Ă\x0001\x0000's Defense!
+The \xF000ĉ\x0001\x0001 sharply raised\n\xF000Ă\x0001\x0000's Special Attack!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe wild \xF000Ă\x0001\x0000's Special Attack!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe foe's \xF000Ă\x0001\x0000's Special Attack!
+The \xF000ĉ\x0001\x0001 sharply raised\n\xF000Ă\x0001\x0000's Special Defense!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe wild \xF000Ă\x0001\x0000's Special Defense!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe foe's \xF000Ă\x0001\x0000's Special Defense!
+The \xF000ĉ\x0001\x0001 sharply raised\n\xF000Ă\x0001\x0000's Speed!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe wild \xF000Ă\x0001\x0000's Speed!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe foe's \xF000Ă\x0001\x0000's Speed!
+The \xF000ĉ\x0001\x0001 sharply raised\n\xF000Ă\x0001\x0000's accuracy!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe wild \xF000Ă\x0001\x0000's accuracy!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe foe's \xF000Ă\x0001\x0000's accuracy!
+The \xF000ĉ\x0001\x0001 sharply raised\n\xF000Ă\x0001\x0000's evasiveness!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe wild \xF000Ă\x0001\x0000's evasiveness!
+The \xF000ĉ\x0001\x0001 sharply raised\nthe foe's \xF000Ă\x0001\x0000's evasiveness!
+The \xF000ĉ\x0001\x0001 drastically raised\n\xF000Ă\x0001\x0000's Attack!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe wild \xF000Ă\x0001\x0000's Attack!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe foe's \xF000Ă\x0001\x0000's Attack!
+The \xF000ĉ\x0001\x0001 drastically raised\n\xF000Ă\x0001\x0000's Defense!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe wild \xF000Ă\x0001\x0000's Defense!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe foe's \xF000Ă\x0001\x0000's Defense!
+The \xF000ĉ\x0001\x0001 drastically raised\n\xF000Ă\x0001\x0000's Special Attack!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe wild \xF000Ă\x0001\x0000's Special Attack!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe foe's \xF000Ă\x0001\x0000's Special Attack!
+The \xF000ĉ\x0001\x0001 drastically raised\n\xF000Ă\x0001\x0000's Special Defense!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe wild \xF000Ă\x0001\x0000's Special Defense!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe foe's \xF000Ă\x0001\x0000's Special Defense!
+The \xF000ĉ\x0001\x0001 drastically raised\n\xF000Ă\x0001\x0000's Speed!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe wild \xF000Ă\x0001\x0000's Speed!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe foe's \xF000Ă\x0001\x0000's Speed!
+The \xF000ĉ\x0001\x0001 drastically raised\n\xF000Ă\x0001\x0000's accuracy!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe wild \xF000Ă\x0001\x0000's accuracy!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe foe's \xF000Ă\x0001\x0000's accuracy!
+The \xF000ĉ\x0001\x0001 drastically raised\n\xF000Ă\x0001\x0000's evasiveness!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe wild \xF000Ă\x0001\x0000's evasiveness!
+The \xF000ĉ\x0001\x0001 drastically raised\nthe foe's \xF000Ă\x0001\x0000's evasiveness!
+\xF000Ă\x0001\x0000 used\nthe \xF000ĉ\x0001\x0001 to get pumped!
+The wild \xF000Ă\x0001\x0000 used\nthe \xF000ĉ\x0001\x0001 to get pumped!
+The foe's \xF000Ă\x0001\x0000 used\nthe \xF000ĉ\x0001\x0001 to get pumped!
+\xF000Ă\x0001\x0000 fled\nusing its \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 fled\nusing its \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 fled\nusing its \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000 hung on\nusing its \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 hung on\nusing its \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 hung on\nusing its \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000 restored its\nstatus using its \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 restored its\nstatus using its \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 restored its\nstatus using its \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000 lost\nsome of its HP!
+The wild \xF000Ă\x0001\x0000 lost\nsome of its HP!
+The foe's \xF000Ă\x0001\x0000 lost\nsome of its HP!
+...But \xF000Ă\x0001\x0000\nis not here!
+...But the wild \xF000Ă\x0001\x0000\nis not here!
+...But the foe's \xF000Ă\x0001\x0000\nis not here!
+...But \xF000Ă\x0001\x0000 was not\nholding a usable item!
+...But the wild \xF000Ă\x0001\x0000 was not\nholding a usable item!
+...But the foe's \xF000Ă\x0001\x0000 was not\nholding a usable item!
+\xF000Ă\x0001\x0000 became fully\ncharged due to its \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 became fully\ncharged due to its \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 became fully\ncharged due to its \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001\nlet it move first!
+The wild \xF000Ă\x0001\x0000's\n\xF000ĉ\x0001\x0001 let it move first!
+The foe's \xF000Ă\x0001\x0000's\n\xF000ĉ\x0001\x0001 let it move first!
+\xF000Ă\x0001\x0000 boosted\nthe accuracy of its next move\xF000븀\x0000\nusing its \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 boosted\nthe accuracy of its next move\xF000븀\x0000\nusing its \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 boosted\nthe accuracy of its next move\xF000븀\x0000\nusing its \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000 is hurt by\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+\xF000Ă\x0001\x0000 is hurt by the wild\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+\xF000Ă\x0001\x0000 is hurt by the foe's\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+The wild \xF000Ă\x0001\x0000 is hurt by\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+The wild \xF000Ă\x0001\x0000 is hurt by\nthe wild \xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+The foe's \xF000Ă\x0001\x0000 is hurt by\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+The foe's \xF000Ă\x0001\x0000 is hurt by\nthe foe's \xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+\xF000Ă\x0001\x0000 is hurt\nby its \xF000ĉ\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 is hurt\nby its \xF000ĉ\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 is hurt\nby its \xF000ĉ\x0001\x0001!
+\xF000Ă\x0001\x0000 is getting\npumped!
+The wild \xF000Ă\x0001\x0000 is getting\npumped!
+The foe's \xF000Ă\x0001\x0000 is getting\npumped!
+\xF000Ă\x0001\x0000 is ready to\nhelp \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 is ready to\nhelp \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 is ready to\nhelp \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 copied\n\xF000Ă\x0001\x0001's stat changes!
+The wild \xF000Ă\x0001\x0000 copied\n\xF000Ă\x0001\x0001's stat changes!
+The foe's \xF000Ă\x0001\x0000 copied\n\xF000Ă\x0001\x0001's stat changes!
+\xF000Ă\x0001\x0000 knocked off\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+\xF000Ă\x0001\x0000 knocked off the wild\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+\xF000Ă\x0001\x0000 knocked off the foe's\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+The wild \xF000Ă\x0001\x0000 knocked off\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+The wild \xF000Ă\x0001\x0000 knocked off the\nwild \xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+The foe's \xF000Ă\x0001\x0000 knocked off\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+The foe's \xF000Ă\x0001\x0000 knocked off\nthe foe's \xF000Ă\x0001\x0001's\xF000븀\x0000\n\xF000ĉ\x0001\x0002!
+\xF000Ă\x0001\x0000 stole\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+\xF000Ă\x0001\x0000 stole the wild\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+\xF000Ă\x0001\x0000 stole the foe's\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+The wild \xF000Ă\x0001\x0000 stole\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+The wild \xF000Ă\x0001\x0000 stole the wild\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+The foe's \xF000Ă\x0001\x0000 stole\n\xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+The foe's \xF000Ă\x0001\x0000 stole the\nfoe's \xF000Ă\x0001\x0001's \xF000ĉ\x0001\x0002!
+\xF000Ă\x0001\x0000 cut its own HP\nand laid a curse on \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 cut its own HP\nand laid a curse on the wild \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 cut its own HP\nand laid a curse on the foe's \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 cut its own HP\nand laid a curse on \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 cut its own HP\nand laid a curse on the wild \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 cut its own HP\nand laid a curse on \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 cut its own HP\nand laid a curse on the foe's \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 is afflicted\nby the curse!
+The wild \xF000Ă\x0001\x0000 is afflicted\nby the curse!
+The foe's \xF000Ă\x0001\x0000 is afflicted\nby the curse!
+\xF000Ă\x0001\x0000 foresaw\nan attack!
+The wild \xF000Ă\x0001\x0000 foresaw\nan attack!
+The foe's \xF000Ă\x0001\x0000 foresaw\nan attack!
+\xF000Ă\x0001\x0000 chose\nDoom Desire as its destiny!
+The wild \xF000Ă\x0001\x0000 chose\nDoom Desire as its destiny!
+The foe's \xF000Ă\x0001\x0000 chose\nDoom Desire as its destiny!
+\xF000Ă\x0001\x0000 took\nthe \xF000ć\x0001\x0001 attack!
+The wild \xF000Ă\x0001\x0000 took\nthe \xF000ć\x0001\x0001 attack!
+The foe's \xF000Ă\x0001\x0000 took\nthe \xF000ć\x0001\x0001 attack!
+\xF000Ă\x0001\x0000 couldn't stay\nairborne because of gravity!
+The wild \xF000Ă\x0001\x0000 couldn't stay\nairborne because of gravity!
+The foe's \xF000Ă\x0001\x0000 couldn't stay\nairborne because of gravity!
+\xF000Ă\x0001\x0000 can't use\n\xF000ć\x0001\x0001 because of gravity!
+The wild \xF000Ă\x0001\x0000 can't use\n\xF000ć\x0001\x0001 because of gravity!
+The foe's \xF000Ă\x0001\x0000 can't use\n\xF000ć\x0001\x0001 because of gravity!
+\xF000Ă\x0001\x0000's type\nchanged to match \xF000Ă\x0001\x0001's!
+\xF000Ă\x0001\x0000's type\nchanged to match the wild \xF000Ă\x0001\x0001's!
+\xF000Ă\x0001\x0000's type\nchanged to match the foe's \xF000Ă\x0001\x0001's!
+The wild \xF000Ă\x0001\x0000's type\nchanged to match \xF000Ă\x0001\x0001's!
+The wild \xF000Ă\x0001\x0000's type\nchanged to match the wild \xF000Ă\x0001\x0001's!
+The foe's \xF000Ă\x0001\x0000's type\nchanged to match \xF000Ă\x0001\x0001's!
+The foe's \xF000Ă\x0001\x0000's type\nchanged to match the foe's \xF000Ă\x0001\x0001's!
+\xF000Ă\x0001\x0000 shared its\npower with the target!
+The wild \xF000Ă\x0001\x0000 shared its\npower with the target!
+The foe's \xF000Ă\x0001\x0000 shared its\npower with the target!
+\xF000Ă\x0001\x0000 shared its\nguard with the target!
+The wild \xF000Ă\x0001\x0000 shared its\nguard with the target!
+The foe's \xF000Ă\x0001\x0000 shared its\nguard with the target!
+\xF000Ă\x0001\x0000 became nimble!
+The wild \xF000Ă\x0001\x0000 became nimble!
+The foe's \xF000Ă\x0001\x0000 became nimble!
+The bursting flame hit \xF000Ă\x0001\x0000!
+The bursting flame hit the wild \xF000Ă\x0001\x0000!
+The bursting flame hit the foe's \xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001\nwas burnt up!
+The wild \xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001\nwas burnt up!
+The foe's \xF000Ă\x0001\x0000's \xF000ĉ\x0001\x0001\nwas burnt up!
+\xF000Ă\x0001\x0000 received \xF000ĉ\x0001\x0002\nfrom \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 received \xF000ĉ\x0001\x0002\nfrom the wild \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 received \xF000ĉ\x0001\x0002\nfrom the foe's \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 received \xF000ĉ\x0001\x0002\nfrom \xF000Ă\x0001\x0001!
+The wild \xF000Ă\x0001\x0000 received \xF000ĉ\x0001\x0002\nfrom the wild \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 received \xF000ĉ\x0001\x0002\nfrom \xF000Ă\x0001\x0001!
+The foe's \xF000Ă\x0001\x0000 received \xF000ĉ\x0001\x0002\nfrom the foe's \xF000Ă\x0001\x0001!
+\xF000Ă\x0001\x0000 took\n\xF000Ă\x0001\x0001 into the sky!
+\xF000Ă\x0001\x0000 took\nthe wild \xF000Ă\x0001\x0001 into the sky!
+\xF000Ă\x0001\x0000 took\nthe foe's \xF000Ă\x0001\x0001 into the sky!
+The wild \xF000Ă\x0001\x0000 took\n\xF000Ă\x0001\x0001 into the sky!
+The wild \xF000Ă\x0001\x0000 took\nthe wild \xF000Ă\x0001\x0001 into the sky!
+The foe's \xF000Ă\x0001\x0000 took\n\xF000Ă\x0001\x0001 into the sky!
+The foe's \xF000Ă\x0001\x0000 took\nthe foe's \xF000Ă\x0001\x0001 into the sky!
+\xF000Ă\x0001\x0000 was freed\nfrom the Sky Drop!
+The wild \xF000Ă\x0001\x0000 was freed\nfrom the Sky Drop!
+The foe's \xF000Ă\x0001\x0000 was freed\nfrom the Sky Drop!
+\xF000Ă\x0001\x0000 fell\nstraight down!
+The wild \xF000Ă\x0001\x0000 fell\nstraight down!
+The foe's \xF000Ă\x0001\x0000 fell\nstraight down!
+\xF000Ă\x0001\x0000's move\nwas postponed!
+The wild \xF000Ă\x0001\x0000's move\nwas postponed!
+The foe's \xF000Ă\x0001\x0000's move\nwas postponed!
+\xF000Ă\x0001\x0000\ntook the kind offer!
+The wild \xF000Ă\x0001\x0000\ntook the kind offer!
+The foe's \xF000Ă\x0001\x0000\ntook the kind offer!
+\xF000Ă\x0001\x0000 and\n\xF000Ă\x0001\x0001 switched places!
+The wild \xF000Ă\x0001\x0000 and\n\xF000Ă\x0001\x0001 switched places!
+The foe's \xF000Ă\x0001\x0000 and\n\xF000Ă\x0001\x0001 switched places!
+\xF000Ă\x0001\x0000 was hurled\ninto the air!
+The wild \xF000Ă\x0001\x0000 was hurled\ninto the air!
+The foe's \xF000Ă\x0001\x0000 was hurled\ninto the air!
+\xF000Ă\x0001\x0000 was freed\nfrom the telekinesis!
+The wild \xF000Ă\x0001\x0000 was freed\nfrom the telekinesis!
+The foe's \xF000Ă\x0001\x0000 was freed\nfrom the telekinesis!
+\xF000Ă\x0001\x0000 is waiting\nfor \xF000Ă\x0001\x0001's move...
+\xF000Ă\x0001\x0000 is waiting\nfor the wild \xF000Ă\x0001\x0001's move...
+\xF000Ă\x0001\x0000 is waiting\nfor the foe's \xF000Ă\x0001\x0001...
+The wild \xF000Ă\x0001\x0000 is waiting\nfor \xF000Ă\x0001\x0001's move...
+The wild \xF000Ă\x0001\x0000 is waiting\nfor the wild \xF000Ă\x0001\x0001's move...
+The foe's \xF000Ă\x0001\x0000 is waiting\nfor \xF000Ă\x0001\x0001's move...
+The foe's \xF000Ă\x0001\x0000 is waiting\nfor the foe's \xF000Ă\x0001\x0001's move...
+It is completely synchronized\nwith \xF000Ă\x0001\x0000!
+It is completely synchronized\nwith the wild \xF000Ă\x0001\x0000!
+It is completely synchronized\nwith the foe's \xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0000 is hurt\nby the sea of fire!
+The wild \xF000Ă\x0001\x0000 is hurt\nby the sea of fire!
+The foe's \xF000Ă\x0001\x0000 is hurt\nby the sea of fire!

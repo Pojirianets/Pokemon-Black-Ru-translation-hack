@@ -1,0 +1,43 @@
+X BUTTON
+SELECT
+B BUTTON
+Use the graffiti marker
+Freeze frame
+Quit graffiti mode
+Change pen size
+Select color with the dropper
+Use as an eraser
+Close the graffiti marker
+Stamps
+GRAFFITI MODE
+
+
+ID \xF000Ȅ\x0001\x0000
+
+\xF000Ȁ\x0001\x0000/4
+Please select your friend(s).
+CALL FRIEND(S)
+JOIN
+Calling...
+
+
+
+Connecting...
+
+
+
+Searching for your friends...
+
+
+
+Would you like to stop the Xtransceiver?
+If the leader drops out, the group will\nbe disbanded. Is that OK?
+YES
+NO
+Since the leader dropped out,\nthe group will be disbanded.
+The other Trainer has left the group.\nThe communication will be ended.
+There are no members.\nThe communication will be ended.
+Call failed.
+Failed to connect.
+Parental Controls prohibits the transfer\nof photos.\nIf you wish to send them, please change\nthe System Settings to allow this.
+Waiting for the other player to finish...
