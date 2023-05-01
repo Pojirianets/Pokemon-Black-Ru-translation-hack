@@ -1,0 +1,84 @@
+Wye: Hi!\nThis way, pleeeeease!\xF000븁\x0000
+Wye: Exciting! Thrilling! Zippy! Chilling!\nIt's “Pep Quiz"!\xF000븁\x0000\nToday's challenger is--this person!\xF000븁\x0000
+Aha: Hiya, welcome!\xF000븁\x0000\n“Pep Quiz" starts NOW!\xF000븁\x0000\nAnswer lots of quizzy questions,\nand watch your brain get brainier!\xF000븁\x0000\nLet's start...with...a question!\xF000븁\x0000
+Ditoh: Good luck!\xF000븁\x0000
+Aha: A question!\xF000븁\x0000
+Wye: Oh, my! It's tremendously difficult!\nCan the challenger answer this?\xF000븁\x0000
+Ditoh: H-i-n-t! H-i-n-t!\xF000븁\x0000
+Aha: Oh-oh. The audience\nis asking for a hint!\xF000븁\x0000
+Wye: OK.\nI'll give you a hint!\xF000븁\x0000
+Aha: Ha ha, this is a good hint!\nChallenger, please answer!\xF000븁\x0000
+Aha: Woo-hoo!\nThat is c-o-r-r-e-c-t!\xF000븁\x0000
+Wye: You go! Yeah, you do!\xF000븁\x0000
+Ditoh: Yeah! Yeah! Good hustle!\xF000븁\x0000
+Aha: Congratulations!\xF000븁\x0000\nNow--THIS is a prize.\nIt's an Antidote!\xF000븁\x0000
+Aha: Oh, no. Too bad!\nThat's not right, 'cause you are wrong!\xF000븁\x0000
+Wye: Aww... Sadness...\xF000븁\x0000
+Ditoh: Good hustle!\nGustle! Gustle!\xF000븁\x0000
+Aha: Yeah, you gustle!\xF000븁\x0000\nHere ya go... Take this memento.\nIt's a Parlyz Heal!\xF000븁\x0000
+Wye: Exciting! Thrilling! Zippy! Chilling!\nThat's “Pep Quiz"!\xF000븁\x0000\nSee ya tomorrow!
+Aha: Do you like quiz shows?
+Wye: I want to be on TV soon!
+Ditoh: Gussssssssstle!
+What's the name of the mysterious\ncreatures that inhabit our world?\xF000븁\x0000
+What do you say when someone does\na good job?\xF000븁\x0000
+What is the opposite of analog?\xF000븁\x0000
+What do you pay with when you shop?\xF000븁\x0000
+How do you describe people who are\nmadly in love?\xF000븁\x0000
+What do you call your father's brother?\xF000븁\x0000
+Who helps you learn things at school?\xF000븁\x0000
+Which one can a Pokémon hold,\nMail or Marill?\xF000븁\x0000
+What is a vehicle you pedal?\xF000븁\x0000
+What is a two-on-two\nPokémon battle called?\xF000븁\x0000
+What is a tool you use\nwhen you take pictures?\xF000븁\x0000
+What do you take to get clean?\xF000븁\x0000
+Where do you go to heal your Pokémon?\xF000븁\x0000
+Which base stat goes up when Protein\nis used?\xF000븁\x0000
+What is the unevolved Pokémon that\nchanges its Form seasonally?\xF000븁\x0000
+What is the Electrified Pokémon that\ndischarges electricity from its mane?\xF000븁\x0000
+What is the Pokémon that has two gears?\xF000븁\x0000
+What is the Sky Squirrel Pokémon\nthat has huge ears?\xF000븁\x0000
+What is the Attaching Pokémon?\xF000븁\x0000
+What is the Wild Pigeon Pokémon?\xF000븁\x0000
+What is the Grass Monkey Pokémon\nthat grows a leaf from its head?\xF000븁\x0000
+What is the Hearing Pokémon\nthat can hear very well?\xF000븁\x0000
+What is the Coffin Pokémon?\xF000븁\x0000
+What will Woobat be when it evolves?\xF000븁\x0000
+What will Darumaka be when it evolves?\xF000븁\x0000
+What is the Caring Pokémon that wraps\na weak Pokémon with its fins?\xF000븁\x0000
+What is the Drowsing Pokémon?\xF000븁\x0000
+What is the White Bird Pokémon\nwith beautiful wings?\xF000븁\x0000
+What is the Trap Pokémon\nthat hides in the mud?\xF000븁\x0000
+What is the move that lets you\ncross water on a Pokémon's back?\xF000븁\x0000
+What day is it today?\xF000븁\x0000
+Hint!\nIt's not Kémons!\xF000븁\x0000
+Hint! \nThoroughly cooked meat!\xF000븁\x0000
+Hint! \nIt's not golana!\xF000븁\x0000
+Hint!\nIt's inside your wallet!\xF000븁\x0000
+Hint!\nIt starts with L!\xF000븁\x0000
+Hint!\nIt's not big brother!\xF000븁\x0000
+Hint!\nIt's a grown-up person!\xF000븁\x0000
+Hint!\nIt's not Marill!\xF000븁\x0000
+Hint!\nIt has two wheels!\xF000븁\x0000
+Hint!\nIf it's a one-on-one battle, it's Single!\xF000븁\x0000
+Hint!\nSay cheese!\xF000븁\x0000
+Hint!\nIt's not a shower!\xF000븁\x0000
+Hint!\nIt's not a convenience store!\xF000븁\x0000
+Hint!\nIt's not Beauty!\xF000븁\x0000
+Hint!\nIt's not from space!\xF000븁\x0000
+Hint!\nIt's not a Thunderbolt Pokémon!\xF000븁\x0000
+Hint!\nIt's in Chargestone Cave!\xF000븁\x0000
+Hint!\nIt's part Flying type!\xF000븁\x0000
+Hint!\nIt's a very small Pokémon!\xF000븁\x0000
+Hint!\nIt weighs about 33 pounds!\xF000븁\x0000
+Hint!\nIt's not Bulbasaur or Turtwig!\xF000븁\x0000
+Hint!\nThink of “Audio"...\xF000븁\x0000
+Hint!\nIt's a Ghost-type Pokémon!\xF000븁\x0000
+Hint!\nHearts are charming features!\xF000븁\x0000
+Hint!\nIt has a big toothy grin!\xF000븁\x0000
+Hint!\nIt's not a Fire-type Pokémon!\xF000븁\x0000
+Hint!\nIt evolved from a Dream Eater Pokémon!\xF000븁\x0000
+Hint!\nI wanna, I wanna...\xF000븁\x0000
+Hint!\nIt's an Electric and Ground type!\xF000븁\x0000
+Hint!\nIt sounds like catching a wave!\xF000븁\x0000
+Hint!\nIt's related to \xF000Ā\x0001\x0000!\xF000븁\x0000

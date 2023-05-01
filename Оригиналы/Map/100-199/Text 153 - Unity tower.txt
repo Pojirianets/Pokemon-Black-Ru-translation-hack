@@ -1,0 +1,43 @@
+Hello, and welcome to Unity Tower!\nWould you like to go upstairs?
+Indeed.\nPlease step inside the elevator.\xF000븁\x0000
+Please come again.
+This is Unity Tower.\xF000븁\x0000\nTrainers from all over the world cross\nborders and oceans to gather here.\xF000븁\x0000\nVisit whichever floor you like!\xF000븁\x0000\nThe more people you know worldwide,\nthe more floors you can visit.\xF000븁\x0000\nPlease enjoy all that we have to offer!
+Right now, the number of visitors in\nUnity Tower is \xF000ȁ\x0001\x000B.
+Wow! So you like\n\xF000Ĩ\x0001\x0006, then!
+Awesome! The ceiling is sooo high!\xF000븁\x0000\nI wonder how many of me\nyou'd have to stack up to reach it?
+Coming to Unity Tower always\ngets me excited!\xF000븁\x0000\nBeing here always reminds me of how big\nthe world really is!
+You're a new face.\nIs this your first time here?\xF000븁\x0000\nUnity Tower is the place where\nTrainers come from all over the world.\xF000븁\x0000\nThat's why I work hard every day doing\nsecurity checks to protect those\xF000븀\x0000\nyoung Trainers.\xF000븁\x0000\nDon't loiter around here\nand cause trouble.\xF000븀\x0000\n...'Kay, you can pass.\xF000븁\x0000
+
+Seems like I've met you somewhere...\nAnyway, don't get too wound up and fall.\xF000븁\x0000\nWhen guests get hurt, it causes me\nno end of trouble.\xF000븁\x0000\n...'Kay, you can pass.\xF000븁\x0000
+Oh! So you're a Trainer, then!\xF000븁\x0000\nI see. You're far from family\nand traveling the world, huh?\xF000븁\x0000\nI suppose it's fine if you contact them\nonce in a while.\xF000븁\x0000\n'Kay, you can pass.\xF000븁\x0000
+Oh, it's you.\xF000븁\x0000\nHmm... You like trading, do you now?\xF000븁\x0000\nWell, that's all right, isn't it.\nYou're active--just like a young person\xF000븀\x0000\nshould be.\xF000븁\x0000\n'Kay, you can pass.\xF000븁\x0000
+Oh, it's you.\xF000븁\x0000\nSeems like you come here a lot.\nDo you have friends all over the world?\xF000븁\x0000\nI'd never have imagined a world like this\nwhen I was young.\xF000븁\x0000\n'Kay, you can pass.\xF000븁\x0000
+Oh, it's you, \xF000Ā\x0001\x0003!\xF000븁\x0000\nLately, lots of Trainers have been\nlooking for you.\xF000븀\x0000\nYou're just like a movie star, aren't ya?\xF000븁\x0000\nWhen I was your age, the ladies\nused to get worked up over me. Ha ha.\xF000븁\x0000\n'Kay, you can pass.\xF000븁\x0000
+Hey, it's you, \xF000Ā\x0001\x0003!\xF000븁\x0000\nRecently, it looks like there have been\nlots of global Trainers like you.\xF000븁\x0000\nThat means--how do I put it--world peace\ncan't be far off!\xF000븀\x0000\nShould I get my hopes up?\xF000븁\x0000\n'Kay, pass on through!\xF000븁\x0000
+Oh, it's you, \xF000Ā\x0001\x0003!\xF000븁\x0000\nIt feels like since you've started\ncoming, Unity Tower has gotten busier.\xF000븁\x0000\nThere's been a lot more work for this\nold guy, but that's a problem I'm\xF000븀\x0000\nhappy to have.\xF000븁\x0000\nKeep up the good work!\xF000븁\x0000
+Hey, \xF000Ā\x0001\x0003.\xF000븁\x0000\nYou've managed to trade with folks in\neven more places, huh?\xF000븁\x0000\nThat's really something!\nI'd imagine your Pokédex is getting\xF000븀\x0000\npretty full, then?\xF000븁\x0000\nWow, you're amazing!\n'Kay, pass on through.\xF000븁\x0000
+Hey, \xF000Ā\x0001\x0003.\xF000븁\x0000\nUnity Tower is as lively as ever\nwith people who come here to see you.\xF000븁\x0000\nWell, enjoy yourself today!\xF000븁\x0000
+Why, if it isn't \xF000Ā\x0001\x0003!\nWhat? F-fifty countries?!\xF000븁\x0000\nI've never seen a Trainer who has traded\nwith folks in over 50 countries!\xF000븁\x0000\nHow in the world did you manage that?\xF000븁\x0000\n'Kay, please pass through--and feel free\nto wander around!\xF000븁\x0000
+Hey, it's you, \xF000Ā\x0001\x0003.\xF000븁\x0000\nAfter trading with this many people, you\nmust have friends all over the world!\xF000븁\x0000\nHa ha. If you go on a trip, no worries\nabout not knowing anyone, huh?\xF000븁\x0000\n'Kay, please pass through!\xF000븁\x0000
+Why, if it isn't \xF000Ā\x0001\x0003!\xF000븁\x0000\nI almost feel like I don't need to bother\nwith a security check for you anymore.\xF000븀\x0000\nYou can go ahead and pass.\xF000븁\x0000\n...Gotcha!\nI've been a security guard for 30 years!\xF000븁\x0000\nI know trouble just waits for you\nto let your guard down.\xF000븀\x0000\n...'Kay, you can pass.\xF000븁\x0000
+Why, if it isn't \xF000Ā\x0001\x0003.\xF000븁\x0000\nI'll just do a brief security check.\xF000븁\x0000\n...W-what's this? Ooh, it's a kind of gum\nI've never seen! Is it a new brand?\xF000븀\x0000\nMaybe I'll buy some later.\xF000븁\x0000\n'Kay, you can pass.\xF000븁\x0000
+Why, if it isn't \xF000Ā\x0001\x0003.\xF000븁\x0000\nJust a little more, and you'll have\ntraded with every place here, huh?\xF000븁\x0000\nIt's really reassuring to me that kids\nlike you are going to be the ones running\xF000븀\x0000\nthe world!\xF000븀\x0000\nJust a little more to go. You can do it!\xF000븁\x0000\n'Kay, you can pass!\xF000븁\x0000
+It's you, \xF000Ā\x0001\x0003!\nI already heard!\xF000븁\x0000\nYou've finally managed to trade with\npeople from every location, right?\xF000븁\x0000\nIt might just be me, but Unity Tower\nfeels more exciting when you visit.\xF000븀\x0000\nI'm sure it's happy to see you.\xF000븁\x0000\nHey, \xF000Ā\x0001\x0003, I'd like to give my\nthanks as the Unity Tower guard for\xF000븀\x0000\nmaking this building out in the middle\xF000븀\x0000\nof nowhere so lively.\xF000븁\x0000\n'Kay, you can pass. Think of this place\nas your own backyard and feel free to go\xF000븀\x0000\nwhere you please.\xF000븁\x0000
+Please select a floor.\xF000븁\x0000
+Hey, you over there!\nCome here for a second.\xF000븁\x0000
+Don't just loiter around\nand cause trouble.
+Don't get too wound up.\xF000븁\x0000\nIf you run around, fall, and get hurt,\nit'll cause me no end of trouble.
+I suppose it's fine if you contact them\nonce in a while.\xF000븁\x0000\nI'm sure it'll make your folks happy.
+That's all right. You're active--just like\na young person should be.\xF000븁\x0000\nDo your best!
+Do you know people all over the world?\xF000븁\x0000\nI never would've imagined a world\nlike this when I was young.
+When I was your age, the ladies\nused to get worked up over me. Ha ha!
+Recently, it looks like there have been\nlots of global Trainers like you.
+It feels like since you started coming,\nUnity Tower has gotten busier.\xF000븁\x0000\nKeep up the good work!
+I'd imagine your Pokédex is getting\npretty full, then?\xF000븁\x0000\nWell, that's really something.
+Unity Tower is as lively as ever\nwith people who come here to see you.\xF000븁\x0000\nWell, hope you enjoy yourself today.
+How in the world did you manage to trade\nwith so many different places?
+You must know a lot of people in\ndifferent places in the world.\xF000븁\x0000\nHa ha. Even if you go on a trip, no\nworries about not knowing anyone, huh?
+I've been a guard for 30 years.\nToday, all is well, too.\xF000븀\x0000\nMmm... That's great!
+I think I'll try buying that new gum\nnext time.
+When I see you, I suddenly feel very\nsure that the future will be full of hope.
+When you visit, Unity Tower gets exciting!\xF000븁\x0000\nThink of this place as your own backyard\nand feel free to go where you please.

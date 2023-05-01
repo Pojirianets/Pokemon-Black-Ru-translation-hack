@@ -1,0 +1,25 @@
+N: \xF000븉\x0001\x0001It's over!\xF000븁\x0000\nNever again will Pokémon be made to\nsuffer or be held captive by humans.\xF000븁\x0000\nIt's all thanks to my friend, Reshiram!\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001It's over!\xF000븁\x0000\nNever again will Pokémon be made to\nsuffer or be held captive by humans.\xF000븁\x0000\nIt's all thanks to my friend, Zekrom!\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001You may have the title of Champion...\nBut you can't stop me with just a title.\xF000븀\x0000\nYour soft heart has left you weak.\xF000븁\x0000\nYears ago, you lost your Pokémon,\nyour partner, to sickness.\xF000븁\x0000\nIn order to forget the pain in your\nheart, you wandered Unova...\xF000븁\x0000\nWho knows how long it's been since you've\nhad to fight with your full strength?\xF000븁\x0000\nI actually kind of like that\nabout you, though.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001As a Trainer who far outmatches\nthe Champion,\xF000븀\x0000\nI shall issue an order across Unova:\xF000븁\x0000\nTrainers of the world,\nfree your Pokémon!\xF000븉\x0001\x0000\xF000븁\x0000
+Alder: I beg you!\xF000븁\x0000\nSeparating people from Pokémon...\nDo anything but that!\xF000븁\x0000
+N: \xF000븉\x0001\x0001You and I both put our beliefs on the\nline and fought with all our strength.\xF000븁\x0000\nAnd I won.\xF000븁\x0000\nDo not say another word.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001...I've been waiting.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001In the future I envisioned, you obtained\na stone. And, indeed, you have.\xF000븁\x0000\nThat Dark Stone...\nReshiram is responding to it.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001In the future I envisioned, you obtained\na stone. And, indeed, you have.\xF000븁\x0000\nThat Light Stone...\nZekrom is responding to it.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001Stop.\xF000븁\x0000\nThis is not a suitable place\nfor the legendary dragons!\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001From the ground, rise up!\nThe castle of Team Plasma!\xF000븀\x0000\nSurround the Pokémon League!\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001What has just appeared is\nTeam Plasma's castle.\xF000븁\x0000\nThe king's words will resound\nfrom the heights to all below.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001You must come to the castle, as well.\nEverything will be decided there.\xF000븁\x0000\nWhether Pokémon will be liberated\nfrom people,\xF000븀\x0000\nor whether Pokémon and people\xF000븀\x0000\nwill live together...\xF000븁\x0000\nWe will see whose belief is stronger...\nAnd our result will change the world.\xF000븉\x0001\x0000\xF000븁\x0000
+Cheren: Mr. Alder, you're a wreck.\nIt's not fitting for the Champion.\xF000븁\x0000
+Alder: You did well to get this far.\xF000븁\x0000
+Cheren: Somehow, I beat the\nPokémon League, but it wasn't easy.\xF000븁\x0000
+Alder: Er... I have to congratulate you.\xF000븁\x0000
+Cheren: I became stronger because\nI understood what I want to do.\xF000븁\x0000
+\xF000Ā\x0001\x0000!\nTell N this...\xF000븁\x0000\nSome people grow stronger by being\nwith Pokémon.\xF000븁\x0000\nMy Pokémon and I are proof. Together,\nwe learned and became stronger.\xF000븁\x0000
+Cheren: I'll look after Alder. You go on.
+Alder: I... I lost.\xF000븁\x0000\nI should have been able to demonstrate\nthe bond between me and my Pokémon.\xF000븁\x0000\nThat would have shown that brat the\nworthlessness of his outrageous dreams.\xF000븁\x0000\nSo, his convictions were the real thing...\nBe careful.\xF000븁\x0000\nThe ones who change the world are always\nthe ones who pursued their dreams.\xF000븁\x0000\n\xF000Ā\x0001\x0000, I ask this of you.\xF000븁\x0000\nEven if Pokémon and people are\nseparated, nothing good will come of it.\xF000븀\x0000\nPlease let him know that!\xF000븁\x0000
+Alder: I... I lost.\xF000븁\x0000\nI should have been able to demonstrate\nthe bond between me and my Pokémon.\xF000븁\x0000\nThat would have shown that brat the\nworthlessness of his outrageous dreams.\xF000븁\x0000\nSo, his convictions were the real thing...\nBe careful.\xF000븁\x0000\nThe ones who change the world are always\nthe ones who pursued their dreams.\xF000븁\x0000\n\xF000Ā\x0001\x0000, I ask this of you.\xF000븁\x0000\nEven if Pokémon and people are\nseparated, nothing good will come of it.\xF000븀\x0000\nPlease let him know that!
+Alder: I am grateful for\nwhat you did about N.\xF000븁\x0000\nI don't know what he's thinking now,\nbut I'm sure he realizes\xF000븀\x0000\nthat different people and Pokémon\xF000븀\x0000\nhave their own paths to follow.\xF000븁\x0000\nSay now, how about a match with the\nstrongest Trainer in the Unova region?\xF000븁\x0000
+Alder: I've really been looking forward\nto deciding who's the strongest\xF000븀\x0000\nPokémon Trainer in the Unova region!\xF000븁\x0000\nKiai!\xF000븁\x0000
+Alder: Well done!\nYou certainly are an unmatched talent!\xF000븁\x0000\nCome with me!\xF000븁\x0000

@@ -1,0 +1,8 @@
+If you go straight, it doesn't take long.\nBut if you go the wrong way, it's a maze.\xF000븁\x0000\nIs Pinwheel Forest a\npath or a maze for you?
+Burgh: This leads to Pinwheel Forest.\xF000븁\x0000\nIf they manage to scuttle off into the\nforest, we might have trouble.\xF000븁\x0000
+Yo! Traveling Trainer!\nAre your Pokémon getting stronger?\xF000븀\x0000\nHere! This might come in handy!\xF000븁\x0000
+Rock Smash is a move that sometimes\nreduces your foe's Defense stat.\xF000븁\x0000\nIt is super effective against Normal-type\nPokémon, which Gym Leader Lenora likes!
+It's a challenge rock.\xF000븁\x0000\nWould you like to have \xF000Ă\x0001\x0000\nsmash the rock?
+\xF000Ă\x0001\x0000 tried to smash the\nchallenge rock.\xF000븁\x0000\nA piece of the rock broke away!\xF000븁\x0000
+It's a challenge rock.
+Pinwheel Forest\nDid you remember to pack an Antidote?
