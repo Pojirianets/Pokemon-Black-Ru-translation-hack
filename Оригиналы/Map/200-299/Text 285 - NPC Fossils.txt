@@ -1,0 +1,22 @@
+I am researching Pokémon Fossils here.\xF000븁\x0000
+You have a Fossil, don't you?\nShall I turn it back into a Pokémon?
+Which Fossil should I turn back\ninto a Pokémon?
+All right!\xF000븁\x0000\nI will turn the \xF000ĉ\x0001\x0000 back\ninto a Pokémon!\xF000븁\x0000
+Oh, you'd like to keep it as a Fossil? OK!
+
+The Fossil you gave me turned back into\na Pokémon!\xF000븁\x0000\nThis is \xF000ā\x0001\x0000!\nPlease take good care of it.\xF000븁\x0000
+\xF000Ā\x0001\x0000 received\n\xF000ā\x0001\x0001!
+Would you like to give a nickname to the\nnewly received \xF000ā\x0001\x0000?
+Oh, I'm sorry. Your party is full.\xF000븁\x0000\nI will keep it with extra care, so please\ncome back to pick it up when you can!
+If you have a Fossil, bring it to me!
+\xF000ĉ\x0001\x0000
+\xF000ĉ\x0001\x0001
+Root Fossil
+Claw Fossil
+Helix Fossil
+Dome Fossil
+Old Amber
+Armor Fossil
+Skull Fossil
+Cancel
+I-I'm sorry. I'm afraid you'll have\nto come back later.

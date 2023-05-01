@@ -1,0 +1,20 @@
+\xF000Ā\x0001\x0000 used the Pass Power\n“\xF000Ĝ\x0001\x0002!"\xF000븁\x0000
+The effect of “\xF000Ĝ\x0001\x0002"\nwore off!
+The effect of “\xF000Ĝ\x0001\x0002"\nwore off!\xF000븁\x0000
+Checking the status of Pass Power.\xF000븁\x0000
+\xF000\xFF00\x0001\x0002Registered Pass Power\xF000\xFF00\x0001\x0000
+\xF000\xFF00\x0001\x0002Active Pass Power\xF000\xFF00\x0001\x0000
+\xF000Ĝ\x0001\x0000
+\xF000Ĝ\x0001\x0000\xF000봃\x0001\x0000\xF000ȁ\x0001\x0001: \xF000ȁ\x0001\x0002
+\xF000Ā\x0001\x0000's likelihood of\nencountering Pokémon increased!
+\xF000Ā\x0001\x0000's likelihood of\nencountering Pokémon decreased.
+The likelihood for Pokémon\nto hatch from Eggs increased!
+\xF000Ā\x0001\x0000's rate of\nbefriending Pokémon increased!
+Bargains at Poké Marts have started!
+HP of \xF000Ā\x0001\x0000's \xF000Ă\x0001\x0001\nwas restored!
+PP of \xF000Ā\x0001\x0000's \xF000Ă\x0001\x0001\nwas restored!
+\xF000Ā\x0001\x0000's Pokémon now\nreceive more Exp. Points!
+\xF000Ā\x0001\x0000's Pokémon now\nreceive fewer Exp. Points!
+\xF000Ā\x0001\x0000's likelihood of\nreceiving Prize Money increased!
+\xF000Ā\x0001\x0000's likelihood of \ncapturing Pokémon increased!
+All \xF000Ā\x0001\x0000's Pokémon\nare fully recovered!

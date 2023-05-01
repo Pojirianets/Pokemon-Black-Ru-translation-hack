@@ -1,0 +1,70 @@
+Welcome to the Pokémon Musical!\xF000븁\x0000\nHere you can participate in\na musical alone.\xF000븁\x0000\nWould you like to participate?
+Great! Please walk this way!\xF000븁\x0000
+Please visit us again.
+Which show would you like\nto participate in?
+Please choose the Pokémon that\nwill participate.\xF000븁\x0000
+Oh, \xF000Ā\x0001\x0000, \xF000Ā\x0001\x0000...\xF000븁\x0000\nI'm so very moved, I'm at a loss\nfor words...
+Your Pokémon gleamed like a superstar!\xF000븁\x0000\nI want to follow in your\nstylish footsteps!
+I'll come watch again, \xF000Ā\x0001\x0000.\xF000븁\x0000\nThat was so wonderful...\nIt may have changed my life.
+\xF000Ā\x0001\x0000! That musical was the\nbest ever!\xF000븁\x0000\nIt made me feel so energetic! Please\ncome back and perform for us again!
+Oh, that performance was so inspiring!\xF000븁\x0000\nIt was so full of hopes and dreams! It\nmade me feel like I could climb mountains!
+\xF000Ā\x0001\x0000! Great show today!\xF000븁\x0000\nI'm moved no matter how many\ntimes I see your performance!
+Everyone's talking about the musical\nat work, and it's all thanks to you!\xF000븁\x0000\nWe all love your innovative Dress Up.\nYou're like our fashion muse!
+I'm so glad I got to see your Pokémon on\nstage. I'm overwhelmed with emotion!\xF000븁\x0000\nI'm not exaggerating!
+Your performance... Before I knew what\nwas happening, I was drawn into it.\xF000븁\x0000\nIt's almost as if it had some\nstrange power...
+Your performances are so very artistic!\xF000븁\x0000\nIf an artist like me tells you so, there's\nno mistaking it!
+Oh, \xF000Ā\x0001\x0000, \xF000Ā\x0001\x0000...\xF000븁\x0000\nI'm so very moved, I'm at a loss\nfor words...\xF000븁\x0000\nPlease take this Prop\nas a token of my feelings!\xF000븁\x0000
+Your Pokémon gleamed like a superstar!\xF000븁\x0000\nI want to follow in your\nstylish footsteps!\xF000븁\x0000\nPerhaps this Prop can enhance\nyour brilliance!\xF000븁\x0000
+I'll come watch again, \xF000Ā\x0001\x0000.\xF000븁\x0000\nThat was so wonderful...\nIt may have changed my life.\xF000븁\x0000\nI hope you like this Prop...\xF000븁\x0000
+\xF000Ā\x0001\x0000! That musical was the\nbest ever!\xF000븁\x0000\nIt made me feel so energetic! Please\ncome back and perform for us again!\xF000븁\x0000\nHey, maybe you can use this Prop\nnext time!\xF000븁\x0000
+Oh, that performance was so inspiring!\xF000븁\x0000\nIt was so full of hopes and dreams! It\nmade me feel like I could climb mountains!\xF000븁\x0000\nHere, this is for you. Thank you for\nthe inspiration!\xF000븁\x0000
+\xF000Ā\x0001\x0000! Great show today!\xF000븁\x0000\nI'm moved no matter how many\ntimes I see your performance!\xF000븁\x0000\nI'd love to see you use this on stage!\xF000븁\x0000
+Everyone's talking about the musical\nat work, and it's all thanks to you!\xF000븁\x0000\nWe all love your innovative Dress Up.\nYou're like our fashion muse!\xF000븁\x0000\nMaybe you could work this Prop into one\nof your fabulous Dress Up designs!\xF000븁\x0000
+I'm so glad I got to see your Pokémon on\nstage. I'm overwhelmed with emotion!\xF000븁\x0000\nI'm not exaggerating!\xF000븁\x0000\nHere, please take this small token of\nmy appreciation.\xF000븁\x0000
+Your performance... Before I knew what\nwas happening, I was drawn into it.\xF000븁\x0000\nIt's almost as if it had some\nstrange power...\xF000븁\x0000\nI charmed this so that it will be useful.\xF000븁\x0000
+Your performances are so very artistic!\xF000븁\x0000\nIf an artist like me tells you so, there's\nno mistaking it!\xF000븁\x0000\nHere's a new Prop to use in your art!\xF000븁\x0000
+In fact, this person does not exist...
+Received the \xF000\xFF00\x0001\x0002\xF000Ċ\x0001\x0001\xF000\xFF00\x0001\x0000!
+\xF000Ā\x0001\x0000 put the \xF000Ċ\x0001\x0001\nin the \xF000\xFF00\x0001\x0002Prop Case\xF000\xFF00\x0001\x0000!
+\xF000Ā\x0001\x0000 put the \xF000Ċ\x0001\x0001\nin the \xF000\xFF00\x0001\x0002Prop Case\xF000\xFF00\x0001\x0000!\xF000븁\x0000
+Stardom
+Forest Stroll
+A Sweet Soirée
+Exciting Nimbasa
+\xF000Ģ\x0001\x0000
+Cancel
+Yes
+No
+Info
+Become leader
+Join group
+Cancel
+
+
+Welcome to the Pokémon Musical!\xF000븁\x0000\nHere you and your friends can\nperform together!\xF000븁\x0000\nWould you like to participate?
+I'm sorry, but you don't have an\neligible Pokémon in your party.\xF000븁\x0000\nPlease come back again with\ndifferent Pokémon!\xF000븁\x0000
+
+Would you like to use\nInfrared Communication or\xF000븀\x0000\nDS Wireless Communications?
+Infrared Communication
+DS Wireless Communications
+
+Would you like to launch\nInfrared Communication and\xF000븀\x0000\nDS Wireless Communications?
+One of you will become the leader.\nThat person will get to choose the show\xF000븀\x0000\nyou'll perform!\xF000븁\x0000\nThe other members should select\n“Join group."
+Launch DS Wireless Communications?
+Thank you for waiting.\nThis way, please!\xF000븂\x0001<
+Participate in the musical?
+
+Welcome to the Pokémon Musical!\xF000븁\x0000\nThis is a changing room for Dress Up only.\nWould you like to Dress Up your Pokémon?
+This way, please!\xF000븁\x0000
+Would you like to Dress Up your Pokémon?
+What would you like me to explain?
+What's the Pokémon Musical?
+The Pokémon Musical is a show where\nPokémon wearing Props perform on stage.\xF000븀\x0000\nAnyone can participate!\xF000븁\x0000\nWe encourage all Trainers to show the\nworld how charming their Pokémon are!\xF000븁\x0000\nThe audience is looking forward to seeing\nhow you Dress Up your Pokémon, and how\xF000븀\x0000\nyour Pokémon perform!\xF000븁\x0000
+How to Participate
+You can join the musical from any of the\nthree reception areas.\xF000븁\x0000\nThe reception area in the center is for\nparticipating alone.\xF000븁\x0000\nWhen you participate alone, you will\nbe joined by other Trainers from around\xF000븀\x0000\nthe Unova region.\xF000븁\x0000\nIf you want to put on a musical with your\nfriends, go to the left reception area.\xF000븁\x0000\nYou'll be asked to pick a Leader who\nwill choose which show to perform,\xF000븀\x0000\nand the others will join the group.\xF000븁\x0000\nThe reception area to the right is where\nyou go to Dress Up only.\xF000븁\x0000
+Eligible Pokémon
+The Pokémon that will participate in the\nmusical are chosen from your party at\xF000븀\x0000\nthe reception area.\xF000븁\x0000\nBecause of their shape, some Pokémon\nhave a hard time wearing certain Props.\xF000븁\x0000\nYou might want to try Dress Up in the\nchanging room first if you're worried!\xF000븁\x0000
+Dress Up
+Oh, Dress Up is my favorite part! That's\nwhere you put the Props you've collected\xF000븀\x0000\non the Pokémon that will be performing.\xF000븁\x0000\nDepending on the Pokémon, you can put\nthe Props in different places.\xF000븁\x0000\nWhen you use Props that fit the theme of\nthe show you've chosen, the audience\xF000븀\x0000\nwill notice your Pokémon more!\xF000븁\x0000\nSometimes a Prop that doesn't fit the\ntheme will also make your Pokémon\xF000븀\x0000\nstand out.\xF000븁\x0000\nIf you want to get an idea of how it's\ndone, you can watch how other people\xF000븀\x0000\nDress Up and then try it yourself!\xF000븁\x0000
+Shows
+You can choose which show to perform\nwhen you participate in the musical.\xF000븁\x0000\nThere is no need for Trainers to give\ncommands, but if your Pokémon is carrying\xF000븀\x0000\na Prop in its arms, it can use that Prop\xF000븀\x0000\nto show off and appeal to the audience.\xF000븁\x0000\nDepending on how you Dress Up your\nPokémon, the reactions from the audience\xF000븀\x0000\nwill change!\xF000븁\x0000

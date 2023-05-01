@@ -1,0 +1,23 @@
+You can call me the Judge.\xF000븁\x0000\nHeh heh, that's actually not my real\nname, but it's what everyone calls me.\xF000븁\x0000\nIt's because of this weird power I have.\nIt's a gift, really.\xF000븁\x0000\nI can discern--judge, you might say--the\noverall potential of individual Pokémon.\xF000븁\x0000\nIf you'd like, I could judge the\nintriguing potential of your Pokémon.\xF000븁\x0000
+If you'd like, I could judge the\nintriguing potential of your Pokémon.\xF000븁\x0000
+...Oh?\nYou don't need me to judge. I get it.
+Judge an Egg?!\nThat's a tall order even for me!
+I see, I see...\xF000븁\x0000\nThis Pokémon's potential is\ndecent all around.\xF000븁\x0000\nThat's my determination, and it's final.\xF000븁\x0000
+I see, I see...\xF000븁\x0000\nThis Pokémon's potential is\nabove average overall.\xF000븁\x0000\nThat's my determination, and it's final.\xF000븁\x0000
+I see, I see...\xF000븁\x0000\nThis Pokémon has\nrelatively superior potential overall.\xF000븁\x0000\nThat's my determination, and it's final.\xF000븁\x0000
+I see, I see...\xF000븁\x0000\nThis Pokémon has\noutstanding potential overall.\xF000븁\x0000\nThat's my determination, and it's final.\xF000븁\x0000
+Incidentally, I would say the best\npotential lies in its HP.\xF000븁\x0000
+Incidentally, I would say the best\npotential lies in its Attack stat.\xF000븁\x0000
+Incidentally, I would say the best\npotential lies in its Defense stat.\xF000븁\x0000
+Incidentally, I would say the best\npotential lies in its Sp. Atk stat.\xF000븁\x0000
+Incidentally, I would say the best\npotential lies in its Sp. Def stat.\xF000븁\x0000
+Incidentally, I would say the best\npotential lies in its Speed stat.\xF000븁\x0000
+And its Attack stat\nis also good.\xF000븁\x0000
+I see. Its Defense stat\nis also good.\xF000븁\x0000
+Its Sp. Atk stat\nis equally good.\xF000븁\x0000
+Its Sp. Def stat\nis good as well.\xF000븁\x0000
+Well, its Speed stat\nis also good.\xF000븁\x0000
+It's rather decent in that regard.\nThat's how I judged it.
+It's very good in that regard.\nThat's how I judged it.
+It's fantastic in that regard.\nThat's how I judged it.
+It can't be better in that regard.\nThat's how I judged it.

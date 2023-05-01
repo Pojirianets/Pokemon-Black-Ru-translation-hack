@@ -1,0 +1,9 @@
+Cancel
+1F
+2F
+
+11F
+22F
+47F
+55F
+Which floor would you like to go to?

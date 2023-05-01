@@ -1,0 +1,9 @@
+Deoxys is reacting to the meteor...\xF000븁\x0000\nWould you like to bring the Deoxys\nin your party closer to the meteor?
+Which Deoxys would you like to\nbring closer to the meteor?\xF000븁\x0000
+The Pokémon is not reacting\nto the meteor.
+The Egg is not reacting\nto the meteor.
+\xF000Ă\x0001\x0000 has changed to\nhave balanced stats!
+\xF000Ă\x0001\x0000 has changed to\nhave superior stats for attacking!
+\xF000Ă\x0001\x0000 has changed to\nhave superior stats when defending!
+\xF000Ă\x0001\x0000 has changed\nto have increased Speed!
+There is a meteor that fell from space...

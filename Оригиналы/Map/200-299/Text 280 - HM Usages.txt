@@ -1,0 +1,33 @@
+This tree looks like it can be\ncut down! Would you like to cut it?
+\xF000Ă\x0001\x0000 used Cut!\xF000븁\x0000
+This tree looks like it can be\ncut down!
+
+
+
+It's a big boulder, but a Pokémon\nmay be able to push it aside.\xF000븁\x0000\nWould you like to use Strength?
+
+It's a big boulder, but a Pokémon\nmay be able to push it aside.
+Strength made it possible to move\nboulders around.
+\xF000Ă\x0001\x0000 used Strength!\xF000븁\x0000
+\xF000Ă\x0001\x0000's Strength made it\npossible to move boulders around!
+
+The water is a deep blue...\nWould you like to surf on it?
+\xF000Ă\x0001\x0000 used Surf!\xF000븁\x0000
+Surf can't be used if you have\nsomeone with you.
+
+
+
+
+
+
+
+It's a large waterfall.\nWould you like to use Waterfall?
+\xF000Ă\x0001\x0000 used Waterfall!\xF000븁\x0000
+A wall of water is crashing down with\na mighty roar.
+
+\xF000Ă\x0001\x0000 used Flash!\xF000븁\x0000
+\xF000Ă\x0001\x0000 used Teleport!\xF000븁\x0000
+\xF000Ă\x0001\x0000 used Dig!\xF000븁\x0000
+It's a deep part of the sea, but a\nPokémon may be able to dive down.
+It's a deep part of the sea.\nWould you like to use Dive?
+\xF000Ă\x0001\x0000 used Dive!\xF000븁\x0000
