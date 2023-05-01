@@ -1,0 +1,180 @@
+CONFIRM
+CANCEL
+L\xF000Ȃ\x0001\x0000
+\xF000Ă\x0001\x0000
+\xF000Ȃ\x0001\x0000
+\xF000Ȃ\x0001\x0000
+/
+⑭
+⑮
+Choose a Pokémon.
+
+Move to where?
+Give to which Pokémon?
+Use on which Pokémon?
+Teach which Pokémon?
+
+Deposit which Pokémon?
+Use on which Pokémon?
+Do what with\n\xF000Ă\x0001\x0000?
+Do what with\nan item?
+
+Restore\nwhich move?
+Boost the PP\nof which move?
+Send the removed Mail to\nyour PC?
+
+
+The Mail was sent to your PC.
+If the Mail is removed, its written\nmessage will be lost. Is that OK?
+
+
+Your PC's Mailbox is full.
+Mail was taken from the\nPokémon.
+\xF000Ă\x0001\x0000 wants to learn the\nmove \xF000ć\x0001\x0001.\xF000븁\x0000\nHowever, \xF000Ă\x0001\x0000 already\nknows four moves.\xF000븁\x0000\nShould a move be deleted and\nreplaced with \xF000ć\x0001\x0001?
+
+
+Give up on learning the move\n\xF000ć\x0001\x0001?
+
+
+\xF000Ă\x0001\x0000 did not learn\n\xF000ć\x0001\x0001.
+Which move should\nbe forgotten?
+1, \xF000븂\x0001\x00142, and\xF000븂\x0001\x0014... \xF000븂\x0001\x0014... \xF000븂\x0001\x0014... Ta-da!\xF000븅\x0001\x0003\xF000븅\x0001\x0006\xF000븁\x0000\n\xF000Ă\x0001\x0000 forgot how to\nuse \xF000ć\x0001\x0001.\xF000븁\x0000\nAnd...
+\xF000Ă\x0001\x0000 learned\n\xF000ć\x0001\x0001!\xF000븅\x0001\x0002\xF000븅\x0001\x0005
+\xF000Ă\x0001\x0000 and \xF000ć\x0001\x0001\nare not compatible.\xF000븁\x0000\n\xF000ć\x0001\x0001 can't be learned.
+\xF000Ă\x0001\x0000 already knows\n\xF000ć\x0001\x0001.
+\xF000Ă\x0001\x0000's HP was restored\nby \xF000Ȃ\x0001\x0001 point(s).
+\xF000Ă\x0001\x0000 was cured of its\npoisoning.
+\xF000Ă\x0001\x0000 was cured of\nparalysis.
+\xF000Ă\x0001\x0000's burn was healed.
+\xF000Ă\x0001\x0000 was thawed out.
+PP was restored.
+\xF000Ă\x0001\x0000 recovered from\nfainting!
+\xF000Ă\x0001\x0000 became healthy.
+\xF000ć\x0001\x0000's PP\nincreased.
+
+
+\xF000Ă\x0001\x0000's base \xF000č\x0001\x0001\nrose!
+This can't be used until a new\nBadge is obtained.
+Must remove Mail before the\nPokémon is allowed to hold an item.
+\xF000Ă\x0001\x0000 is already holding\n\xF000ĉ\x0001\x0001.\xF000븁\x0000\nWould you like to switch the\ntwo items?
+
+
+\xF000Ă\x0001\x0000 isn't holding\nanything.
+Received the \xF000ĉ\x0001\x0001\nfrom \xF000Ă\x0001\x0000.
+The Bag is full.
+The \xF000ĉ\x0001\x0001 was taken and\nreplaced with the \xF000ĉ\x0001\x0002.
+
+
+
+
+
+
+\xF000Ă\x0001\x0000 woke up.
+
+
+
+
+
+
+
+You're already surfing.
+You can't use that here.
+It won't have any effect.
+
+\xF000Ă\x0001\x0000 became more friendly.\xF000븁\x0000\nHowever, its base \xF000č\x0001\x0001 fell!
+\xF000Ă\x0001\x0000 adores you!\xF000븁\x0000\nIts base \xF000č\x0001\x0001 fell!
+\xF000Ă\x0001\x0000 became more friendly.\xF000븁\x0000\nIts base \xF000č\x0001\x0001 can't go lower.
+\xF000Ă\x0001\x0000 was given the\n\xF000ĉ\x0001\x0001 to hold.
+Choose a Pokémon.
+Two Pokémon are needed.
+Three Pokémon are needed.
+Four Pokémon are needed.
+Five Pokémon are needed.
+Six Pokémon are needed.
+No more than one Pokémon\nmay enter.
+No more than two Pokémon\nmay enter.
+No more than three Pokémon\nmay enter.
+No more than four Pokémon\nmay enter.
+No more than five Pokémon\nmay enter.
+Mail was transferred from\nthe Mailbox.
+This Pokémon is holding an item.\nIt cannot hold Mail.
+This can't be used on\nthat Pokémon.
+
+
+
+
+
+
+Not enough HP...
+SWITCH
+SUMMARY
+ITEM
+MAIL
+READ
+TAKE
+STORE
+QUIT
+
+ENTER
+NO ENTRY
+
+
+
+
+GIVE
+TAKE
+
+
+
+
+NOT ENTERED
+BANNED
+FIRST
+SECOND
+THIRD
+FOURTH
+FIFTH
+SIXTH
+ABLE!
+UNABLE!
+LEARNED
+ABLE!
+UNABLE!
+
+
+Identical Pokémon are not permitted.\n
+Some Pokémon are holding identical\nitems.
+The total of all party members'\nlevels has gone over \xF000Ȃ\x0001\x0000.
+
+The Pokémon which must participate\nis not selected.
+MAX HP
+ATTACK
+DEFENSE
+SP. ATK
+SP. DEF
+SPEED
++
+\xF000Ȃ\x0001\x0000
+\xF000Ă\x0001\x0000 was elevated to\nLv. \xF000Ȃ\x0001\x0001!\xF000븅\x0001\x0002\xF000븅\x0001\x0005
+
+You can't use that when you have\nsomeone with you.
+
+
+What will you do\nwith the Egg?
+Please select an Egg.
+
+CONFIRM
+\xF000ā\x0001\x0000 changed Forme!
+
+
+\xF000Ā\x0001\x0000 is standing by...
+One person standing by...
+Two people standing by...
+Three people standing by...
+Time Limit
+\xF000ȁ\x0001\x0000:\xF000ȁ\x0001\x0001
+\xF000ȁ\x0001\x0001
+Communicating. Please wait.
+YES
+NO
+You used your last \xF000ĉ\x0001\x0000.

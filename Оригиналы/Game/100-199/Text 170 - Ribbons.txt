@@ -1,0 +1,165 @@
+Champion Ribbon
+Sinnoh Champ Ribbon
+Cool Ribbon
+Cool Ribbon Super
+Cool Ribbon Hyper
+Cool Ribbon Master
+Beauty Ribbon
+Beauty Ribbon Super
+Beauty Ribbon Hyper
+Beauty Ribbon Master
+Cute Ribbon
+Cute Ribbon Super
+Cute Ribbon Hyper
+Cute Ribbon Master
+Smart Ribbon
+Smart Ribbon Super
+Smart Ribbon Hyper
+Smart Ribbon Master
+Tough Ribbon
+Tough Ribbon Super
+Tough Ribbon Hyper
+Tough Ribbon Master
+Cool Ribbon
+Cool Ribbon Great
+Cool Ribbon Ultra
+Cool Ribbon Master
+Beauty Ribbon
+Beauty Ribbon Great
+Beauty Ribbon Ultra
+Beauty Ribbon Master
+Cute Ribbon
+Cute Ribbon Great
+Cute Ribbon Ultra
+Cute Ribbon Master
+Smart Ribbon
+Smart Ribbon Great
+Smart Ribbon Ultra
+Smart Ribbon Master
+Tough Ribbon
+Tough Ribbon Great
+Tough Ribbon Ultra
+Tough Ribbon Master
+Winning Ribbon
+Victory Ribbon
+Ability Ribbon
+Great Ability Ribbon
+Double Ability Ribbon
+Multi Ability Ribbon
+Pair Ability Ribbon
+World Ability Ribbon
+Artist Ribbon
+Effort Ribbon
+Alert Ribbon
+Shock Ribbon
+Downcast Ribbon
+Careless Ribbon
+Relax Ribbon
+Snooze Ribbon
+Smile Ribbon
+Gorgeous Ribbon
+Royal Ribbon
+Gorgeous Royal Ribbon
+Footprint Ribbon
+Record Ribbon
+Legend Ribbon
+Country Ribbon
+National Ribbon
+Earth Ribbon
+World Ribbon
+Classic Ribbon
+Premier Ribbon
+Event Ribbon
+Birthday Ribbon
+Special Ribbon
+Souvenir Ribbon
+Wishing Ribbon
+Battle Champion Ribbon
+Regional Champion Ribbon
+National Champion Ribbon
+World Champion Ribbon
+Ribbon for clearing the Pokémon League and\nentering the Hall of Fame in another region.
+Ribbon awarded for beating the Sinnoh\nChampion and entering the Hall of Fame.
+Hoenn Cool Contest\nNormal Rank winner!
+Hoenn Cool Contest\nSuper Rank winner!
+Hoenn Cool Contest\nHyper Rank winner!
+Hoenn Cool Contest\nMaster Rank winner!
+Hoenn Beauty Contest\nNormal Rank winner!
+Hoenn Beauty Contest\nSuper Rank winner!
+Hoenn Beauty Contest\nHyper Rank winner!
+Hoenn Beauty Contest\nMaster Rank winner!
+Hoenn Cute Contest\nNormal Rank winner!
+Hoenn Cute Contest\nSuper Rank winner!
+Hoenn Cute Contest\nHyper Rank winner!
+Hoenn Cute Contest\nMaster Rank winner!
+Hoenn Smart Contest\nNormal Rank winner!
+Hoenn Smart Contest\nSuper Rank winner!
+Hoenn Smart Contest\nHyper Rank winner!
+Hoenn Smart Contest\nMaster Rank winner!
+Hoenn Tough Contest\nNormal Rank winner!
+Hoenn Tough Contest\nSuper Rank winner!
+Hoenn Tough Contest\nHyper Rank winner!
+Hoenn Tough Contest\nMaster Rank winner!
+Super Contest Cool Category\nNormal Rank winner!
+Super Contest Cool Category\nGreat Rank winner!
+Super Contest Cool Category\nUltra Rank winner!
+Super Contest Cool Category\nMaster Rank winner!
+Super Contest Beauty Category\nNormal Rank winner!
+Super Contest Beauty Category\nGreat Rank winner!
+Super Contest Beauty Category\nUltra Rank winner!
+Super Contest Beauty Category\nMaster Rank winner!
+Super Contest Cute Category\nNormal Rank winner!
+Super Contest Cute Category\nGreat Rank winner!
+Super Contest Cute Category\nUltra Rank winner!
+Super Contest Cute Category\nMaster Rank winner!
+Super Contest Smart Category\nNormal Rank winner!
+Super Contest Smart Category\nGreat Rank winner!
+Super Contest Smart Category\nUltra Rank winner!
+Super Contest Smart Category\nMaster Rank winner!
+Super Contest Tough Category\nNormal Rank winner!
+Super Contest Tough Category\nGreat Rank winner!
+Super Contest Tough Category\nUltra Rank winner!
+Super Contest Tough Category\nMaster Rank winner!
+Ribbon awarded for clearing Hoenn's\nBattle Tower's Lv. 50 challenge.
+Ribbon awarded for clearing Hoenn's\nBattle Tower's Lv. 100 challenge.
+A Ribbon awarded for defeating the\nTower Tycoon at the Battle Tower.
+A Ribbon awarded for defeating the\nTower Tycoon at the Battle Tower.
+A Ribbon awarded for completing the\nBattle Tower Double challenge.
+A Ribbon awarded for completing the\nBattle Tower Multi challenge.
+A Ribbon awarded for completing the\nBattle Tower Link Multi challenge.
+A Ribbon awarded for completing the\nWi-Fi Battle Tower challenge.
+Ribbon awarded for being chosen as\na super sketch model in Hoenn.
+Ribbon awarded for being an\nexceptionally hard worker.
+A Ribbon for recalling an invigorating\nevent that created life energy.
+A Ribbon for recalling a thrilling\nevent that made life more exciting.
+A Ribbon for recalling feelings of\nsadness that added spice to life.
+A Ribbon for recalling a careless error\nthat helped steer life decisions.
+A Ribbon for recalling a refreshing\nevent that added sparkle to life.
+A Ribbon for recalling a deep\nslumber that made life soothing.
+A Ribbon for recalling that smiles\nenrich the quality of life.
+An extraordinarily gorgeous and\nextravagant Ribbon.
+An incredibly regal Ribbon with an\nair of nobility.
+A gorgeous and regal Ribbon that\nis the peak of fabulous.
+A Ribbon awarded to a Pokémon deemed\nto have a top-quality footprint.
+A Ribbon awarded for setting an\nincredible record.
+A Ribbon awarded for setting a\nlegendary record.
+Pokémon League\nChampion Ribbon
+A Ribbon awarded for overcoming all\ndifficult challenges.
+A Ribbon awarded for winning 100\nmatches in a row.
+Pokémon League\nChampion Ribbon
+A Ribbon that proclaims love for\nPokémon.
+Special Holiday Ribbon
+Pokémon Event\nParticipation Ribbon
+A Ribbon to celebrate a birthday.
+A special Ribbon for a special day.
+A Ribbon to cherish a special memory.
+A Ribbon said to make your wish come true.
+Battle Competition\nChampion Ribbon
+Pokémon World Championships\nRegional Champion Ribbon
+Pokémon World Championships\nNational Champion Ribbon
+Pokémon World Championships\nWorld Champion Ribbon
+League Ribbon\xF000ȁ\x0001\x0000
+Contest Ribbon\xF000ȁ\x0001\x0000
+Tower Ribbon\xF000ȁ\x0001\x0000
+Memorial Ribbon\xF000ȁ\x0001\x0000
+Gift Ribbon\xF000ȁ\x0001\x0000

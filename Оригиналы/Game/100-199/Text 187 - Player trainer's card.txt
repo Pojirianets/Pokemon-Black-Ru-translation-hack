@@ -1,0 +1,111 @@
+NAME
+
+NATURE
+POKÉDEX
+MONEY
+ID No.
+TIME
+ADVENTURE STARTED
+HALL OF FAME DEBUT
+TIMES LINKED
+LINK BATTLES
+LINK BATTLE WINS
+LINK BATTLE LOSSES
+LINK TRADES
+WILD POKÉMON ENCOUNTERS
+TRAINERS BATTLED
+PEOPLE PASSED BY
+FEELING CHECKS
+USABLE PASS POWERS
+MUSICAL PERFORMANCES
+Poké Transfer HIGH SCORE
+Battle Test HIGH SCORE
+
+:
+-- --, ---- --:--
+
+
+
+
+
+
+Hardy
+Lonely
+Brave
+Adamant
+Naughty
+Bold
+Docile
+Relaxed
+Impish
+Lax
+Timid
+Hasty
+Serious
+Jolly
+Naive
+Modest
+Mild
+Quiet
+Bashful
+Rash
+Calm
+Gentle
+Sassy
+Careful
+Quirky
+
+$\xF000Ȇ\x0001\x0000
+\xF000ȁ\x0001\x0001/\xF000ȁ\x0001\x0002/\xF000ȃ\x0001\x0000
+\xF000ȁ\x0001\x0001/\xF000ȁ\x0001\x0002/\xF000ȃ\x0001\x0000   \xF000ȁ\x0001\x0003:\xF000ȁ\x0001\x0004
+\xF000Ȃ\x0001\x0000
+Striaton City Gym Leaders\nChili, Cress, Cilan
+Triple Trouble!
+The fundamentals of Pokémon battling\nare type matchups! They're important!
+Nacrene City Gym Leader\nLenora
+An Archeologist with Backbone
+Curiosity is the spice of life!\nWithout it, life is bland!
+Castelia City Gym Leader\nBurgh
+Premier Insect Artist
+Umm... That's right. You!\nUse Bug-type Pokémon!
+Nimbasa City Gym Leader\nElesa
+The Shining Beauty
+May you always continue to be a person\nwho brightens your surroundings.
+Driftveil City Gym Leader\nClay
+The Underground Boss
+Ya always want to live honestly\nfer yerself and yer Pokémon.
+Mistralton City Gym Leader\nSkyla
+The High-Flying Girl
+You’ll see smiles all around you,\nwith the brightest of skies above you.
+Icirrus City Gym Leader\nBrycen
+Ice Mask
+Don't limit yourself to hot or cold, but\nuse them both to your best advantage.
+Opelucid City Gym Leader\nDrayden
+The Spartan Mayor
+Sincere Trainer,\nkeep growing stronger!
+Opelucid City Gym Leader\nIris
+The Girl Who Knows the Hearts of Dragons
+Know what? You were very strong!\nI'll never forget you, ever!
+Trio Badge\nReceived: \xF000ȁ\x0001\x0001/\xF000ȁ\x0001\x0002/\xF000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 20 will\nobey you.
+
+Basic Badge\nReceived: \xF000ȁ\x0001\x0001/\xF000ȁ\x0001\x0002/\xF000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 30 will\nobey you.
+
+Insect Badge\nReceived: \xF000ȁ\x0001\x0001/\xF000ȁ\x0001\x0002/\xF000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 40 will\nobey you.
+
+Bolt Badge\nReceived: \xF000ȁ\x0001\x0001/\xF000ȁ\x0001\x0002/\xF000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 50 will\nobey you.
+
+Quake Badge\nReceived: \xF000ȁ\x0001\x0001/\xF000ȁ\x0001\x0002/\xF000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 60 will\nobey you.
+
+Jet Badge\nReceived: \xF000ȁ\x0001\x0001/\xF000ȁ\x0001\x0002/\xF000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 70 will\nobey you.
+
+Freeze Badge\nReceived: \xF000ȁ\x0001\x0001/\xF000ȁ\x0001\x0002/\xF000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 80 will\nobey you.
+
+Legend Badge\nReceived: \xF000ȁ\x0001\x0001/\xF000ȁ\x0001\x0002/\xF000ȃ\x0001\x0000
+All traded Pokémon, regardless of level,\nwill obey you.

@@ -1,0 +1,5 @@
+Hello!\nHow is everybody doing?\xF000븁\x0000\nYou and your Pokémon are getting\nalong great now, right?\xF000븁\x0000
+Oh! Professor!\xF000븁\x0000
+Right now, I'm in front of Accumula Town's\nPokémon Center!\xF000븁\x0000\nI'd like to show you around, \nso hurry on over, everyone!\xF000븁\x0000
+OK!\nThe Pokémon Center, right!\xF000븁\x0000
+OK!\nSee you!\xF000븁\x0000

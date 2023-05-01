@@ -1,0 +1,163 @@
+OFFER
+QUIT
+SHOW
+SUMMARY
+TRADE
+CANCEL
+Communicating. Please stand by...
+
+
+
+
+
+
+
+
+
+IN PARTY
+Trade \xF000Ă\x0001\x0000 in return for\n\xF000Ă\x0001\x0001?
+Lv. \xF000Ȃ\x0001\x0000
+
+
+
+
+
+YES
+NO
+
+No. \xF000Ȃ\x0001\x0001
+\xF000ā\x0001\x0000
+\xF000Ă\x0001\x0000
+HP
+Attack
+Defense
+Sp. Atk
+Sp. Def
+Speed
+Nature
+Ability
+
+\xF000Ȃ\x0001\x0000/\xF000Ȃ\x0001\x0001
+\xF000Ȃ\x0001\x0000
+\xF000Ĉ\x0001\x0000
+\xF000Ć\x0001\x0000
+\xF000ĉ\x0001\x0000
+MOVES LEARNED
+\xF000ć\x0001\x0000
+⑭
+⑮
+\xF000Ā\x0001\x0000 sent over\n\xF000Ă\x0001\x0001.
+Take good care of \xF000Ă\x0001\x0001!
+Stopping communications...\nPlease wait.
+Select the first letter in the name of\nthe Pokémon you want to find.
+No Pokémon with the selected\nletter was found.
+\xF000봂\x0000A
+\xF000봂\x0000B
+\xF000봂\x0000C
+\xF000봂\x0000D
+\xF000봂\x0000E
+\xF000봂\x0000F
+\xF000봂\x0000G
+\xF000봂\x0000H
+\xF000봂\x0000I
+\xF000봂\x0000J
+\xF000봂\x0000K
+\xF000봂\x0000L
+\xF000봂\x0000M
+\xF000봂\x0000N
+\xF000봂\x0000O
+\xF000봂\x0000P
+\xF000봂\x0000Q
+\xF000봂\x0000R
+\xF000봂\x0000S
+\xF000봂\x0000T
+\xF000봂\x0000U
+\xF000봂\x0000V
+\xF000봂\x0000W
+\xF000봂\x0000X
+\xF000봂\x0000Y
+\xF000봂\x0000Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The trade has been canceled.
+You need that Pokémon to\nget through your adventure!
+There is a Pokémon that cannot be\ntraded in the other Trainer's party.
+There is a Pokémon that cannot be\ntraded in your party.
+It has learned an HM move.\nYou cannot let it leave your party.
+The other Trainer apparently wants to\ntrade Pokémon with you.
+Cancel trading?
+Waiting for the other player to finish...
+Egg
+The Mail held by the Pokémon\nwas sent to your PC.
+
+
+
+
+The other Trainer cannot\nreceive Mail. The trade will be canceled.
+
+Please choose your Pokémon to offer.\nYou can select up to three Pokémon.
+\xF000봃\x0001\x0000Selecting...
+\xF000봃\x0001\x0000Selected
+\xF000봃\x0001\x0000Waiting...
+The Pokémon that\n\xF000Ā\x0001\x0000 wants
+Any Pokémon
+Cool Pokémon
+Cute Pokémon
+Scary Pokémon
+Strange Pokémon
+Any
+Lv. 1 through 49
+Lv. 50
+Lv. 51 through 100
+
+\xF000Ā\x0001\x0000
+Sending \xF000Ă\x0001\x0000 to \xF000Ā\x0001\x0001.\nGood-bye, \xF000Ă\x0001\x0000!
+Returning \xF000Ă\x0001\x0000 to \xF000Ā\x0001\x0001.\nGood-bye, \xF000Ă\x0001\x0000!
+\xF000Ă\x0001\x0001 came back\nfrom \xF000Ā\x0001\x0000!
+Welcome back, \xF000Ă\x0001\x0001!
+TRADE WANTED
+Please choose your Pokémon to offer.\nYou can select up to three Pokémon.
+Are you OK with your selection?
+Awaiting your friend's decision.\nPlease wait...
+Is it OK to select one each\nfrom the chosen Pokémon?
+The other Trainer canceled the trade.
+The other Trainer apparently\nwants to trade Pokémon.
+The trade will be ended.\nIs that OK?
+The trade has ended.
+You cannot choose that Pokémon.
+There is one or more party Pokémon\nthat cannot be traded. Select again.
+The other Trainer has a Pokémon\nthat cannot be traded. Select again.
+Please select a Pokémon out of\nthe Pokémon offered for trade.
+Is it OK to trade \xF000Ă\x0001\x0000\nfor your \xF000Ă\x0001\x0001?
+The other Trainer canceled\nthe trade. Please select again.
+Will you reselect the Pokémon you want\nto offer?
+The trade was canceled.\nPlease select again.
+The trade was canceled.\nPlease reselect one Pokémon again.
+The other Trainer canceled the trade.\nPlease select a Pokémon again.
+\xF000Ă\x0001\x0000 will be offered.
+\xF000Ă\x0001\x0001 was taken out.
+LOG OUT
+\xF000Ă\x0001\x0000 will be\nsent to \xF000Ā\x0001\x0001.
+\xF000Ā\x0001\x0000 sent over\n\xF000Ă\x0001\x0001.
+Communication failed.
+Communication error.\n(Error Code: 13280)
+Communication error.\n(Error Code: 13281)
+Communication error.\n(Error Code: 13282)
+Communication error.\n(Error Code: 13283)
+???
