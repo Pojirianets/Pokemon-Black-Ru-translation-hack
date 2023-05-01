@@ -1,0 +1,37 @@
+I'm the Day-Care Man.\xF000븁\x0000\nWe take care of the precious Pokémon\nof other Trainers.\xF000븁\x0000\nIf you'd like us to raise your\nPokémon, have a word with my wife.
+Glad you came!\nYour \xF000Ă\x0001\x0000's doing just fine.
+Glad you came!\xF000븁\x0000\nYour \xF000Ă\x0001\x0000 and\n\xF000Ă\x0001\x0001 are doing just fine.\xF000븁\x0000\nThe two seem to get along very well!
+Glad you came!\xF000븁\x0000\nYour \xF000Ă\x0001\x0000 and\n\xF000Ă\x0001\x0001 are doing just fine.\xF000븁\x0000\nThe two seem to get along.
+Glad you came!\xF000븁\x0000\nYour \xF000Ă\x0001\x0000 and\n\xF000Ă\x0001\x0001 are doing just fine.\xF000븁\x0000\nThe two don't really seem to like\neach other much.
+Glad you came!\xF000븁\x0000\nYour \xF000Ă\x0001\x0000 and\n\xF000Ă\x0001\x0001 are doing just fine.\xF000븁\x0000\nThe two prefer to play with other\nPokémon more than with each other.
+Ah, it's you!\xF000븁\x0000\nWe were raising your Pokémon,\nand my goodness, were we surprised!\xF000븁\x0000\nYour Pokémon was holding an Egg!\xF000븁\x0000\nWe don't know how it got there,\nbut your Pokémon had it.\xF000븁\x0000\nYou do want it, don't you?
+\xF000Ā\x0001\x0000 received the Egg from\nthe Day-Care Man.
+You take good care of it.
+You have no room for it right now...\nCome back when you've made room.
+I really will keep it.\nYou do want this Egg, yes?
+Well then, I'll hang on to it.\nThanks!
+I'm the Day-Care Lady.\nWe can raise Pokémon for you.\xF000븁\x0000\nWould you like us to raise\nyour Pokémon?
+I'm the Day-Care Lady.\xF000븁\x0000\nWe can raise Pokémon for you.\nWhat do you want to do today?
+Very good.\nCome again.
+Ah, there you are!\nMy husband was looking for you.
+You can't leave your only Pokémon\nwith me! How would you battle?\xF000븁\x0000\nCome back another time.
+Which Pokémon should we raise\nfor you?\xF000븁\x0000
+Now, now.\nThat is merely an Egg!
+Fine, we'll raise your \xF000Ă\x0001\x0000\nfor a while.\xF000븁\x0000
+Come back for it later.
+We can raise two of your Pokémon.\nWould you like us to raise another?
+You have energetic Pokémon.\nDo you want your Pokémon back?
+By level, your \xF000ā\x0001\x0000 has\ngrown by about \xF000ȁ\x0001\x0001.\xF000븁\x0000
+If you want your \xF000ā\x0001\x0000 back,\nit will cost $\xF000Ȅ\x0001\x0001.\xF000븀\x0000\nDo you want it back?
+You don't have enough money...
+\xF000Ā\x0001\x0001 took \xF000ā\x0001\x0000 back\nfrom the Day-Care Lady.\xF000븁\x0000
+Do you want to take back the other\none, too? 
+Huh? Now, now.\xF000븁\x0000\nIf you leave that Pokémon with\nme, you'll be left with just one.\xF000븁\x0000\nYou will be better off if you catch\nsome more, if I do say so myself.
+
+Leave Pokémon
+Take back
+Cancel
+
+\xF000ā\x0001\x0000⑭ Lv. \xF000Ȃ\x0001\x0001
+\xF000ā\x0001\x0000⑮ Lv. \xF000Ȃ\x0001\x0001
+\xF000ā\x0001\x0000 Lv. \xF000Ȃ\x0001\x0001

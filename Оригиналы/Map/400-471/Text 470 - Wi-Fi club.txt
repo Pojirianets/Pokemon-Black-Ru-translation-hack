@@ -1,0 +1,26 @@
+Welcome to the Pokémon Wi-Fi Club!\xF000븁\x0000\nWould you like to use\nNintendo Wi-Fi Connection?
+Please do visit again.
+Would you like to launch\nNintendo WFC?
+Right this way, please.\xF000븁\x0000
+...Oh?\xF000븁\x0000\nI'm sorry, but you don't have any\nfriends registered in your Pal Pad.\xF000븁\x0000\nThe Wi-Fi Club cannot be used if\nno friends are in your Pal Pad.\xF000븁\x0000\nWould you like to get your own\nFriend Code at least?\xF000Ȁ\x0001\x0000
+...Oh?\xF000븁\x0000\nI'm sorry, but you don't have any\nfriends registered in your Pal Pad.\xF000븁\x0000\nThe Wi-Fi Club cannot be used if\nno friends are in your Pal Pad.\xF000븁\x0000\nPlease register friends in your\nPal Pad, and then come back.\xF000븁\x0000
+At any Wi-Fi Club, you may play using\nNintendo Wi-Fi Connection.\xF000븁\x0000\nBy doing so, you may trade or battle with\nfriends you have registered in your\xF000븀\x0000\nPal Pad.\xF000븁\x0000\nCheck the monitor inside the room to find\nother people to play with.\xF000븁\x0000\nOr you may play with your friends\nby talking to them directly.\xF000븁\x0000\nWould you like to use\nNintendo Wi-Fi Connection?
+Sorry, we're getting things ready.\nPlease come back later.
+You have at least one Pokémon\nthat can't be taken.
+Communication error.
+Go to Wi-Fi Club
+Info
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+

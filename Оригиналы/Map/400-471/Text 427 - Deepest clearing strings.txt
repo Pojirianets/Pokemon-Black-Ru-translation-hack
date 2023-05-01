@@ -1,0 +1,10 @@
+\xF000ā\x0001\x0000 is\nmoving around energetically!
+\xF000ā\x0001\x0000 looks happy\nto meet \xF000Ā\x0001\x0001!\xF000븁\x0000
+\xF000ā\x0001\x0000 seems to want\nto join \xF000Ā\x0001\x0001's party...\xF000븁\x0000
+Would you like to add\nthe Pokémon to your party?
+Would you like \xF000ā\x0001\x0000\nto move to the Deepest Clearing?
+There's no more room in the Deepest\nClearing, so \xF000ā\x0001\x0000 could not move!
+Would you like \xF000ā\x0001\x0000\nto move to the Forest Clearing?
+There's no more room in the Forest\nClearing, so \xF000ā\x0001\x0000 could not move!
+\xF000ā\x0001\x0000 moved to\nthe Deepest Clearing!\xF000븁\x0000
+\xF000ā\x0001\x0000 moved to\nthe Forest Clearing!\xF000븁\x0000

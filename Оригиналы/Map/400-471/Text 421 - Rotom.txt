@@ -1,0 +1,26 @@
+It's full of cardboard boxes with\nelectrical appliances in them.
+It's full of cardboard boxes with\nelectrical appliances in them.\xF000븁\x0000\nOh? Rotom would like to investigate the\nmotors of the electrical appliances...\xF000븁\x0000\nIs that OK?
+Rotom reluctantly gave up\non entering a motor...
+Which Rotom will you allow\nto enter a motor?\xF000븁\x0000
+That Pokémon can't enter a motor.
+An Egg can't enter a motor.
+Which appliance's motor will you\nallow \xF000Ă\x0001\x0000 to enter?
+Microwave oven
+Washing machine
+Electric fan
+Refrigerator
+Lawnmower
+Recall
+Cancel
+\xF000Ă\x0001\x0000 entered the motor.
+\xF000Ă\x0001\x0000 is trying to\nlearn \xF000ć\x0001\x0001.\xF000븁\x0000\nBut \xF000Ă\x0001\x0000 can't learn\nmore than four moves.\xF000븁\x0000\nDelete a move to make\nroom for \xF000ć\x0001\x0001?
+Give up on learning the\nmove \xF000ć\x0001\x0001?
+\xF000Ă\x0001\x0000 did not learn\n\xF000ć\x0001\x0001.\xF000븁\x0000\n\xF000Ă\x0001\x0000 emerged from the motor.
+Is it OK to forget\nthe move \xF000ć\x0001\x0001?
+1, \xF000븂\x0001\x00142, and\xF000븂\x0001\x0014... \xF000븂\x0001\x0014... \xF000븂\x0001\x0014... Ta-da!\xF000븅\x0001\x0003\xF000븅\x0001\x0006\xF000븁\x0000\n\xF000Ă\x0001\x0000 forgot how to\nuse \xF000ć\x0001\x0001.\xF000븁\x0000\nAnd...\xF000븁\x0000
+\xF000Ă\x0001\x0000 learned \xF000ć\x0001\x0002!
+\xF000Ă\x0001\x0000 forgot \xF000ć\x0001\x0002...\xF000븁\x0000
+\xF000Ă\x0001\x0000 has already entered\nthe appliance motor.\xF000븁\x0000
+\xF000Ă\x0001\x0000 emerged from the motor.
+\xF000Ă\x0001\x0000 hasn't entered a motor.\xF000븁\x0000
+\xF000Ă\x0001\x0000 reluctantly gave up on\nentering a motor...

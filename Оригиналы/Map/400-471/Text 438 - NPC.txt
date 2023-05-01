@@ -1,0 +1,3 @@
+It is important to train your Pokémon in\nbattle, but when their HP goes down,\xF000븀\x0000\ntake them to a Pokémon Center.
+Trainer, how many Poké Balls do\nyou have?\xF000븁\x0000\nIf you think you don't have enough,\nit's a good idea to buy some\xF000븀\x0000\nat a shop in a Pokémon Center!
+Oh! Your Pokémon!\nYou're so lucky. I envy you.\xF000븀\x0000\nI want to be a Trainer, too!

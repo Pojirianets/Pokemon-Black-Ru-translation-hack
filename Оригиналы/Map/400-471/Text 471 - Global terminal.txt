@@ -1,0 +1,97 @@
+Welcome to the Global Terminal!\xF000븁\x0000
+Would you like to use\nNintendo Wi-Fi Connection?
+Please do visit again.
+
+Right this way, please.\xF000븁\x0000
+In the Global Terminal, you can battle or\ntrade Pokémon with Pokémon fans from\xF000븀\x0000\naround the world by connecting to\xF000븀\x0000\nNintendo Wi-Fi Connection.\xF000븁\x0000\nFor details, please listen to the\nexplanation at each facility.\xF000븁\x0000
+Sorry, we're getting things ready.\nPlease come back later.
+You have at least one Pokémon\nthat can't be taken in.
+Communication error.
+Random Matchup
+Global Trade
+Musical Photos
+Battle Videos
+Info
+Cancel
+Would you like to make a Global Trade?
+You may trade Pokémon with other\nPokémon fans from around the world with\xF000븀\x0000\nGlobal Trade.\xF000븁\x0000\nGlobal Trade has two forms: GTS and\nGTS Negotiations.\xF000븁\x0000\nPlease be careful, because each has a\ndifferent way of trading.\xF000븁\x0000
+GTS
+GTS Negotiations
+Info
+Back
+Would you like to make a GTS trade?
+Trade
+Info
+Back
+You may trade Pokémon in two ways when\nusing GTS.\xF000븁\x0000\nYou may offer a Pokémon for trade\nor search among offered Pokémon.\xF000븁\x0000
+Should I describe things in\ngreater detail?
+You will be asked to put up the\nPokémon you are offering to trade.\xF000븁\x0000\nAt that time, you will be asked what\nPokémon you would like in return.\xF000븁\x0000\nIf another player offers your desired\nPokémon in return for your offered\xF000븀\x0000\nPokémon, the trade will go through.\xF000븁\x0000
+You may search among the Pokémon\nthat are offered by other Trainers.\xF000븁\x0000\nThey will all identify what Pokémon\ntheir Trainers want back in return.\xF000븁\x0000\nIf you find one that you want, you\nmust provide us with the kind of\xF000븀\x0000\nPokémon wanted in return.\xF000븁\x0000
+Offer Pokémon?
+Seek Pokémon?
+Understood
+Would you like to start\nPokémon GTS Negotiations?
+Start Negotiations
+Info
+Back
+In GTS Negotiations, you set the trading\nconditions based on what kinds of\xF000븀\x0000\nPokémon you'd like to trade.\xF000븁\x0000\nIf you find a person with matching\nconditions, you may proceed to a\xF000븀\x0000\nNegotiation Trade with that person.\xF000븁\x0000\nIn order to trade, you need to have two\nor more Pokémon in your party.\xF000븁\x0000
+Should I describe things in\ngreater detail?
+In a Negotiation Trade, each person\noffers three Pokémon to trade.\xF000븁\x0000\nThen, each person will choose one of the\nother person's three Pokémon.\xF000븁\x0000
+You can set three conditions in a\nNegotiation Trade: the level of Pokémon\xF000븀\x0000\nto trade, the Pokémon you want to\xF000븀\x0000\nreceive, and the Pokémon up for offer.\xF000븁\x0000\nYou may trade with a person whose\nconditions match yours, or choose\xF000븀\x0000\nTrade Rendezvous to try another trade\xF000븀\x0000\nwith a previous trading partner.\xF000븁\x0000
+Negotiation Trade?
+Trading Conditions?
+Understood
+Would you like to view or upload\nBattle Videos?
+With Battle Videos, you may post a\nBattle Video you took with your\xF000븀\x0000\nVs. Recorder or view Battle Videos from\xF000븀\x0000\nother Trainers.\xF000븁\x0000\nYou may search the Battle Videos by\nPokémon, battle facility, ranking, etc.\xF000븁\x0000\nThe Battle Video you post will be assigned\na 12-digit code.\xF000븁\x0000\nYour friends may view your Battle Video\nby entering this 12-digit code here.\xF000븁\x0000
+View or upload
+Info
+Back
+Would you like to view or upload\nMusical Photos?
+With Musical Photos, you may post a photo\nyou took at the Pokémon Musical in\xF000븀\x0000\nNimbasa City by using the Vs. Recorder.\xF000븁\x0000\nYou may also view photos taken by other\npeople, sorted by the Pokémon you like.\xF000븁\x0000
+View or upload
+Info
+Back
+Would you like to take the\nRandom Matchup challenge?
+Challenge
+Info
+Back
+A Random Matchup is a battle with other\nPokémon fans from around the world.\xF000븁\x0000\nThere are five kinds of Random Matchups:\nSingle, Double, Triple, Rotation,\xF000븀\x0000\nand Launcher.\xF000븁\x0000\nAlso, Random Matchups have two modes:\nFree mode and Rating mode.\xF000븁\x0000\nIn Free mode, everyone can participate\nin battles freely.\xF000븁\x0000\nIn Rating mode, you may participate in\nbattles after you set Game Sync, access\xF000븀\x0000\nthe Pokémon Global Link website with your\xF000븀\x0000\ncomputer, and register your\xF000븀\x0000\nGame Sync ID.\xF000븁\x0000\nhttp://www.pokemon-gl.com/\n(Pokémon Global Link)\xF000븁\x0000
+Would you like to know more details?
+Free Mode
+Rating Mode
+Special Rules
+Understood
+Free mode is for casual battles against\nother Pokémon fans around the world.\xF000븁\x0000\nFeel free to challenge it!\xF000븁\x0000
+Rating mode is recommended for those who\nwant to master battles.\xF000븁\x0000\nWhen communication is established, you\nare likely to battle against a person with\xF000븀\x0000\na similar Rating.\xF000븁\x0000\nYour Rating starts at 1500. When you win,\nit goes up. When you lose, it goes down.\xF000븁\x0000\nSo the higher your Rating is, the\nstronger you are as a Trainer!\xF000븁\x0000\nThere's one thing you should be careful\nabout in Rating mode.\xF000븁\x0000\nYour record and Rating will be erased if\nyou connect to Nintendo Wi-Fi Connection\xF000븀\x0000\nwith a different DS System.\xF000븁\x0000\nSo please be careful if you switch!\xF000븁\x0000
+There are several special rules\nfor Random Matchups.\xF000븁\x0000\nAny Pokémon higher than Lv. 50 will be\nset to that level for the battle.\xF000븁\x0000\nPokémon nicknames won't be used.\xF000븁\x0000\nYou have a limited time to choose Pokémon\nfor a battle and to give orders to your\xF000븀\x0000\nPokémon during the battle.\xF000븁\x0000\nDon't exceed the time limit,\nor your Pokémon and its moves\xF000븀\x0000\nwill be chosen for you!\xF000븁\x0000\nThere's also a time limit on the battle.\xF000븁\x0000\nThe winner will be determined when time\nruns out, even if both sides still have\xF000븀\x0000\nPokémon standing.\xF000븁\x0000
+Which Battle would you like\nto choose?
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+Launcher Battle
+Back
+Would you like to take the\nSingle Battle challenge?
+Would you like to take the \nDouble Battle Challenge?
+Would you like to take the \nTriple Battle Challenge?
+Would you like to take the \nRotation Battle Challenge?
+Would you like to take the \nLauncher Battle Challenge?
+Confirm
+Rules
+Back
+For a Single Battle, you need to have\nthree to six Pokémon.\xF000븁\x0000\nBefore a battle, you and your opponent\nshow your Pokémon to each other,\xF000븀\x0000\nthen choose three Pokémon and battle.\xF000븁\x0000\nYou may not have duplicate Pokémon\nor held items.\xF000븁\x0000\nAlso, you can't take special Pokémon\nor Eggs into battle.\xF000븁\x0000
+For a Double Battle, you need to have\nfour to six Pokémon.\xF000븁\x0000\nBefore a battle, you and your opponent\nshow your Pokémon to each other,\xF000븀\x0000\nthen choose four Pokémon and battle.\xF000븁\x0000\nYou may not have duplicate Pokémon\nor held items.\xF000븁\x0000\nAlso, you can't take special Pokémon\nor Eggs into battle.\xF000븁\x0000
+For a Triple Battle, you need to have\nsix Pokémon.\xF000븁\x0000\nBefore a battle, you and your opponent\nshow your Pokémon to each other,\xF000븀\x0000\nthen decide their order and battle.\xF000븁\x0000\nYou may not have duplicate Pokémon\nor held items.\xF000븁\x0000\nAlso, you can't take special Pokémon\nor Eggs into battle.\xF000븁\x0000
+In a Rotation Battle, you need to have\nfour to six Pokémon.\xF000븁\x0000\nBefore a battle, you and your opponent\nshow your Pokémon to each other,\xF000븀\x0000\nthen choose four Pokémon and battle.\xF000븁\x0000\nYou may not have duplicate Pokémon\nor held items.\xF000븁\x0000\nAlso, you can't take special Pokémon\nor Eggs into battle.\xF000븁\x0000
+In a Launcher Battle, you have a\nTriple Battle with your Wonder Launcher.\xF000븀\x0000\nYou need to have six Pokémon.\xF000븁\x0000\nBefore a battle, you and your opponent\nshow your Pokémon to each other,\xF000븀\x0000\nthen decide their order and battle.\xF000븁\x0000\nYou may not have duplicate Pokémon\nor held items.\xF000븁\x0000\nAlso, you can't take special Pokémon\nor Eggs into battle.\xF000븁\x0000
+
+
+
+
+
+
+
+
+Uh-oh!\xF000븁\x0000\nI'm sorry, but your party and all your\nPC Boxes are full.\xF000븁\x0000\nTo use the GTS, you must have\nroom in your party or in a PC Box.\xF000븁\x0000
+Uh-oh!\xF000븁\x0000\nYou need at least two Pokémon in your\nparty to use the GTS.\xF000븁\x0000
+Uh-oh!\xF000븁\x0000\nYou need at least two Pokémon in your\nparty to use GTS Negotiations.\xF000븁\x0000

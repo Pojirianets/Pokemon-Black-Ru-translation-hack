@@ -1,0 +1,15 @@
+This is a Poké Ball I got in the past.\nI'm going to give it to you.\xF000븁\x0000
+You can't catch a Pokémon\nif you don't have a Poké Ball!\xF000븁\x0000\nThere are many types of Poké Balls,\nso use the best one for the job.
+Skree skree!
+Hi, hi!\nLet's play Pokémon rock-paper-scissors!
+Oh, that's no fun!
+Here goes!\nPokémon rock-paper-scissors...
+Your Pokémon is Fire type,\nand mine is Grass type...\xF000븁\x0000\nGrass type is weak against Fire type...\nso I lose.
+Your Pokémon is Fire type,\nand mine is Water type...\xF000븁\x0000\nFire type is weak against Water type...\nso I win!
+Your Pokémon is Water type,\nand mine is Fire type...\xF000븁\x0000\nFire type is weak against Water type...\nso I lose.
+Your Pokémon is Water type,\nand mine is Grass type...\xF000븁\x0000\nWater type is weak against Grass type...\nso I win!
+Your Pokémon is Grass type,\nand mine is Water type...\xF000븁\x0000\nWater type is weak against Grass type...\nso I lose.
+Your Pokémon is Grass type,\nand mine is Fire type...\xF000븁\x0000\nGrass type is weak against Fire type...\nso I win!
+FIRE
+GRASS
+WATER

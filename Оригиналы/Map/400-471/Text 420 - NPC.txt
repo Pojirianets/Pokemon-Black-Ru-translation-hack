@@ -1,0 +1,10 @@
+Pokémon Trainer.\xF000븁\x0000\nThe sparkle in your eyes...\nI feel your kindness toward Pokémon!\xF000븁\x0000\nI have decided! I will entrust the Egg\nI found in the Relic Castle to you!\xF000븁\x0000\nWould you like to receive this\nPokémon Egg and raise it?
+Would you like to receive this\nPokémon Egg and raise it?
+I appreciate your thought, but you\ncannot take the Egg right now because\xF000븀\x0000\nyour party is full.
+Well, that's certainly up to you.
+Yes! I'm counting on you.\xF000븁\x0000
+Pokémon Eggs hatch when you carry them\nwith you. Being around healthy Pokémon\xF000븀\x0000\nhelps them grow!
+\xF000Ā\x0001\x0000 obtained the Egg!
+
+Wait! Wait!\xF000븁\x0000\nAren't your Pokémon a bit tired?\nHere, don't be shy! Let them rest!\xF000븁\x0000
+Your Pokémon are so energetic!
