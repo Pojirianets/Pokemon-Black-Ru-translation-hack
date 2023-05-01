@@ -1,0 +1,53 @@
+
+
+
+Is there anything you'd like to know\nabout the Entralink?
+If there is anything you don't\nunderstand, you may ask the girls, too.
+
+The Entralink is a mysterious place to\nconnect with someone's world.\xF000븁\x0000\nIf you cross a bridge in the Entralink,\nyou will be able to go to someone's world.\xF000븁\x0000\nThere, you should be able to help the\nadventurer in that world.\xF000븁\x0000
+The power stored in this tree is called\nPass Power.\xF000븁\x0000\nYou can register only one Pass Power in\nyour C-Gear. You use it by aiming at\xF000븀\x0000\npeople you pass by with the\xF000븀\x0000\nTag Log.\xF000븁\x0000\nBut you need a Pass Orb to use\nPass Power.\xF000븁\x0000\nCarry out a mission in someone else's\nworld and collect Pass Orbs.\xF000븁\x0000
+Entralink
+Pass Power
+Cancel
+Oh, someone showed up...\nWelcome to the Entralink.\xF000븁\x0000\nHm?\xF000븁\x0000\nJudging by the look of you, you don't\nseem to know where you are.\xF000븁\x0000
+This is an island called the Entralink.\nIt's located in the center of the\xF000븀\x0000\nUnova region.\xF000븁\x0000\nThe Entralink is a mysterious place where\nyou can connect with someone's world.\xF000븁\x0000\nIf you go to someone's world by passing\nthrough this island, you will be able to\xF000븀\x0000\nmeet an adventurer in the world.\xF000븁\x0000
+And you can help that adventurer.\xF000븁\x0000\nYes! If you want to help, cross a bridge\nin this island and go to someone's world.\xF000븁\x0000\nThere must be someone who is waiting\nfor you there!
+This bridge will connect to someone\nelse's world.\xF000븁\x0000
+Is there anything you'd like to know\nabout a connection at a bridge?
+When you are on a bridge, a search will\nstart to find a person to connect with.\xF000븁\x0000\nIf the bridge connects, you will be able\nto cross into that person's world.\xF000븁\x0000
+This bridge will connect to the world of a\nperson who is having an adventurous\xF000븀\x0000\njourney in a town or on a road\xF000븀\x0000\naround the Entralink.\xF000븁\x0000\nIf you cross the bridge, you will be able\nto help with that person's adventure.\xF000븁\x0000
+Now, please go to the bridge.\xF000븁\x0000\nIf it connects to someone else's world,\nyou'll be able to cross.
+How to connect
+Connecting with someone
+Cancel
+This bridge will connect to someone\nelse's world.\xF000븁\x0000
+Is there anything you'd like to know\nabout a connection at a bridge?
+When you are on a bridge, a search will\nstart to find a person to connect with.\xF000븁\x0000\nIf the bridge connects, you will be able\nto cross into that person's world.\xF000븁\x0000
+This bridge will connect to the world of a\nperson who is having an adventurous\xF000븀\x0000\njourney in a town or on a road\xF000븀\x0000\naround the Entralink.\xF000븁\x0000\nIf you cross the bridge, you will be able\nto help with that person's adventure.\xF000븁\x0000
+Now, please go to the bridge.\xF000븁\x0000\nIf it connects to someone else's world,\nyou'll be able to cross.
+How to connect
+Connecting with someone
+Cancel
+The Entree Forest connects dreams\nand reality.\xF000븁\x0000\nPeople say dreams come true here.\xF000븁\x0000
+Is there anything you'd like to know\nabout the Entree Forest?
+The Entree Forest is a place where\ndreams come true.\xF000븁\x0000\nWhen a dreaming Pokémon wakes up in\nGame Sync, its dream will come true in\xF000븀\x0000\nthis forest.\xF000븁\x0000
+Pokémon that your Pokémon met in its\ndream will show up in the Entralink\xF000븀\x0000\nin a Forest Clearing.\xF000븁\x0000\nPokémon in a Forest Clearing will be\nyour friends for sure!\xF000븁\x0000\nIf you move the Pokémon to the Deepest\nClearing, they will wait for you there.\xF000븁\x0000
+When your Pokémon wakes up from a\ndream, please come to this forest.
+Entree Forest
+Forest Clearing and Deepest Clearing
+Cancel
+You can go back to the original world\nfrom this place.\xF000븁\x0000\nIf you want to go back to the original\nworld, please come back here.
+Welcome to someone else's world.\xF000븁\x0000\nHere, you can help the adventurer in\nthis world.\xF000븁\x0000\nNow, touch this tree to receive\na mission.\xF000븁\x0000
+Is there anything you'd like to know?
+Now, receive a mission and\nhelp the adventurer.
+To help the adventurer traveling in this\nworld, touch this tree and receive\xF000븀\x0000\na mission.\xF000븁\x0000
+A mission is a means to help the\nadventurer in this world.\xF000븁\x0000\nIf you check this tree, you can receive\na mission.\xF000븁\x0000\nNow, receive a mission and go find\nthe adventurer.\xF000븁\x0000
+In this world, you can travel by warping\naround, because this world is made of\xF000븀\x0000\nyour dream.\xF000븁\x0000\nIf you imagine a place, you can\nwarp there.\xF000븁\x0000\nNow, receive a mission and go find\nthe adventurer.\xF000븁\x0000
+Mission
+Warp
+Cancel
+First, cross a bridge in the Entralink,\nand go to someone's world.\xF000븁\x0000\nThere must be someone who is waiting\nfor you there.
+You've chosen a mission!\nIn order to accomplish the mission,\xF000븀\x0000\ngo find the adventurer!\xF000븁\x0000\nThe adventurer's location is shown on\nthe map below.\xF000븁\x0000\nTouch the place on the map and you can\nwarp there.\xF000븁\x0000\nRely on the map, meet the adventurer,\nand accomplish the mission!
+Wonderful! You accomplished the mission!\nI didn't expect you to make it this far...\xF000븁\x0000\nYour success brought happiness to the\nEntralink, and the tree grew a little bit.\xF000븁\x0000\nMysterious power will gather here as this\ntree grows bigger.\xF000븁\x0000\nYou may be able to receive this power!\xF000븁\x0000\nTouch this tree and try to receive the\nmysterious power...\xF000븀\x0000\nPass Power.
+Oh, it seems you've failed in the mission.\nWell, nobody's perfect.\xF000븁\x0000\nPlease cross the bridge and try it again!\xF000븁\x0000\nThe tip is to look at the map closely and\nfind the adventurer.
+Oooooh! You've received a Pass Power!\nIt's wonderful! Really wonderful!\xF000븁\x0000\nPass Power can help people who\npassed by.\xF000븁\x0000\nCheck the Tag Log in your\nC-Gear later.\xF000븁\x0000\n...Well, that's really all I can\nteach you.\xF000븁\x0000\nThe power of this Entralink is all yours.\xF000븁\x0000\nHelp a lot of adventurers via the\nEntralink, and collect a lot of happiness.\xF000븁\x0000\nCollect a lot of happiness, and get\nall the powers!

@@ -1,0 +1,106 @@
+N: \xF000븉\x0001\x0001What I desire is a world for Pokémon,\nand Pokémon alone.\xF000븁\x0000\nI will separate Pokémon from people, so\nPokémon can regain their original power.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001It's time to settle this once and for all!\xF000븁\x0000\nMy determination is absolute!\xF000븁\x0000\nI will prove the value of my beliefs even\nif it means my Pokémon friends get hurt!\xF000븁\x0000\nSince you've come this far,\nI believe you are equally determined.\xF000븁\x0000\nIf that's so, prove it to me!\nShow me the depth of your determination!\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001What I desire is a world for Pokémon,\nand Pokémon alone.\xF000븁\x0000\nI will separate Pokémon from people, so\nPokémon can regain their original power.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001It's time to settle this once and for all!\xF000븁\x0000\nMy determination is absolute!\xF000븁\x0000\nI will prove the value of my beliefs even\nif it means my Pokémon friends get hurt!\xF000븁\x0000\nSince you've come this far,\nI believe you are equally determined.\xF000븁\x0000\nIf that's so, prove it to me!\nShow me the depth of your determination!\xF000븉\x0001\x0000\xF000븁\x0000
+
+
+N: \xF000븉\x0001\x0001You came all this way to battle me...\nBut Zekrom is not responding.\xF000븁\x0000\nYou haven't yet been recognized\nas the hero, have you?\xF000븁\x0000\nHow disappointing.\xF000븁\x0000\nI actually kind of liked you a little.\xF000븁\x0000\nThrough our many battles, I got the\nfeeling that you might be a Trainer\xF000븀\x0000\nwho truly cares for Pokémon!\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001You came all this way to battle me...\nBut Reshiram is not responding.\xF000븁\x0000\nYou haven't yet been recognized\nas the hero, have you?\xF000븁\x0000\nHow disappointing.\xF000븁\x0000\nI actually kind of liked you a little.\xF000븁\x0000\nThrough our many battles, I got the\nfeeling that you might be a Trainer\xF000븀\x0000\nwho truly cares for Pokémon!\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001But I was kidding myself.\xF000븁\x0000\nThe idea of Trainers getting to know\neach other through battles is ridiculous!\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001You have two options.\xF000븁\x0000\nChallenge me to a fight you can't win,\nor leave this place and watch the birth\xF000븀\x0000\nof a new world where Pokémon\xF000븀\x0000\nare free of people!\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001But I was kidding myself.\xF000븁\x0000\nThe idea of Trainers getting to know\neach other through battles is ridiculous!\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001You have two options.\xF000븁\x0000\nChallenge me to a fight you can't win,\nor leave this place and watch the birth\xF000븀\x0000\nof a new world where Pokémon\xF000븀\x0000\nare free of people!\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001Reshiram! Come to me!\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001Zekrom! Come to me!\xF000븉\x0001\x0000\xF000븁\x0000
+The Dark Stone...\nIt's trembling inside the Bag!
+The Light Stone...\nIt's trembling inside the Bag!
+N: \xF000븉\x0001\x0001Your Dark Stone is...\xF000븁\x0000\nI mean, Zekrom is...\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001Your Light Stone is...\xF000븁\x0000\nI mean, Reshiram is...\xF000븉\x0001\x0000\xF000븁\x0000
+The Dark Stone draws in the aura of\nthe surroundings and converts it into\xF000븀\x0000\na powerful force, which is...now...\xF000븁\x0000\nBeing released!
+The Light Stone draws in the aura of\nthe surroundings and converts it into\xF000븀\x0000\na powerful force, which is...now...\xF000븁\x0000\nBeing released!
+N: \xF000븉\x0001\x0001Reshiram and Zekrom...\xF000븁\x0000\nThey were once one life.\nOne Pokémon.\xF000븁\x0000\nComplete opposites, yet the same.\xF000븁\x0000\nReshiram and Zekrom are Pokémon that\nappear before the hero they recognize.\xF000븁\x0000\nAh... I see.\nYou really are a hero, too.\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001Zekrom and Reshiram...\xF000븁\x0000\nThey were once one life.\nOne Pokémon.\xF000븁\x0000\nComplete opposites, yet the same.\xF000븁\x0000\nZekrom and Reshiram are Pokémon that\nappear before the hero they recognize.\xF000븁\x0000\nAh... I see.\nYou really are a hero, too.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001I'll tell you what that\nPokémon is saying to you.\xF000븁\x0000\n“I want to battle with you.\nTry to make me your friend and ally."\xF000븁\x0000\nIt plans to test you to see if you are\nreally pursuing ideals.\xF000븁\x0000\nI, also, am curious to see\nhow powerful you are.\xF000븁\x0000\nNow, catch Zekrom and make it your ally!\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001I'll tell you what that\nPokémon is saying to you.\xF000븁\x0000\n“I want to battle with you.\nTry to make me your friend and ally."\xF000븁\x0000\nIt plans to test you to see if you are\nreally pursuing truth.\xF000븁\x0000\nI, also, am curious to see\nhow powerful you are.\xF000븁\x0000\nNow, catch Reshiram\nand make it your ally!\xF000븉\x0001\x0000\xF000븁\x0000
+Bazzazzazzash!
+Preeeeaah!
+Zekrom is gazing at \xF000Ā\x0001\x0000 as if\nto say, “Try to catch me!"
+Reshiram is gazing at \xF000Ā\x0001\x0000 as if\nto say, “Try to catch me!"
+N: \xF000븉\x0001\x0001Ah... I see.\xF000븁\x0000\nZekrom, who is said to lend its power\nto the hero who searches for ideals,\xF000븀\x0000\nhas recognized your power\xF000븀\x0000\nand now agrees to stand by your side...\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001Ah... I see.\xF000븁\x0000\nReshiram, who is said to lend its power\nto the hero who searches for truth,\xF000븀\x0000\nhas recognized your power\xF000븀\x0000\nand now agrees to stand by your side... \xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001Hold on. Your Pokémon are hurt.\xF000븁\x0000\nThere is no triumph to be gained in\nbattling a weakened opponent.\xF000븉\x0001\x0000\xF000븁\x0000
+N fully restored \xF000Ā\x0001\x0000's Pokémon!
+N: \xF000븉\x0001\x0001Now, I will create the future I desire!\xF000븁\x0000\nI shall sweep you before me!\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001...\n...\xF000븁\x0000\nReshiram and I were beaten.\xF000븁\x0000\nYour ideals... Your feelings...\nThey were stronger than mine, it seems...\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001...\n...\xF000븁\x0000\nZekrom and I were beaten.\xF000븁\x0000\nYour truth... Your feelings...\nThey were stronger than mine, it seems...\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001Zekrom and Reshiram...\xF000븁\x0000\nEach of them choosing a different hero...\nIs that even possible?\xF000븁\x0000\nTwo heroes living at the same time--\none that pursues ideals and\xF000븀\x0000\none that pursues truth.\xF000븀\x0000\nCould...could they both be right?\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001I don't know.\xF000븁\x0000\nIt's not by rejecting different ideas,\nbut by accepting different ideas that\xF000븀\x0000\nthe world creates a chemical reaction.\xF000븁\x0000\nThis is truly the formula\nfor changing the world.\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001Reshiram and Zekrom...\xF000븁\x0000\nEach of them choosing a different hero...\nIs that even possible?\xF000븁\x0000\nTwo heroes living at the same time--\none that pursues truth and\xF000븀\x0000\none that pursues ideals.\xF000븀\x0000\nCould... Could they both be right?\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001I don't know.\xF000븁\x0000\nIt's not by rejecting different ideas,\nbut by accepting different ideas that\xF000븀\x0000\nthe world creates a chemical reaction.\xF000븁\x0000\nThis is truly the formula\nfor changing the world.\xF000븉\x0001\x0000\xF000븁\x0000
+Ghetsis: After all of that, do you think\nyou're still worthy of sharing the name\xF000븀\x0000\nHarmonia with me?\xF000븁\x0000\nYou good-for-nothing boy!\xF000븁\x0000
+Ghetsis: To start with, I spurred N into\npursuing the truth. The reason we\xF000븀\x0000\nreawakened the legendary Pokémon now\xF000븀\x0000\nwas to give MY Team Plasma more power!\xF000븁\x0000\nPower to control the fearful masses!\nThat at least was well done.\xF000븁\x0000
+Ghetsis: To start with, I spurred N into\npursuing ideals. The reason we\xF000븀\x0000\nreawakened the legendary Pokémon now\xF000븀\x0000\nwas to give MY Team Plasma more power!\xF000븁\x0000\nPower to control the fearful masses!\nThat at least was well done.\xF000븁\x0000
+After saying you had to put your beliefs\non the line and battle to see which one\xF000븀\x0000\nchosen by the legendary Pokémon was\xF000븀\x0000\nthe true hero...\xF000븁\x0000\nYou lost to an ordinary Trainer!\nThere is such a thing as being too stupid!\xF000븁\x0000\nAdd it up, and you are nothing more\nthan a warped, defective boy\xF000븀\x0000\nwho knows nothing but Pokémon...\xF000븁\x0000
+\xF000Ā\x0001\x0000! I never would have\nthought the legendary Pokémon\xF000븀\x0000\nwould choose a Trainer like you!\xF000븀\x0000\nIt caught me completely off guard.\xF000븁\x0000
+This doesn't change my goal.\nMy plans have not been disturbed!\xF000븁\x0000\nIn order to rule this world utterly,\nin order to manipulate the hearts\xF000븀\x0000\nof people who know nothing,\xF000븀\x0000\nI will have N be the king of Team Plasma.\xF000븁\x0000\nBut, for that to work, you--\nsince you know the truth--\xF000븀\x0000\nYou must be eliminated!\xF000븁\x0000
+Cheren: Rule the world??\xF000븁\x0000\nWasn't Team Plasma's goal to\nliberate Pokémon?\xF000븁\x0000
+Ghetsis: That was just a convenient lie\nthat I needed to create Team Plasma.\xF000븁\x0000\nUse your head. What's to be gained from\nletting go of useful things like Pokémon?\xF000븁\x0000\nCertainly, manipulating Pokémon\nhelps people expand their possibilities.\xF000븀\x0000\nThat much, I can agree with.\xF000븁\x0000\nSo it naturally follows that only I should\nbe able to use Pokémon!\xF000븁\x0000
+Alder: You fool!\nThat's a ridiculous idea!\xF000븁\x0000
+Ghetsis: You can say whatever you want.\xF000븁\x0000\nA Pokémon, even if it's revered as a\ndeity, is still just a Pokémon.\xF000븁\x0000\n\xF000Ā\x0001\x0000, so what if it chose you!\nThat doesn't mean you're a threat.\xF000븁\x0000\nCome on! Now you'll face ME in battle!\xF000븁\x0000\nI can't wait to see the look on your face\nwhen you've lost all hope!\xF000븁\x0000
+N: \xF000븉\x0001\x0001\xF000Ā\x0001\x0000!\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001\xF000Ā\x0001\x0000!\xF000븉\x0001\x0000\xF000븁\x0000
+Ghetsis: I won't allow anyone to stop me!\nNo matter who does what!\xF000븁\x0000
+Cheren: I'll never forgive you.\xF000븁\x0000\nUsing power for your selfish purposes...\nYour selfish and evil purposes!
+Alder: You've taken shameful advantage\nof N and his sincere, heartfelt beliefs.
+N: \xF000븉\x0001\x0001Was my formula incorrect?\xF000븉\x0001\x0000
+Bzaaah...
+Pweesh...
+Ghetsis: What?!\xF000븁\x0000\nI created Team Plasma with my own hands.\nI'm absolutely perfect! I AM PERFECTION!\xF000븁\x0000\nI am the perfect ruler of\na perfect new world!\xF000븁\x0000
+Alder: Now, N...\xF000븁\x0000\nDo you still think Pokémon\nand people should be separated?\xF000븁\x0000
+Ghetsis: Mwa ha ha!\xF000븁\x0000\nSince I couldn't become the hero and\nobtain the legendary Pokémon myself...\xF000븁\x0000\nI prepared someone for that purpose--N!\xF000븁\x0000\nHe's nothing more than a freak\nwithout a human heart.\xF000븁\x0000\nDo you think you're going to get\nthrough to a warped person like that?!\xF000븁\x0000
+Cheren: Alder, it's a waste of valuable\ntime listening to him ramble on.\xF000븁\x0000\nHe is the one without a human heart!\xF000븁\x0000
+Alder: You're right.\nHe's truly pitiful.\xF000븁\x0000
+N...\nI'm sure you have much to think about.\xF000븁\x0000\nI know you were not pursuing the truth\nbecause of Ghetsis's manipulation, but\xF000븀\x0000\nbecause your heart was truly inspired.\xF000븁\x0000\nThat is why you were able to meet the\nlegendary Pokémon!\xF000븁\x0000
+N...\nI'm sure you have much to think about.\xF000븁\x0000\nI know you were not pursuing ideals\nbecause of Ghetsis's manipulation, but\xF000븀\x0000\nbecause your heart was really inspired.\xF000븁\x0000\nThat is why you were able to meet the\nlegendary Pokémon!\xF000븁\x0000
+N: \xF000븉\x0001\x0001But...I have no right to be the hero!\xF000븉\x0001\x0000\xF000븁\x0000
+Alder: Is that so?\xF000븁\x0000\nWhat you and the legendary Pokémon\nare going to do from now on...\xF000븀\x0000\nThat's important, wouldn't you say?\xF000븁\x0000
+N: \xF000븉\x0001\x0001Acting like you understand...\xF000븁\x0000\nUp till now, we've been fighting each\nother over our beliefs!\xF000븁\x0000\nYet, despite that... Why?!\xF000븉\x0001\x0000\xF000븁\x0000
+Alder: N, even if we don't understand\neach other, that's not a reason\xF000븀\x0000\nto reject each other.\xF000븁\x0000\nThere are two sides to any argument.\xF000븁\x0000\nIs there one point of view that has all\nthe answers? Give it some thought.\xF000븁\x0000
+N: \xF000븉\x0001\x0001I want to talk to you about something.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001It's about when I first met\nyou in Accumula Town.\xF000븁\x0000\nI was shocked when I heard what\nyour Pokémon was saying.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001I was shocked because that\nPokémon said it liked you.\xF000븁\x0000\nIt said it wanted to be with you.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001I couldn't understand it.\xF000븁\x0000\nI couldn't believe there were\nPokémon that liked people.\xF000븁\x0000\nBecause, up until that moment,\nI'd never known a Pokémon like that.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001The longer my journey continued,\nthe more unsure I became.\xF000븁\x0000\nAll I kept meeting were Pokémon and\npeople who communicated with one another\xF000븀\x0000\nand helped one another.\xF000븁\x0000\nThat was why I needed to confirm my\nbeliefs by battling with you.\xF000븁\x0000\nI wanted to confront you hero-to-hero.\nI needed that more than anything.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001There's no way a person like me,\nsomeone who understands only Pokémon--\xF000븁\x0000\nNo, actually...\nI didn't understand them, either.\xF000븁\x0000\nNo way could I measure up to you,\nwhen you had met so many Pokémon\xF000븀\x0000\nand were surrounded by friends...\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001The Champion has forgiven me, and...\xF000븁\x0000\nWhat I should do now is something\nI'll have to decide for myself.\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000Ā\x0001\x0000!\xF000븁\x0000
+\xF000븉\x0001\x0001You said you have a dream...\nThat dream... Make it come true!\xF000븁\x0000\nWonderful dreams and ideals give\nyou the power to change the world!\xF000븀\x0000\nIf anyone can, it's you!\xF000븉\x0001\x0000 \xF000Ā\x0001\x0000!\xF000븁\x0000
+\xF000븉\x0001\x0001Dream your dream!\xF000븁\x0000\nThen, pursue the ideals to make that\ndream a reality, and someday\xF000븀\x0000\nyou will achieve all that you dreamed of!\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001You said you have a dream...\nThat dream... Make it come true!\xF000븁\x0000\nMake your wonderful dream a reality,\nand it will become your truth!\xF000븀\x0000\n\xF000Ā\x0001\x0000! If anyone can, it's you!\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001Dream your dream!\xF000븁\x0000\nFollow the path of truth to make that\ndream a reality, and someday\xF000븀\x0000\nyou will achieve all that you dreamed of!\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001Well, then...\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001Farewell!\xF000븉\x0001\x0000\xF000븁\x0000
+
+
+
+
+
+
+
+N: \xF000븉\x0001\x0001Get ready! Go after it!\xF000븁\x0000\nZekrom will bare its fangs at people\nwho fail to follow their ideals.\xF000븉\x0001\x0000
+N: \xF000븉\x0001\x0001Get ready! Go after it!\xF000븁\x0000\nReshiram will incinerate people who\nfail to keep truth in their heart.\xF000븉\x0001\x0000
+
+
+
+
+
+
+
+
+
+
+Add \xF000ā\x0001\x0001 to your party\nfrom the Box?
+Not adding \xF000ā\x0001\x0001 to your party...\nIs that OK?
+Send which Pokémon back to your Box?\xF000븁\x0000
+Sending \xF000Ă\x0001\x0002 back to your Box...\nIs that OK?
+\xF000ā\x0001\x0001 was added to your party!

@@ -1,0 +1,55 @@
+Er...\nWho was I again?\xF000븁\x0000\n...\n...\xF000븁\x0000\n...Oh, that's right!\nI am the Move Deleter!\xF000븁\x0000
+You've come to make me force your\nPokémon to forget some moves?
+Which Pokémon should forget a move?\xF000븁\x0000
+Remember me if there are moves that\nneed to be forgotten.
+That Pokémon knows only one move,\nso it can't be forgotten...\xF000븁\x0000
+What? That's an Egg.\nNo Egg should know any moves.\xF000븁\x0000
+OK, then.\nWhich move should be forgotten?\xF000븁\x0000
+Hm! The move \xF000ć\x0001\x0000?\nShould that move be forgotten?
+It worked perfectly!\xF000븁\x0000\nYour Pokémon has forgotten the move\n\xF000ć\x0001\x0000 completely.
+
+
+
+
+
+
+
+
+
+
+
+Which move should\n\xF000Ă\x0001\x0000 remember?\xF000븁\x0000
+Should the move \xF000ć\x0001\x0001\nbe remembered?
+Give up trying to make \n\xF000Ă\x0001\x0000 remember a move?
+\xF000Ă\x0001\x0000 remembered the move\n\xF000ć\x0001\x0001 it had forgotten!\xF000븁\x0000
+\xF000Ă\x0001\x0000 wants to remember\nthe move \xF000ć\x0001\x0001.\xF000븁\x0000\nBut \xF000Ă\x0001\x0000 can't learn more\nthan four moves.\xF000븁\x0000\nDelete an existing move to make \nroom for \xF000ć\x0001\x0001?
+1, \xF000븂\x0001\x00142, and\xF000븂\x0001\x0014... \xF000븂\x0001\x0014... \xF000븂\x0001\x0014... Ta-da!\xF000븅\x0001\x0003\xF000븅\x0001\x0005\xF000븁\x0000\n\xF000븁\x0000\n\xF000Ă\x0001\x0000 forgot how to\nuse \xF000ć\x0001\x0001.\xF000븁\x0000\nAnd...\xF000븁\x0000
+\xF000Ă\x0001\x0000 remembered the move\n\xF000ć\x0001\x0001 it had forgotten!\xF000븁\x0000
+Give up on making the Pokémon\nremember \xF000ć\x0001\x0001?
+\xF000Ă\x0001\x0000 did not remember the\nmove \xF000ć\x0001\x0001.\xF000븁\x0000
+\xF000Ā\x0001\x0000 handed over one\nHeart Scale in exchange.
+Is it OK to forget the\nmove \xF000ć\x0001\x0000?
+Everybody calls me the reminder girl.\xF000븁\x0000\nI know every move that Pokémon learn\nwhile they're leveling up.\xF000븁\x0000\nAnd I can make Pokémon remember\nthose moves!\xF000븁\x0000\nIf you bring me a Heart Scale, I'll make\na Pokémon remember a move.\xF000븁\x0000
+Should a move be remembered?
+Which Pokémon should learn it?\xF000븁\x0000
+If any of your Pokémon needs to\nremember a move, bring me a Heart Scale!
+Eggs can't remember moves!
+This Pokémon hasn't forgotten\nany moves.
+
+POWER
+ACCURACY
+PP
+
+
+
+\xF000Ȃ\x0001\x0000
+\xF000Ȃ\x0001\x0000
+\xF000ȁ\x0001\x0000/\xF000ȁ\x0001\x0001
+
+---
+QUIT
+TEACH
+
+\xF000Ă\x0001\x0000
+Lv. \xF000Ȃ\x0001\x0000
+LEARNED MOVES

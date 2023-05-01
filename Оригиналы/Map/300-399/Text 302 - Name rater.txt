@@ -1,0 +1,9 @@
+Hello, hello!\nI am the official Name Rater!\xF000븁\x0000\nWant me to rate the nicknames\nof your Pokémon?
+Which Pokémon's nickname\nshould I critique?\xF000븁\x0000
+Hmmm. \xF000Ă\x0001\x0000, is it?\xF000븁\x0000\nThat sounds good! It's a very “you"\nsort of name.\xF000븁\x0000\nBut if you'd like to change it, I can help\nyou do that. How about it?
+Excellent! What would you like\nthe new nickname to be?\xF000븁\x0000
+Done! From now on, this Pokémon\nshall be known as \xF000Ă\x0001\x0000!\xF000븁\x0000\nYou're right, that does seem to fit it\nbetter. Nicely done!
+OK! Come see me again if you\nchange your mind.
+Done! From now on, this Pokémon\nshall be known as \xF000Ă\x0001\x0000!\xF000븁\x0000\nIt looks no different from before, but we\nboth know this name is vastly superior!\xF000븀\x0000\nHow fortunate for you!
+Hmmm. \xF000Ă\x0001\x0000!\nThat is a truly impeccable nickname!\xF000븁\x0000\nTake good care of \xF000Ă\x0001\x0000!
+Now, now...\nThat is merely an Egg!

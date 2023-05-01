@@ -1,0 +1,20 @@
+\xF000Ă\x0001\x0000 seems to want to get out of\nthe Poké Ball!\xF000븁\x0000\nWill you let it out?
+The Poké Ball has stopped moving...
+\xF000Ă\x0001\x0000 came jumping out!\xF000븁\x0000
+Ooh! That Pokémon! It couldn't be...\xF000븁\x0000\nA bright red mane...and a lush tail...and\na single, noble horn!\xF000븁\x0000\nIt's exactly like the old legend!\xF000븁\x0000
+Long ago, when a war between people\nstarted an intense fire in this forest,\xF000븀\x0000\na single young Pokémon was separated\xF000븀\x0000\nfrom its parents.\xF000븁\x0000\nCobalion, Terrakion, and Virizion\nteamed up to take care of this Pokémon.\xF000븁\x0000
+The three acted as its parents and\ntaught it the knowledge and the moves\xF000븀\x0000\nit needed to survive...\xF000븁\x0000
+The young Pokémon grew rapidly, and\ndeveloped a power that surpassed its\xF000븀\x0000\nthree caretakers.\xF000븁\x0000\nHowever... One day, that Pokémon\ndisappeared from the forest.\xF000븁\x0000\nNo one knows why. But when I think about\nit... Young ones are always reckless and\xF000븀\x0000\ndrawn to adventure...\xF000븁\x0000
+It looks like they are all happy to see\none another again!\xF000븁\x0000\nI wonder if those three are trying to\nteach Keldeo something?\xF000븁\x0000
+Cobalion, Terrakion, and Virizion are\ntrying to teach \xF000Ă\x0001\x0000 the new move\xF000븀\x0000\nSecret Sword!\xF000븁\x0000\nTeach Secret Sword to \xF000Ă\x0001\x0000?
+
+
+
+If it weren't for you, these Pokémon\nnever would have been able to meet again\xF000븀\x0000\nhere in this forest that holds so many\xF000븀\x0000\nmemories for them.\xF000븁\x0000\nI'm sure they are very happy that they\nwere able to meet a Trainer like you.\xF000븁\x0000
+It seems like it's looking for the three\nlegendary Pokémon that raised it:\xF000븀\x0000\nCobalion, Terrakion, and Virizion.\xF000븁\x0000\nMaybe something will happen if you bring\nthem here, too...\xF000븁\x0000
+How you raise Keldeo is up to you...\xF000븁\x0000\nSometimes it's necessary to think about\nthings carefully rather than acting on\xF000븀\x0000\nthe spur of the moment.\xF000븁\x0000
+For Keldeo and the three legendary\nPokémon of the Unova region--Cobalion,\xF000븀\x0000\nTerrakion, and Virizion--this forest\xF000븀\x0000\nhas a special meaning.\xF000븁\x0000\nIt seems like it would be best if you knew\nthis story, as well.\xF000븁\x0000\nWould you mind listening to an old man's\nstory for a moment?\xF000븁\x0000
+When you want to teach Keldeo this move,\nyou must bring Cobalion, Terrakion,\xF000븀\x0000\nand Virizion.\xF000븁\x0000
+A verdant forest and clear water... For\nPokémon, this forest is like a paradise.\xF000븁\x0000\nIt's also very important for people,\nso I want to take good care of it!
+Would you like to teach Keldeo this\nmove again?
+If you don't get to do something you\nwanted to do, it sure stays with you.\xF000븁\x0000
