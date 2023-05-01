@@ -1,0 +1,15 @@
+Hello, Trainer!\nI think Potions are important for a trip!
+I should have bought more Poké Balls!\xF000븁\x0000\nA Pokémon I wanted to catch\njust came out, and I missed it!
+Hi! I have some questions for you!\xF000븁\x0000\nIf you want to play, which do you prefer:\noutside or at home?
+I see, I see!\xF000븁\x0000\nThen, which one are you interested in:\nthe thing everybody knows\xF000븀\x0000\nor the thing nobody knows?
+Oh, really?\xF000븁\x0000
+In my view, you are a person with\ncommon sense!
+I'd say you are quite active!
+I'd say you are very curious!
+I'd say you are quite composed!
+I'd say you are quite relaxed!
+Outside
+At home
+Neither
+The thing everybody knows
+The thing nobody knows

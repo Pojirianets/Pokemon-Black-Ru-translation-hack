@@ -1,0 +1,12 @@
+There is a tennis match\nin Small Court now!
+Tennis players are practicing \nin Small Court now!\xF000븁\x0000\nPeople can watch them practicing!
+There is a basketball game\nin Small Court now!
+Basketball players are practicing \nin Small Court now!\xF000븁\x0000\nPeople can watch them practicing!
+We love sports.\nWatching games is great, but we enjoy\xF000븀\x0000\nwatching practices, too!
+New styles of basketball and tennis\ncreated by people and Pokémon...\xF000븀\x0000\nThese may be advanced forms of sports.
+If you speak to athletes during a\npractice, they may challenge you to a\xF000븀\x0000\nPokémon battle!
+First-rank Smashers are waiting for you\nin the court with their Pokémon!
+First-rank Hoopsters are waiting for you\nin the court with their Pokémon!
+I am sorry.\xF000븁\x0000\nBut you cannot enter the court\nbecause a game is in progress.
+I am sorry.\xF000븁\x0000\nBut you cannot enter the court\nbecause a game is in progress.
+I am sorry.\xF000븁\x0000\nBut you cannot enter the court\nbecause a game is in progress.

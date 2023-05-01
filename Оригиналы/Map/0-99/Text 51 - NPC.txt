@@ -1,0 +1,3 @@
+Oh! You are the Pokémon Trainer\nI met at the entrance!\xF000븁\x0000\nYou've come this far. That means\nyou must be quite strong.\xF000븁\x0000\nAre you prepared to face the strongest\nperson in this building?\xF000븁\x0000\nAre you prepared to face the chairman?\xF000븁\x0000\nThen, the time has come. I am the one!\nI accept your challenge!\xF000븁\x0000
+I disguise myself as a janitor because\nI like to know what kinds of Trainers\xF000븀\x0000\ncome here.\xF000븁\x0000\nI had a good time battling you.\xF000븁\x0000\nThis is a token of my esteem.\nPlease accept this!\xF000븁\x0000
+A Pokémon holding an Exp. Share gets\nsome of the Exp. Points from every\xF000븀\x0000\nbattle, even if it's not involved.\xF000븁\x0000\nThat's right! It may be useful\nfor raising weak Pokémon.

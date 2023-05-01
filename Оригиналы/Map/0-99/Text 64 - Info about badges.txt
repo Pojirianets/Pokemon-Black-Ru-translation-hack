@@ -1,0 +1,21 @@
+Me oh my, the Badges you can get in the\nUnova region! Want to hear about them?
+Okey dokey. If you want to know\nabout them, please come back.
+With the Trio Badge, Pokémon up to Lv. 20\nwill obey you without question.\xF000븁\x0000
+With the Basic Badge, Pokémon up to\nLv. 30 will obey you without question.\xF000븁\x0000
+With the Insect Badge, Pokémon up to\nLv. 40 will obey you without question.\xF000븁\x0000
+With the Bolt Badge, Pokémon up to Lv. 50\nwill obey you without question.\xF000븁\x0000
+With the Quake Badge, Pokémon up to\nLv. 60 will obey you without question.\xF000븁\x0000
+With the Jet Badge, Pokémon up to Lv. 70\nwill obey you without question.\xF000븁\x0000
+With the Freeze Badge, Pokémon up to\nLv. 80 will obey you without question.\xF000븁\x0000
+With the Legend Badge, all Pokémon\nwill obey you without question.\xF000븁\x0000
+Which Badge do you want to know about?
+Trio Badge
+Basic Badge
+Insect Badge
+Bolt Badge
+Quake Badge
+Jet Badge
+Freeze Badge
+Legend Badge
+Cancel
+When I gaze down at the city from a\ntall building, I tremble.\xF000븁\x0000\nBecause...\nI-I-I'm scared of heights...

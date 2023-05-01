@@ -1,0 +1,15 @@
+N: \xF000븉\x0001\x0001You're looking for Team Plasma, right?\xF000븁\x0000\nThey ran into the amusement park.\nCome with me.\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001They're not here.\xF000븁\x0000\nLet's ride the Ferris wheel\nand see if we can spot them.\xF000븁\x0000\nI love Ferris wheels.\nThe circular motion... The mechanics...\xF000븁\x0000\nThey're like collections of\nelegant formulas.\xF000븉\x0001\x0000\xF000븁\x0000
+Team Plasma: My lord N!\xF000븁\x0000
+Team Plasma: You're safe, sire!\xF000븁\x0000
+N: \xF000븉\x0001\x0001There's no problem.\xF000븁\x0000\nYou're part of the people we brought in\nto help us save the Pokémon.\xF000븀\x0000\nSo, you're under my protection, as well.\xF000븁\x0000\nGo, quickly, and let my battle cover\nyour retreat.\xF000븁\x0000\n...Now then, \xF000Ā\x0001\x0000,\ndo you follow my logic?\xF000븉\x0001\x0000
+\xF000븉\x0001\x0001If true, your words please me.\xF000븁\x0000\nAh. Then...\nThe future I envision...\xF000븁\x0000\nPerhaps I can't beat you here and now,\nbut I'll battle you to buy time for these\xF000븀\x0000\nmembers of Team Plasma to get away!\xF000븉\x0001\x0000\xF000븁\x0000
+\xF000븉\x0001\x0001So that's how it is...\nThat's unfortunate.\xF000븁\x0000\nAh. Then...\nThe future I envision...\xF000븁\x0000\nPerhaps I can't beat you here and now,\nbut I'll battle you anyway to buy time\xF000븀\x0000\nfor these members of Team Plasma\xF000븀\x0000\nto flee.\xF000븉\x0001\x0000\xF000븁\x0000
+N: \xF000븉\x0001\x0001You're quite strong.\xF000븁\x0000\nBut I have a future that I must change.\nAnd, for that future...\xF000븉\x0001\x0000\xF000븁\x0000
+I'll defeat the Champion and become\nunbeatable, unlike any other!\xF000븁\x0000\nI'll make all Trainers free their Pokémon!\nJust try and stop me!\xF000븁\x0000\nIf you want to be together with Pokémon,\nyour only hope is to collect the Badges\xF000븀\x0000\nfrom each area and head for the\xF000븀\x0000\nPokémon League!\xF000븀\x0000\nTry and stop me there, if you dare!\xF000븁\x0000
+\xF000븉\x0001\x0001If your conviction is not strong enough,\nyou will never be able to defeat me.\xF000븉\x0001\x0000\xF000븁\x0000
+Whooshing, swooshing roller coaster!\nWhirltwirlwhirltwirl...whoa!
+Spinning, spinning Ferris wheel!\nClimbing, climbing Ferris wheel!
+No matter how old you get, amusement\nparks are always exciting, am I right?
+Look! Look!\nIt's a clown!
+Nimbasa City Pokémon Gym\nLeader: Elesa\xF000븀\x0000\nThe Shining Beauty

@@ -1,0 +1,17 @@
+Welcome to the Royal Unova!\xF000븁\x0000\nThe scenery is exhilarating,\nthe battles are exciting.\xF000븁\x0000\nThe ticket is $1,000.\nWould you like to get on board?
+The Royal Unova leaves once a day,\nonly in the evening.\xF000븀\x0000\nIt is a cruiser-type passenger ship.\xF000븁\x0000
+The Royal Unova operates only in\nthe evening.\xF000븀\x0000\nPlease come back again.
+I'm sorry, you don't have enough money.\nPlease come back again.
+The ticket is $1,000.\nWould you like to get on board?
+The ship goes under a big bridge called\nSkyarrow Bridge in the Unova region,\xF000븀\x0000\nthen turns around at Marvelous Bridge\xF000븀\x0000\nand returns to Castelia City.\xF000븁\x0000\nWe'll let you know when it's time\nto leave by blowing a whistle five times.\xF000븁\x0000
+From the deck of the world-famous Royal\nUnova, you can enjoy a spectacular view.\xF000븁\x0000\nAnd the passenger cabins are full of\nTrainers who love to battle.\xF000븁\x0000\nPlease enjoy both the view and\nthe battles!\xF000븁\x0000\nNote that as C-Gears may affect radio\nsignals or instruments in the ship,\xF000븀\x0000\nwe ask that you refrain from using them.\xF000븀\x0000\nThank you.\xF000븁\x0000
+The power of the C-Gear will be turned\noff. Is that OK?
+We are leaving the port shortly.\nBon voyage!\xF000븁\x0000
+Certainly.\nPlease come back again.
+Thank you for sailing with us on the\nRoyal Unova.\xF000븁\x0000\nHave a nice day!
+We are closed for the day.\nPlease come again tomorrow.
+Congratulations!\xF000븁\x0000\nYou've defeated all the Trainers\non the ship!\xF000븁\x0000\nPlease accept this prize.\xF000븁\x0000
+The Royal Unova is now in preparation.\xF000븁\x0000\nWe are working very hard to ready the\nship for the best Pokémon Trainers.
+Get On Board
+About the Ship
+Cancel

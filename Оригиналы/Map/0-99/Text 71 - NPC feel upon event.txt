@@ -1,0 +1,27 @@
+You can take the Battle Subway from\nGear Station!
+The Battle Subway!\xF000븁\x0000\nAs the name suggests, it's the subway\nwhere Trainers wage battles.
+The Battle Subway has seven lines\nin total!\xF000븁\x0000\nBut I heard that the only lines you can\ntake at the beginning are the Single,\xF000븀\x0000\nDouble, or Multi Trains!
+The Battle Subway has seven lines\nin total!\xF000븁\x0000\nBut you can't take the trains called\n“Super" unless you make a great effort.
+Hi, hi!\xF000븁\x0000\nPlease tell me how you introduce yourself\nbefore a battle and how you feel when\xF000븀\x0000\nyou win or lose.
+Please tell me how you introduce yourself\nbefore a battle.\xF000븁\x0000
+Please tell me how you feel when you\nlose a battle.\xF000븁\x0000
+Please tell me how you feel when you\nwin a battle!\xF000븁\x0000
+Please tell me how you feel when you\nbecome No. 1!\xF000븁\x0000
+Got it! Thanks!\n\xF000Ĝ\x0001\x0000, huh...
+Oh, you prefer not to say?\nOh, well...
+Thanks! Will you tell me your other\nfeelings, too?
+Got it! Thanks!
+INTRODUCTION
+WHEN YOU WIN
+WHEN YOU LOSE
+WHEN YOU BECOME NO. 1
+NOT TELLING
+Platform for Single Trains
+Platform for Double Trains
+Platform for Multi Trains
+Platform for Wi-Fi Trains
+Platform for Super Single Trains
+Platform for Super Double Trains
+Platform for Super Multi Trains
+Platform for Trains to Anville Town
+Under Construction

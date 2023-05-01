@@ -1,0 +1,16 @@
+Current winning streak: \xF000ȃ\x0001\x0000!\xF000븁\x0000\nNext car: No. \xF000Ȁ\x0001\x0001.\nContinue to battle?
+CONTINUE
+RECORD
+REST
+RETIRE
+Cancel your challenge?
+Save and quit the game?
+Saving...\nDon't turn off the power.
+Delete your existing Battle Video and\nsave the last battle?
+Awaiting your friend's selection.
+
+You have chosen to retire from\nthis challenge.
+Saving your Battle Video...\nDon't turn off the power.
+\xF000Ā\x0001\x0000's battle has been saved as a\nBattle Video.
+Would you like to save the last battle as\nyour Battle Video?
+Communicating. Please stand by...

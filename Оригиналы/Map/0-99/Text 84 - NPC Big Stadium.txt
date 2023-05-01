@@ -1,0 +1,17 @@
+There is a football game in\nBig Stadium now!
+Football players are practicing in\nBig Stadium now.\xF000븁\x0000\nPeople can watch them practicing!
+There is a baseball game\nin Big Stadium now!
+Infielders are practicing\nin Big Stadium now.\xF000븁\x0000\nPeople can watch them practicing!
+There is a soccer game\nin Big Stadium now!
+Soccer players are practicing\nin Big Stadium now!\xF000븁\x0000\nPeople can watch them practicing!
+You sure look up to athletes when\nyou're a kid.
+I'm raising the same Pokémon as\nmy favorite athlete's Pokémon.
+When I throw a Poké Ball, I copy the\nthrowing form of a quarterback!
+When I throw a Poké Ball, I copy the form\nof a pitcher!
+When I throw a Poké Ball, I copy the\nthrow-in of a keeper!
+Ha ha! I am a football player!\xF000븁\x0000\nI injured my hand, so I can't sign\nautographs! I'm sorry about that.\xF000븁\x0000\nSo, what does the autograph on your\nTrainer Card look like?
+Yeah! I am an Infielder!\xF000븁\x0000\nI hurt my hand, so I can't write\nan autograph! Sorry!\xF000븁\x0000\nSay, how did you sign your Trainer Card?
+Bwa ha ha! I am a Striker!\xF000븁\x0000\nMy hand got hurt, so I won't be able to\nsign any autographs! Regrets!\xF000븁\x0000\nWhat does your Trainer Card signature\nlook like?
+I am sorry.\xF000븁\x0000\nBut you cannot go onto the field\nbecause a game is in progress.
+I am sorry.\xF000븁\x0000\nBut you cannot go onto the field\nbecause a game is in progress.
+I am sorry.\xF000븁\x0000\nBut you cannot go onto the field\nbecause a game is in progress.

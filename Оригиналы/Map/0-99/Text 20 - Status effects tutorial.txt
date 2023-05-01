@@ -1,0 +1,38 @@
+Cheren: When a Pokémon is poisoned,\nits HP decreases while it is battling.\xF000븁\x0000
+Hey, \xF000Ā\x0001\x0000.\xF000븁\x0000\nHave you come looking for the\nGym Leader?
+He was here talking about Pokémon\ntypes until just a few moments ago...\xF000븁\x0000\nMaybe you walked right past him?\xF000븁\x0000
+Nothing improves your skill as a Trainer\nlike real battles.\xF000븁\x0000\nThat's why challenging Gym Leaders is\ngreat practice.\xF000븁\x0000
+By the way, \xF000Ā\x0001\x0000, will you have a\nbattle with me?\xF000븁\x0000\nI want to test how important items are\nin battles.
+Cheren: \xF000Ā\x0001\x0000, will you have a\nbattle with me?\xF000븁\x0000\nI want to test how important items are\nin battles.
+Really? I really want to try out my\nitems, so I'll just wait here until you\xF000븀\x0000\ndecide you're ready.
+Cheren: Well, let's see how effective\nmy items are...\xF000븁\x0000\nOr maybe I should test how well I can\nbattle without items...?\xF000븁\x0000\nAnyway, this is an indoor match, so let's\nbattle without getting too rough!\xF000븁\x0000
+Cheren: So learning to use items well is\ndefinitely important, then.\xF000븁\x0000\nOh, here. \xF000Ā\x0001\x0000, I'll give you\nthese Berries.\xF000븁\x0000
+Cheren: If you give a Pokémon this kind\nof Berry to hold, it will eat it to heal up\xF000븀\x0000\nwhen its HP goes down in battle.\xF000븁\x0000\nBut if you give Pokémon man-made items\nlike Potions to hold, they can't\xF000븀\x0000\nuse them.\xF000븁\x0000\nWell, good luck, then.\xF000븁\x0000
+This Trainers' School exists to meet the\ndemands of Trainers who want to know\xF000븀\x0000\nmore about Pokémon because they\xF000븀\x0000\nlove them!
+Pokémon have mysterious powers\ncalled Abilities.\xF000븁\x0000\nAbilities have a variety of effects, and\nmany of those effects are activated when\xF000븀\x0000\nPokémon are in battle!
+There is a technique that lets you\ncancel evolution!\xF000븁\x0000\nI'll read the book about it to you.\nAre you ready?\xF000븁\x0000\n“You can surprise a Pokémon and stop its\nevolution by pressing the B Button when\xF000븀\x0000\na Pokémon is evolving."
+Some moves can only be taught with TMs.\xF000븁\x0000\nTMs can be used over and over, so you\nmight want to use them a lot.\xF000븁\x0000\nIf you don't like the move you taught,\nyou can always use a different TM.
+Would you like to take a quiz about\nstatus conditions?
+So here is the question:\xF000븁\x0000\nWhich of the following items\ncures poison?
+Antidote
+Parlyz Heal
+Awakening
+Ding ding ding!\xF000븁\x0000\nRight answer!\nNow for the next question.\xF000븁\x0000
+The item that cures paralysis is\nParlyz Heal, but...\xF000븁\x0000\nWhich of the following items\nwakes up a sleeping Pokémon?
+Ding ding ding! We have a winner!\nFantastic answer!\xF000븁\x0000\nSince you know so much about status\nconditions, I'll give you this!\xF000븁\x0000
+Full Heal does exactly what the name\nsuggests--it heals all status conditions!
+Come talk to me if you want\nto take a quiz.
+Buzzzzz!\xF000븁\x0000\nToo bad... That's incorrect.\nPlease try again sometime!
+The blackboard explains Pokémon\nstatus changes in battle.\xF000븁\x0000
+What do you want to read about?
+If poisoned, a Pokémon steadily loses HP\nwhen battling.\xF000븁\x0000\nThe poison lingers after the battle.\nTo cure it, use an Antidote.\xF000븁\x0000
+Paralysis reduces the Speed stat\nand may prevent movement.\xF000븁\x0000\nIt remains after battle, so use a\nParlyz Heal.\xF000븁\x0000
+If a Pokémon falls asleep, it will be\nunable to attack.\xF000븁\x0000\nThe Pokémon may wake up on its own,\nbut if a battle ends while it is\xF000븀\x0000\nsleeping, it will stay asleep.\xF000븁\x0000\nWake it up using an Awakening.\xF000븁\x0000
+A burn reduces the Attack stat and\nsteadily reduces the victim's HP.\xF000븁\x0000\nA burn lingers after battle.\nCure a burn using a Burn Heal.\xF000븁\x0000
+If a Pokémon is frozen, it becomes\ncompletely helpless.\xF000븁\x0000\nThe Pokémon may thaw out on its own,\nbut if a battle ends while it is\xF000븀\x0000\nfrozen, it will stay frozen.\xF000븁\x0000\nThaw it out using an Ice Heal.\xF000븁\x0000
+Poison
+Paralysis
+Sleep
+Burn
+Frozen
+Cancel

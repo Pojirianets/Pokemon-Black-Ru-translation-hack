@@ -1,0 +1,50 @@
+So like I said, I'm Fennel, and as you can\nsee, I'm a scientist.\xF000븁\x0000\nIn fact, the subject I'm researching\nis Trainers!\xF000븁\x0000\nProfessor Juniper is my friend\nfrom college.\xF000븁\x0000\nShe asked me to help you guys.\xF000븁\x0000
+So!\xF000븁\x0000\nI'll give you something to help you.\nThis is a Hidden Machine for you!\xF000븁\x0000
+
+
+
+There are some moves that a Pokémon can\nuse even when it is not fighting!\xF000븁\x0000\nWith this Hidden Machine, you can teach\nyour Pokémon a move called Cut.\xF000븀\x0000\nIt can cut down a small tree.\xF000븁\x0000\nAnd you can use the Hidden Machine as\nmany times as you want, like a TM.\xF000븀\x0000\nIsn't that great?\xF000븁\x0000\nBut it's difficult to make a Pokémon\nforget a hidden move once it learns it.\xF000븁\x0000
+And I'd like to ask you a favor, too!\xF000븁\x0000\nThere is a place called the Dreamyard\non the outskirts of Striaton City.\xF000븁\x0000\nI'd like some of the Dream Mist that a\nPokémon there called Munna gives off.\xF000븁\x0000\nWith that, I'll be able to use\n\xF000\xFF00\x0001\x0002Game Sync \xF000\xFF00\x0001\x0000to collect save files of\xF000븀\x0000\nvarious Trainers!
+Fennel: Did Juniper ask you to complete\nthe Pokédex?\xF000븁\x0000\nIt is a challenge to update the Pokédex\nregularly, isn't it?\xF000븁\x0000\nOops! I got distracted! Please bring me\nsome of the Dream Mist that Munna\xF000븀\x0000\ngives off in the Dreamyard!
+Fennel: Ta-da!\xF000븁\x0000\nThanks to you, I got some Dream Mist,\nand now I can collect save files of\xF000븀\x0000\nvarious Trainers!\xF000븀\x0000\nThank you very much!\xF000븁\x0000\nAs a token of my appreciation,\nI will give you this C-Gear to use!\xF000븁\x0000\nThe C-Gear is a device related to\ncommunications, such as\xF000븀\x0000\nInfrared Connection or\xF000븀\x0000\nNintendo Wi-Fi Connection.\xF000븁\x0000
+\xF000Ā\x0001\x0000 obtained the \xF000\xFF00\x0001\x0002C-Gear\xF000\xFF00\x0001\x0000!
+Turn on the C-Gear and\nestablish communications?
+Yes
+No
+Some functions of the C-Gear\nwill be restricted. Is that OK?
+Wireless communications\nare turned OFF.\xF000븁\x0000\nTurn wireless communications\nON in the System Settings.\xF000븀\x0000\nError code: 50699\xF000븁\x0000
+You see! The C-Gear was activated, and\nthat screen showed up!\xF000븁\x0000\nIf you touch the “?" icon at the\nbottom-right of the screen, you can read\xF000븀\x0000\nabout the C-Gear.\xF000븁\x0000
+If you want to turn on the C-Gear, touch\nthe Power symbol at the bottom right of\xF000븀\x0000\nthe screen.\xF000븁\x0000\nThen, after turning on the power, if you\ntouch the “?" icon at the bottom right\xF000븀\x0000\nof the screen, you can read about\xF000븀\x0000\nthe C-Gear.\xF000븁\x0000
+About \xF000\xFF00\x0001\x0002Game Sync\xF000\xFF00\x0001\x0000...\xF000븁\x0000\nI'd like to explain a little more about the\nsystem to collect Trainers' save files.\xF000븁\x0000\nDo you have time to learn more?
+I am sorry!\nI am so happy, so I will explain about it!\xF000븁\x0000\nBecause, thanks to you, we can do a\ngreat thing!\xF000븁\x0000
+Now \xF000\xFF00\x0001\x0002Game Sync \xF000\xFF00\x0001\x0000can retrieve memories\nof sleeping Pokémon using Dream Mist!\xF000븁\x0000\nThat's right! We can collect save files of\nTrainers from all over the world!\xF000븁\x0000
+What's more, we learned that if you use\n\xF000\xFF00\x0001\x0002Game Sync\xF000\xFF00\x0001\x0000 to make a Pokémon sleep,\xF000븀\x0000\nit will have dreams.\xF000븁\x0000\nThen, when you wake up that Pokémon,\nits dream becomes the reality in a\xF000븀\x0000\nspace called \xF000\xFF00\x0001\x0001Entralink \xF000\xFF00\x0001\x0000in the middle of\xF000븀\x0000\nthe Unova region.\xF000븁\x0000\nIsn't Game Sync interesting?\nIf you like, please send your save file.\xF000븁\x0000\nI've summed up the details in the PC, so\nplease check it if you get a chance!\xF000븁\x0000
+Fennel: \xF000\xFF00\x0001\x0002Game Sync\xF000\xFF00\x0001\x0000 is fascinating, I think.\nDo you think so, too?\xF000븁\x0000\nIf you get interested, please send your\nsave file.\xF000븁\x0000\nI've summed up the details in the PC\nat the back.\xF000븀\x0000\nSo, please check it, if you'd like!
+Fennel: Oh, thank you! \xF000븁\x0000\nYou also sent your save file. I saw it\nwhile I was researching Trainers!\xF000븁\x0000\nIsn't \xF000\xFF00\x0001\x0002Game Sync\xF000\xFF00\x0001\x0000 great?
+
+
+Are you a Trainer?\xF000븁\x0000\nDo you use the PC at Pokémon Centers?\xF000븁\x0000\nI am Amanita. I maintain the Box system.\nDo you know about the Battle Box?
+Amanita: Impressive!\xF000븁\x0000\nIf there's a Pokémon you often use in\nyour battles, you can register it in the\xF000븀\x0000\nBattle Box!
+Amanita: Let me give you a quick how-to!\xF000븁\x0000\nIf there's a Pokémon you often use in\nyour battles, you can register it in the\xF000븀\x0000\nBattle Box!
+Amanita: Please do use the Battle Box.\xF000븁\x0000\nYou can register Pokémon in the PC\nover there, too!
+Amanita: Oh, Trainer! Thank you very\nmuch for helping Fennel!\xF000븁\x0000\nThis is from me. Please take it.\nDon't be shy.\xF000븁\x0000
+You can register your friends in your\nPal Pad.\xF000븁\x0000\nAfter you register, you can link with\nthose friends over Nintendo Wi-Fi\xF000븀\x0000\nConnection to do all kinds of fun things!\xF000븁\x0000\nYou can trade Pokémon, challenge\nyour friends to a battle, and so on.\xF000븁\x0000\nLet me give you a quick how-to on\nregistering your friends.\xF000븁\x0000\nYou can either input your friend's code\ndirectly by using your Pal Pad...\xF000븁\x0000\nOr you can use the IR Connection\nfeature of the C-Gear.\xF000븁\x0000\nThen, you can register your friend!\xF000븁\x0000
+Amanita: Is there something you'd like\nto ask me?
+In the Battle Box, you can register up\nto six Pokémon that you often use\xF000븀\x0000\nin battles.\xF000븁\x0000\nWhen you battle using Infrared\nConnection, you can choose to battle\xF000븀\x0000\nwith either your party Pokémon or with\xF000븀\x0000\nthe Pokémon in the Battle Box!
+In order to register your friend\nin your Pal Pad...\xF000븁\x0000\nYou can either input your friend's code\ndirectly by using your Pal Pad...\xF000븁\x0000\nOr you can use the IR Connection\nfeature of the C-Gear.\xF000븁\x0000\nThen, you can register your friend!
+Catch a lot of Pokémon,\nand use the Box a lot!
+Battle Box
+Pal Pad
+Cancel
+Trainer! Do you use the PC in a\nPokémon Center?\xF000븁\x0000\nI am the one who maintains the\nBox system.\xF000븁\x0000\nDo you know about the Battle Box?
+C-Gear Help\xF000븁\x0000\nIf you have trouble using it, touch the\n“?" icon on the screen!
+What is the Pokémon Storage System?\xF000븁\x0000\nThe person who developed the\nPokémon Storage System for the PC\xF000븀\x0000\nconnection is Bill in the Kanto region.
+
+The monitor of the PC does not\nshow anything...
+Fennel's Memo\xF000븁\x0000
+Read which topic?
+Game Sync
+Pokémon Dreams
+Cancel
+Game Sync is a system to collect save\nfiles from Trainers all over the world\xF000븀\x0000\nthrough Nintendo Wi-Fi Connection\xF000븀\x0000\nby making Pokémon sleep and retrieving\xF000븀\x0000\ntheir dreams.\xF000븁\x0000\nTouch the Online button on the C-Gear\nscreen, and a button called\xF000븀\x0000\n\xF000\xFF00\x0001\x0001Game Sync \xF000\xFF00\x0001\x0000appears.\xF000븁\x0000\nChoose a Pokémon to send to sleep, then\nyou can send your save file through\xF000븀\x0000\nNintendo Wi-Fi Connection.\xF000븁\x0000\nYou should be able to make more Pokémon\nsleep as a result of the research.\xF000븁\x0000
+Pokémon Dreams...\xF000븁\x0000\nIf you use Game Sync to make a\nPokémon sleep, it will have dreams.\xF000븁\x0000\nWhen you wake up the Pokémon with\nGame Sync, its dream becomes\xF000븀\x0000\nthe reality in a space called \xF000\xFF00\x0001\x0001Entralink\xF000븀\x0000\n\xF000\xFF00\x0001\x0000in the middle of the Unova region...\xF000븁\x0000

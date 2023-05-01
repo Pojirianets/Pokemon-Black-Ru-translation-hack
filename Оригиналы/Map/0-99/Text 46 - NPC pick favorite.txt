@@ -1,0 +1,12 @@
+Your favorite is \xF000ā\x0001\x0000, isn't it?
+Your favorite is that Egg, isn't it?
+Yes, I was right! I thought so!
+What? Your favorite isn't \xF000ā\x0001\x0000?!
+...Oh? Your favorite really is that Egg,\nisn't it?
+I want to know\neveryone's favorite kind of Pokémon!
+When you're tired, take a rest!\nIt's the same for people and Pokémon.
+Wanna recover Pokémon?\nOh, soooooorry!\xF000븁\x0000
+Do you know Geonet?
+You! You, using Geonet! Great!\nI tell you this in confidence.\xF000븁\x0000\nWith the latest technology, we can trade\nPokémon with people far away!\xF000븁\x0000\n...I know it sounds crazy,\nbut give it a try. You'll be surprised!
+Oh! You know Geonet!\nGreat, great!\xF000븁\x0000\nThis is even greater, lemme tell ya!\xF000븁\x0000\nIf you try Geonet, you can register\nthe place where you live!
+You see the globe on the second floor\nof this Pokémon Center?\xF000븁\x0000\nThat is Geonet.\xF000븁\x0000\nIf you check on Geonet, you can register\nthe place where you live!
