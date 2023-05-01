@@ -1,0 +1,121 @@
+\xF000봂\x0000Random Matchup Free Mode
+\xF000봂\x0000Random Matchup Rating Mode
+\xF000봂\x0000SINGLE BATTLE
+\xF000봂\x0000DOUBLE BATTLE
+\xF000봂\x0000TRIPLE BATTLE
+\xF000봂\x0000ROTATION BATTLE
+\xF000봂\x0000LAUNCHER BATTLE
+\xF000봂\x0000\xF000Ā\x0001\x0000's Record
+\xF000봃\x0001\x0000Rating:
+\xF000봃\x0001\x0000\xF000ȃ\x0001\x0000
+\xF000봃\x0001\x0000No. of Battles:
+\xF000봃\x0001\x0000\xF000ȅ\x0001\x0000
+\xF000봃\x0001\x0000No. of Wins:
+\xF000봃\x0001\x0000\xF000Ȅ\x0001\x0000
+\xF000봃\x0001\x0000No. of Losses:
+\xF000봃\x0001\x0000\xF000Ȅ\x0001\x0000
+\xF000봃\x0001\x0000\xF000ȁ\x0001\x0001 \xF000ȁ\x0001\x0002, \xF000ȃ\x0001\x0000 - \xF000ȁ\x0001\x0004 \xF000ȁ\x0001\x0005, \xF000ȃ\x0001\x0003
+Registered Pokémon
+Registered Pokémon
+Registered Pokémon
+LOCATION
+GREET
+\xF000Ĥ\x0001\x0000
+\xF000ĥ\x0001\x0000
+Receiving data...\nPlease wait a moment.
+Which mode will you challenge?
+Random Matchup Free mode\nwill be launched.\xF000븁\x0000
+Free
+Rating
+Quit
+Will you quit Random Matchup?
+Yes
+No
+Searching for your opponent...
+An opponent has been found!
+Quit searching for\nsomeone to battle?
+Please choose your Pokémon.
+Sending data...\nDon't turn off the power.
+Do you want to continue battling?
+Will you quit Random Matchup?
+Saving...\nDon't turn off the power.
+Random Matchup Rating mode\nwill be launched.\xF000븁\x0000
+Waiting for the server...\nDon't turn off the power.
+Awaiting communication...\nPlease stand by.
+
+
+
+Join
+Info
+Cancel
+
+
+Yes
+No
+Searching for competition data...
+Game Sync ID has not been\nregistered at the Pokémon Global Link.\xF000븁\x0000\nPlease complete the Game Sync settings\nand access the Pokémon Global Link\xF000븁\x0000\nwebpage to register.\nhttp://www.pokemon-gl.com\xF000븁\x0000
+
+No competitions have been found\nfor you to participate in.\xF000븁\x0000\nIn Battle Competition,\nyou cannot participate in the same\xF000븀\x0000\ncompetition twice.\xF000븁\x0000
+Player ID will be updated...\nDon't turn off the power.
+There are no current competitions\nthat you can participate in.\xF000븁\x0000
+To participate in the Wi-Fi Competition,\nyou need to update your Digital Player ID.\xF000븁\x0000\nIs it OK to update it?
+To participate in the Wi-Fi Competition,\nthe Digital Player ID will be updated.\xF000븁\x0000\nThe Battle Box from the previous\ntournament will be unregistered.\xF000븁\x0000\nIs it OK to update your Digital Player ID?
+You cannot participate\nwithout updating your Digital Player ID.\xF000븁\x0000\nCancel this update?
+
+Unable to update your Digital Player ID.
+Your Battle Box will be registered\nfor the tournament.\xF000븁\x0000\nCaution!\nOnce registered,\xF000븀\x0000\nyou will not be able to\xF000븀\x0000\nmove your Pokémon to or from\xF000븀\x0000\nyour Battle Box.\xF000븁\x0000\nWill you still register the Pokémon\nin your Battle Box?
+Yes
+No
+Quit registration?
+Quit the competition registration?
+Sending data...\nDon't turn off the power.
+There was a problem with\nyour Pokémon,\xF000븀\x0000\nand they could not participate.\xF000븁\x0000
+Competition registration\nis complete!\xF000븁\x0000
+The conditions for the tournament\nhave not been met.\xF000븁\x0000\nPlease place your Pokémon\nin the Battle Box.\xF000븁\x0000
+Pokémon Competition over Nintendo WFC!\nWhat would you like to do?
+Battle
+Cancel participation
+Cancel
+Quit the competition?
+
+The competition time has run out.\nThe competition has ended.\xF000븁\x0000
+Your Battle Box has been\nunregistered.\xF000븁\x0000
+Currently, you have registered no\ncompetitions.\xF000븁\x0000
+Once unregistered, you will not be able to\nparticipate in the same tournament.\xF000븁\x0000\nIs it OK to unregister?
+You will be unregistered.\nAre you sure about this?
+Searching for your opponent...
+
+Your opponent has been found!
+The battle results were\nsent to the server.\xF000븁\x0000\nIt'll take a little time\nto calculate your Rating.\xF000븁\x0000\nOnce the calculation is done,\nyour Rating will be updated.\xF000븁\x0000
+
+Receiving data...\nDon't turn off the power.
+Checking the competition\ndetails...
+Pokémon Wi-Fi Competition!\nDo you want to continue battling?
+Battle
+Cancel participation
+Cancel
+The competition you've registered\nis not currently held.\xF000븁\x0000\nPlease check the competition schedule\nand wait for it.\xF000븁\x0000
+There are no Pokémon in\nyour Battle Box.\xF000븁\x0000\nPlease check the tournament\nrules to place Pokémon\xF000븀\x0000\nin your Battle Box.\xF000븁\x0000
+
+L\xF000Ȃ\x0001\x0000
+♂
+♀
+
+You are participating in this competition.\nPlease register your Pokémon.
+You are participating in this competition.\nYour Battle Box is being locked.
+Once unregistered, you will not be able to\nparticipate in the same tournament.\xF000븁\x0000\nIs it OK to unregister?
+
+It is being unregistered...\nDon't turn off the power.
+Your Battle Box has been\nunregistered.\xF000븁\x0000
+This competition has already ended.
+You unregistered from this competition.
+You don't have any\nDigital Player ID data.\xF000븁\x0000
+You've been unregistered\nfrom the competition, as\xF000븀\x0000\nyour Game Card was inserted into\xF000븀\x0000\nanother DS system.\xF000븁\x0000
+Once unregistered, you will not be able to\nparticipate in the same tournament.\xF000븁\x0000\nIs it OK to unregister?
+You will be unregistered.\nAre you sure about this?
+You have been unregistered\nfrom the competition.\xF000븁\x0000
+Back
+Unregister
+Yes
+No
+There was a problem with\nyour Pokémon,\xF000븀\x0000\nand they could not participate.\xF000븁\x0000

@@ -1,0 +1,350 @@
+Greet
+Draw
+Battle
+Trade
+Cancel
+Spin
+
+\xF000Ĝ\x0001\x0002\xF000븂\x0001\x000F\xF000븁\x0000\n\xF000Ā\x0001\x0000\nhas contacted you.\xF000븂\x0001\x000F
+The chat has been dropped.
+Awaiting a response from\n\xF000Ā\x0001\x0000...\xF000븂\x0001\x000F
+The chat was ended.
+You have an offer to see\n\xF000Ā\x0001\x0000's Trainer Card.\xF000븁\x0000\nWould you like to show your\nTrainer Card?
+This is the Trainer Card of\n\xF000Ā\x0001\x0000, who lives in\xF000븀\x0000\n\xF000ĥ\x0001\x0004,\xF000븀\x0000\n\xF000Ĥ\x0001\x0003.\xF000븂\x0001<
+This is the Trainer Card of\n\xF000Ā\x0001\x0000, who lives in\xF000븀\x0000\n\xF000Ĥ\x0001\x0003.\xF000븂\x0001<
+This is the Trainer Card of\n\xF000Ā\x0001\x0000, who lives in\xF000븀\x0000\n\xF000ĥ\x0001\x0004.\xF000븂\x0001<
+This is \xF000Ā\x0001\x0000's\nTrainer Card.\xF000븂\x0001<
+Waiting for the other player to finish.
+You declined the offer.
+\xF000Ā\x0001\x0000 has invited you to draw\nsomething.\xF000븁\x0000\nWould you like to join the other\nplayer and draw?
+
+You declined the offer.
+
+\xF000Ā\x0001\x0000 proposed\na battle.\xF000븁\x0000\nWill you accept a Single Battle\nwith no restrictions?\xF000븁\x0000
+\xF000Ā\x0001\x0000 proposed\na battle.\xF000븁\x0000\nWill you accept a Single Battle\nwith Flat Battle rules?\xF000븁\x0000
+
+\xF000Ā\x0001\x0000 proposed\na battle.\xF000븁\x0000\nWill you accept a Double Battle\nwith no restrictions?\xF000븁\x0000
+\xF000Ā\x0001\x0000 proposed\na battle.\xF000븁\x0000\nWill you accept a Double Battle\nwith Flat Battle rules?\xF000븁\x0000
+
+\xF000Ā\x0001\x0000 proposed\na battle.\xF000븁\x0000\nWill you accept a Triple Battle\nwith no restrictions?\xF000븁\x0000
+\xF000Ā\x0001\x0000 proposed\na battle.\xF000븁\x0000\nWill you accept a Triple Battle\nwith Flat Battle rules?\xF000븁\x0000
+
+\xF000Ā\x0001\x0000 proposed\na battle.\xF000븁\x0000\nWill you accept a Rotation Battle\nwith no restrictions?\xF000븁\x0000
+\xF000Ā\x0001\x0000 proposed\na battle.\xF000븁\x0000\nWill you accept a Rotation Battle\nwith Flat Battle rules?\xF000븁\x0000
+\xF000Ā\x0001\x0000 proposed\na battle.\xF000븁\x0000\nWill you accept a Multi Battle\nwith no restrictions?\xF000븁\x0000
+\xF000Ā\x0001\x0000 proposed\na battle.\xF000븁\x0000\nWill you accept a Multi Battle\nwith Flat Battle rules?\xF000븁\x0000
+
+You declined the offer.
+\xF000Ā\x0001\x0000 has offered to\nmake a trade.\xF000븁\x0000\nWill you accept this trade offer?
+The trade will be started!\xF000븂\x0001<
+You declined the offer.
+You need at least two Pokémon\nin your party if you want to trade!
+\xF000Ā\x0001\x0000 has invited you to\nmix records.\xF000븁\x0000\nWould you like to mix records\nwith the other player?
+
+
+\xF000Ā\x0001\x0000 has invited you to join\na Spin Trade session.\xF000븁\x0000\nWould you like to take part\nin the Spin Trade?
+
+You declined the offer.
+You don't have an Egg.\nThe invitation was turned down.
+\xF000Ĝ\x0001\x0002\xF000븂\x0001\x000F\xF000븁\x0000\nThis is \xF000Ā\x0001\x0000! Is there\nsomething you wanted to do?
+\xF000Ĝ\x0001\x0002\xF000븂\x0001\x000F\xF000븁\x0000\nHello, it's \xF000Ā\x0001\x0000!\nWould you like to do something?
+Whoops! Sorry, but I have to do\nsomething else.\xF000븀\x0000\nAnother time, OK?
+Whoops! Sorry, but I have to do\nsomething else.\xF000븀\x0000\nAnother time, OK?
+What would you like to do?
+What would you like to do?
+...\nThe Trainer appears to be busy...
+... ...\nThe Trainer appears to be busy...
+\xF000Ā\x0001\x0000 did not reply...
+\xF000Ā\x0001\x0000 did not reply...
+Sure thing! Let me show you\nmy Trainer Card.
+Hi, let me introduce myself\nby showing you my Trainer Card.
+Huh? My Trainer Card...\nWhere'd it go now?\xF000븁\x0000\nSorry! I'll show you another time!
+Huh? My Trainer Card...\nWhere'd it go now?\xF000븁\x0000\nSorry! I'll show you another time!
+I'm just showing my Trainer Card\nas my way of a greeting.
+We're showing each other our\nTrainer Cards to get acquainted.
+I hope I get to know you better!
+Glad to meet you.\nPlease don't be a stranger!
+Oh, did you want to draw with me?\nSure thing, but hang on just a second.
+You want to draw with me?\nSure! Just give me a second...
+
+
+Oh, sorry! I can't now.\nLet's draw another time.
+Oh, I'm sorry!\nLet's draw another time!
+\xF000Ā\x0001\x0000: We're drawing right\nnow.\xF000븁\x0000\nOh, I know! \xF000Ā\x0001\x0001, would\nyou like to draw with us?
+\xF000Ā\x0001\x0000: We're drawing right\nnow.\xF000븁\x0000\nOh, I know! \xF000Ā\x0001\x0001, would\nyou like to draw with us?
+Oh, all right.\nCome see me anytime, OK?
+Oh...\nPlease come by anytime.
+OK! Just give me a second!
+OK! Just give me a second!
+OK! Let's do some drawing\ntogether!\xF000븂\x0001<
+OK! Thanks for waiting!\nLet's get drawing!\xF000븂\x0001<
+Oh, I'm sorry.\nI have too much to do right now.\xF000븀\x0000\nLet's draw some other time, OK?
+Oh, I'm sorry.\nI have too much to do right now.\xF000븀\x0000\nLet's draw some other time, OK?
+The last letter of what you draw has\nto be the first letter of what I draw?
+Wow!\nYou're really good!
+Stop drawing funny faces!\nIt hurts to laugh so much!
+Ahaha!\nWhat is that?!
+Wow, you're good!\nI'll try to imitate you!
+I love drawing!\nI can draw and draw!
+...Uh-huh... What is that?\nIs that supposed to be me?
+Oops!\nI can't stay inside the lines!
+A battle? Of course, but I need\ntime to get ready.
+A battle? Of course, but I need\ntime to get ready.
+Thanks for waiting!\nLet's get our battle started!\xF000븂\x0001<
+Sorry I made you wait!\nLet's get started!\xF000븂\x0001<
+Sorry! My Pokémon don't seem to\nbe feeling too well right now.\xF000븀\x0000\nLet me battle you another time.
+I'm terribly sorry, but my Pokémon\naren't feeling well...\xF000븁\x0000\nLet's battle another time.
+\xF000Ā\x0001\x0000: We're about to have a\nMulti Battle.\xF000븁\x0000\nOh! \xF000Ā\x0001\x0001, would you\njoin us in the Multi Battle?
+\xF000Ā\x0001\x0000: We're about to have a\nMulti Battle.\xF000븁\x0000\nOh! \xF000Ā\x0001\x0001, would you\njoin us in the Multi Battle?
+Oh, all right.\nCome see me anytime, OK?
+Oh...\nPlease come by anytime.
+OK! Just give me a second!
+OK! Just give me a second!
+Sorry to make you wait! OK then,\nlet's have a Multi Battle!\xF000븂\x0001<
+Sorry to keep you waiting! OK then,\nlet's have a Multi Battle!\xF000븂\x0001<
+Oh, I'm sorry.\nI have too much to do right now.\xF000븀\x0000\nAnother time, OK?
+Oh, sorry!\nLet's do this another time!
+
+
+Whoa!\nI can tell you're pretty tough!
+That Pokémon...\nIt's been raised really well!
+You used that move?\nThat's good strategy!
+That's it!\nThis is the right move now!
+Way to go!\nThat was an eye-opener!
+That's awesome!\nI've never seen that battle style!
+Oh! How could you use that\nPokémon in that situation?
+You have exquisite timing for\nswitching Pokémon!
+You want to trade, huh?\nSure, hold on just a second.
+A trade? Of course, but I need\ntime to get ready.
+
+
+Sorry! I don't have a Pokémon\nthat I can trade right now.\xF000븁\x0000\nLet's trade some other time.
+I'm sorry, but I don't have any\nPokémon that I can trade now...\xF000븁\x0000\nLet's trade some other time!
+Oh yeah!\nI really wanted this Pokémon!
+I'm trading Pokémon right now.
+Finally, I got that Pokémon\nI've wanted for so long.
+I finally got that Pokémon\nI wanted in a trade!
+You can't trade if you have only one\nPokémon with you.\xF000븁\x0000
+You can't trade if you have only\none Pokémon with you.\xF000븁\x0000
+If you want to do something\nwith me, just give me a shout!
+If you want to do something\nwith me, don't be shy. Just ask!
+
+
+
+
+Oh, I'm sorry.\nI have too much to do right now.\xF000븀\x0000\nAnother time, OK?
+Oh, sorry!\nLet's do this another time!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spin Trade? Sure!\nOK, just hold on a second!
+Spin Trade? Of course!\nOK, can you just wait a moment?
+
+
+Oh, I'm sorry.\nI have too much to do right now.\xF000븀\x0000\nAnother time, OK?
+Oh, sorry!\nLet's do this another time!
+You need an Egg if you want to take\npart in a Spin Trade.\xF000븁\x0000
+You need an Egg if you want to\ntake part in a Spin Trade.\xF000븁\x0000
+\xF000Ā\x0001\x0000: We're going to do a Spin\nTrade now.\xF000븁\x0000\nHey, \xF000Ā\x0001\x0001! Do you want to join\nus for a Spin Trade, too?
+\xF000Ā\x0001\x0000: We were doing Spin Trades\njust now.\xF000븁\x0000\n\xF000Ā\x0001\x0001, do you want to join us\nand do some Spin Trades, too?
+Oh, all right.\nCome see me anytime, OK?
+Oh...\nPlease come by anytime.
+OK! Just give me a second!
+OK! Just give me a second!
+OK!\nLet's do a Spin Trade together!\xF000븂\x0001<
+OK!\nLet's do a Spin Trade together!\xF000븂\x0001<
+What's this?\nIt looks like you don't have an Egg.\xF000븁\x0000\nWhen you have an Egg, please come back!
+What's this?\nIt looks like you don't have an Egg.\xF000븁\x0000\nWhen you bring an Egg,\nlet's do this again!
+Oh, I'm sorry.\nI have too much to do right now.\xF000븀\x0000\nAnother time, OK?
+Oh, sorry!\nLet's do this another time!
+There is an Egg that cannot be traded\nin your party.
+There is an Egg that cannot be traded\nin your party.
+There is an Egg that cannot be traded\nin your party.\xF000븁\x0000
+There is an Egg that cannot be traded\nin your party.\xF000븁\x0000
+Spin Trades are so much fun!
+We're doing Spin Trades!
+There!\nStop there!
+Wah!\nIt moved again!
+My Egg's awesome!
+There goes the Egg I wanted...
+Yes!\nI got the Egg I wanted!
+If it stopped there,\nI would've gotten a Berry.
+Welcome to the Union Room.\xF000븁\x0000\nIf there is anything you need help with,\nplease let me know!\xF000븁\x0000
+
+Which topic would you\nlike me to explain?
+There are five Battle Formats.\xF000븁\x0000\nSingle Battle is for two Trainers\nwith one or more Pokémon each.\xF000븁\x0000\nEach Trainer can have one Pokémon\nin battle at a time.\xF000븁\x0000\nDouble Battle is for two Trainers\nwith two or more Pokémon each.\xF000븁\x0000\nEach Trainer will send out two\nPokémon to battle at a time.\xF000븁\x0000\nTriple Battle is for two Trainers\nwith three or more Pokémon each.\xF000븁\x0000\nEach Trainer puts three Pokémon\ninto battle at one time.\xF000븁\x0000\nRotation Battle is for two Trainers.\nEach Trainer sends three Pokémon\xF000븀\x0000\ninto battle, with one Pokémon in front\xF000븀\x0000\nand the other two in back.\xF000븁\x0000\nMulti Battle is for four Trainers\nwith one or more Pokémon each.\xF000븁\x0000\nEach Trainer can have one Pokémon\nin battle at a time.\xF000븁\x0000
+You may trade your Pokémon with\nother players.\xF000븁\x0000\nMeeting new people could be a\nshortcut to meeting rare Pokémon!\xF000븁\x0000
+
+In a Spin Trade, each participant brings\nan Egg to trade with others.\xF000븁\x0000\nWhich Egg will you end up with?\nWhat kind of Pokémon is in that Egg?\xF000븀\x0000\nIt's quite exciting and fun!\xF000븁\x0000\nUp to five players can take part,\nso try it with your friends!\xF000븁\x0000
+You may get together with others\nand draw.\xF000븁\x0000\nYou all work on one sheet\nof paper at the same time.\xF000븁\x0000\nI'm sure a drawing made by friends\nwill be a memorable masterpiece!\xF000븁\x0000\nUp to five players can take part,\nso try it with your friends!\xF000븁\x0000
+You can chat with other people\nby selecting “CHAT" in the menu.\xF000븁\x0000\nGo out and meet other players in\nthe Union Room!\xF000븁\x0000\nLet people know what you're like\nand what you'd like to do.\xF000븁\x0000\nMingle, chat, and add to your\ncircle of friends!\xF000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Battle
+Trade
+
+Spin
+Draw
+Chat
+Cancel
+Talking to \xF000Ā\x0001\x0000...
+Whoops! Sorry, but I have to do\nsomething else.\xF000븀\x0000\nAnother time, OK?
+
+
+
+こんにちは！
+Hello!
+Bonjour!
+Ciao!
+Hallo!
+Hola!
+H-e-l-l-o-!
+안녕하세요
+Battles for two
+Battles for four
+Cancel
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+Confirm
+Rules
+Cancel
+
+No Restrictions
+Flat Battle
+Wonder Launcher on
+Wonder Launcher off
+Cancel
+Battle Format\xF000봅\x0001s: \xF000\xFF00\x0001\x0002Single Battle\xF000\xFF00\x0001\x0000
+Battle Format\xF000봅\x0001s: \xF000\xFF00\x0001\x0002Double Battle\xF000\xFF00\x0001\x0000
+Battle Format\xF000봅\x0001s: \xF000\xFF00\x0001\x0002Triple Battle\xF000\xFF00\x0001\x0000
+Battle Format\xF000봅\x0001s: \xF000\xFF00\x0001\x0002Rotation Battle\xF000\xFF00\x0001\x0000
+Battle Format\xF000봅\x0001s: Multi Battle
+Battle Rules\xF000봅\x0001s: \xF000\xFF00\x0001\x0002No Restrictions\xF000\xFF00\x0001\x0000
+Battle Rules\xF000봅\x0001s: \xF000\xFF00\x0001\x0002Flat Battle\xF000\xFF00\x0001\x0000
+Wonder Launcher\xF000봅\x0001s: \xF000\xFF00\x0001\x0002On\xF000\xFF00\x0001\x0000
+Wonder Launcher\xF000봅\x0001s: \xF000\xFF00\x0001\x0002Off\xF000\xFF00\x0001\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+You don't meet the conditions,\nso you cannot participate.
+Please wait a moment...\nPress the B Button to cancel.
+Please choose the Pokémon\nthat will participate.\xF000븂\x0001<
+Please select the three Pokémon\nthat will participate.\xF000븂\x0001<
+Please select the four Pokémon\nthat will participate.\xF000븂\x0001<
+Please select the six Pokémon\nthat will participate.\xF000븂\x0001<
+Please select up to three Pokémon\nthat will participate.\xF000븂\x0001<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I don't know this game, so I won't play!
+I don't meet the conditions, so I\ncan't battle!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ending communication.\nPlease wait...\xF000븂\x0001<
+
+Communication will end.\nIs that OK?
+Party
+Battle Box
+... ...\nThe Trainer appears to be busy...
+
+
+
+
+This is \xF000Ā\x0001\x0000's Trainer Card!\xF000븁\x0000\n...It's a Normal Card!
+This is \xF000Ā\x0001\x0000's Trainer Card!\xF000븁\x0000\n...It's a Bronze Card!
+This is \xF000Ā\x0001\x0000's Trainer Card!\xF000븁\x0000\n...It's a Copper Card!
+This is \xF000Ā\x0001\x0000's Trainer Card!\xF000븁\x0000\n...It's a Silver Card!
+This is \xF000Ā\x0001\x0000's Trainer Card!\xF000븁\x0000\n...It's a Gold Card!
+This is \xF000Ā\x0001\x0000's Trainer Card!\xF000븁\x0000\n...It's a White Card!
+This is \xF000Ā\x0001\x0000's Trainer Card!\xF000븁\x0000\n...It's a Black Card!
+This is \xF000Ā\x0001\x0000's Trainer Card!\xF000븁\x0000\n...It's a Card you haven't seen before!

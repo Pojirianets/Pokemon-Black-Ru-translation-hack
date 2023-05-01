@@ -1,0 +1,69 @@
+PAL PAD
+CHECK FRIEND ROSTER
+REGISTER FRIEND CODE
+\xF000Ā\x0001\x0000'S FRIEND CODE
+
+FRIEND ROSTER
+
+
+DETAILS
+REWRITE NAME
+DELETE
+CANCEL
+What would you like to do\nwith \xF000Ā\x0001\x0000's data?
+RECORD WITH \xF000Ā\x0001\x0000
+
+
+
+
+
+BATTLE RECORD
+WIN
+LOSE
+\xF000봃\x0001\x0000\xF000ȃ\x0001\x0000
+POKÉMON TRADES
+\xF000봃\x0001\x0000\xF000ȃ\x0001\x0000
+
+
+DATE LAST PLAYED
+\xF000ȁ\x0001\x0001/\xF000ȁ\x0001\x0002/\xF000ȃ\x0001\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\xF000Ā\x0001\x0000'S FRIEND CODE
+
+
+By exchanging Friend Codes\nwith other players, you may\ntrade and battle with them\nover Nintendo Wi-Fi Connection.
+To obtain your Friend Code,\nplease log on to Nintendo WFC.
+\xF000ȃ\x0001\x0001 \xF000ȃ\x0001\x0002 \xF000ȃ\x0001\x0003\n\xF000Ā\x0001\x0000 will be registered.
+The Friend Code is wrong.\n\xF000ȃ\x0001\x0001 \xF000ȃ\x0001\x0002 \xF000ȃ\x0001\x0003
+\xF000Ā\x0001\x0000 will be deleted.\nAre you sure about this?
+Your Friend Roster is full!
+That Friend Code has already been\nregistered.
+\xF000Ā\x0001\x0000's Friend Code:\n\xF000ȃ\x0001\x0001 \xF000ȃ\x0001\x0002 \xF000ȃ\x0001\x0003
+CHECK FRIEND CODE
+
+
+
+
+YES
+NO
+Please go to the Wi-Fi Club\nwith \xF000Ā\x0001\x0000.

@@ -1,0 +1,42 @@
+
+
+
+\xF000Ă\x0001\x0000 learned\n\xF000ć\x0001\x0001!
+\xF000Ă\x0001\x0000 wants to learn the\nmove \xF000ć\x0001\x0001.\xF000븁\x0000\nHowever, \xF000Ă\x0001\x0000 already\nknows four moves.\xF000븁\x0000\nShould a move be deleted and\nreplaced with \xF000ć\x0001\x0001?
+1, \xF000븂\x0001\x00142, and\xF000븂\x0001\x0014... \xF000븂\x0001\x0014... \xF000븂\x0001\x0014... Ta-da!\xF000븅\x0001\x0003\xF000븅\x0001\x0005\xF000븁\x0000\n\xF000Ă\x0001\x0000 forgot how to\nuse \xF000ć\x0001\x0001.\xF000븁\x0000\nAnd...\xF000븁\x0000
+\xF000Ă\x0001\x0000 learned how to use\n\xF000ć\x0001\x0001!\xF000븁\x0000
+Give up on learning the move\n\xF000ć\x0001\x0001?
+\xF000Ă\x0001\x0000 did not learn\n\xF000ć\x0001\x0001.\xF000븁\x0000
+
+
+Which move should \xF000Ă\x0001\x0000\nremember?
+Should the move \xF000ć\x0001\x0001\nbe remembered?
+Give up trying to make\n\xF000Ă\x0001\x0000 remember a move?
+\xF000Ă\x0001\x0000 remembered the move\n\xF000ć\x0001\x0001.\xF000븅\x0001\x0004\xF000븅\x0001\x0005\xF000븇\x0000\xF000븁\x0000
+\xF000Ă\x0001\x0000 wants to remember\nthe move \xF000ć\x0001\x0001.\xF000븁\x0000\nBut \xF000Ă\x0001\x0000 can't learn more\nthan four moves.\xF000븁\x0000\nDelete an existing move to make\nroom for \xF000ć\x0001\x0001?
+1, \xF000븂\x0001\x00142, and\xF000븂\x0001\x0014... \xF000븂\x0001\x0014... \xF000븂\x0001\x0014... Ta-da!\xF000븅\x0001\x0003\xF000븆\x0001\x0002\xF000븇\x0000\xF000븄\x0000\n\xF000Ă\x0001\x0000 forgot how to use\xF000븁\x0000\n\xF000ć\x0001\x0001. And...\xF000븁\x0000
+\xF000Ă\x0001\x0000 remembered the move\n\xF000ć\x0001\x0001.\xF000븅\x0001\x0004\xF000븅\x0001\x0005\xF000븇\x0000\xF000븁\x0000
+Give up making the Pokémon\nremember \xF000ć\x0001\x0001?
+\xF000Ă\x0001\x0000 did not remember\nthe move \xF000ć\x0001\x0001.\xF000븁\x0000
+\xF000Ā\x0001\x0000 handed over one\nHeart Scale in exchange.
+Is it OK to forget the\nmove \xF000ć\x0001\x0000?
+
+POWER
+ACCURACY
+PP
+
+
+
+\xF000Ȃ\x0001\x0000
+\xF000Ȃ\x0001\x0000
+\xF000ȁ\x0001\x0000/\xF000ȁ\x0001\x0001
+
+---
+QUIT
+TEACH
+
+\xF000Ă\x0001\x0000
+Lv. \xF000Ȃ\x0001\x0000
+LEARNED MOVES
+YES
+NO
