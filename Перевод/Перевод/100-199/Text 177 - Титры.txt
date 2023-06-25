@@ -1,0 +1,400 @@
+Директор
+Junichi  Masuda
+2D  Арт директор
+Ken  Sugimori
+3D  Арт директор
+Takao  Unno
+Программный директор
+Tetsuya  Watanabe
+Директор планирования
+Takeshi  Kawachimaru
+Сценарий
+Toshinobu  Matsumiya
+Программирование онлайн функций
+Ведущий
+Katsumi  Ohno
+Yoshinori  Matsuda
+Toru  Nagihashi
+Nobuhiko  Ariizumi
+Программирование битв
+Ведущий
+Hisashi  Sogabe
+Masao  Taya
+Программирование сцен
+Ведущий
+Sosuke  Tamada
+Keita  Kagaya
+Miyuki  Iwasawa
+Nozomu  Saito
+Tomoya  Takahashi
+Toshihiro  Obata
+Программирование интерфейса
+Ведущий
+Akito  Mori
+Hiroyuki  Nakamura
+Koji  Kawada
+Genya  Hosaka
+Программирование боевой системы
+Masao  Taya
+Программирование стадионов
+Nozomu  Saito
+Программирование системы рельс
+Tomoya  Takahashi
+Поддержка программирования 3D графики
+Miyuki  Iwasawa
+Программирование систем
+Tetsuya  Watanabe
+Hisashi  Sogabe
+Sosuke  Tamada
+Katsumi  Ohno
+Masao  Taya
+Проработка персонажей
+Ken  Sugimori
+Дизайн персонажей
+Ken  Sugimori
+Takao  Unno
+Motofumi  Fujiwara
+Hironobu  Yoshida
+Kenkichi  Toyama
+Hiroki  Fuchino
+Yusuke  Ohmura
+Saya  Tsuruta
+Lee  Hyunjung
+Mana  Ibe
+Reiko  Tanoue
+Tomohiro  Kitakaze
+Maiko  Fujiwara
+Megumi  Mizutani
+Tomohiko  Ohkubo
+James  Turner
+Keiko  Moritsugu
+Atsuko  Nishida
+2D графика
+Ведущий
+Hironobu  Yoshida
+Motofumi  Fujiwara
+Kenkichi  Toyama
+Yusuke  Ohmura
+Saya  Tsuruta
+Tomohiro  Kitakaze
+Megumi  Mizutani
+3D графика карты
+Ведущий
+Hiroki  Fuchino
+Lee  Hyunjung
+Mana  Ibe
+Reiko  Tanoue
+Maiko  Fujiwara
+Tomohiko  Ohkubo
+James  Turner
+Система дизайна 3D графики
+Takao  Unno
+Графика Тренеров - основной дизайн
+Yusuke  Ohmura
+Дизайн графики битв
+Hironobu  Yoshida
+Дизайн эффектов битв
+Motofumi  Fujiwara
+Графика интерфейса - основной дизайн
+Kenkichi  Toyama
+Дизайн открывающей катсцены
+James  Turner
+Художник-иллюстратор
+Keiko  Moritsugu
+Концепт Покемонов и текст Покедекса
+Kenji  Matsushima
+Музыка
+Ведущий
+Shota  Kageyama
+Go  Ichinose
+Hitomi  Sato
+Junichi  Masuda
+Minako  Adachi
+Кличи Покемонов
+Go  Ichinose
+Звуковое сопровождение
+Minako  Adachi
+Система интерактивного звукового сопровождения
+Shota  Kageyama
+Go  Ichinose
+Музыка: Зона Связи,  Маршрут  10,
+Музыка концовки,
+и прочее
+Shota  Kageyama
+Музыка: Опелюсид,  Анвилль,
+Мост-Деревня,
+и прочее
+Go  Ichinose
+Музыка: Велосипед,  Лаборатория ПП,
+Лакуноза,
+и прочее
+Hitomi  Sato
+Боевая музыка
+Junichi  Masuda
+Дизайн пользовательского интерфейса
+Ведущий
+Tetsuji  Ohta
+Teruyuki  Shimoyamada
+Kazumasa  Iwao
+Hiro  Nakamura
+Проработка диалогов
+Ведущий
+Toshinobu  Matsumiya
+Suguru  Nakatsui
+Katsunori  Suginaka
+Yukiko  Hozumi
+Скрипты
+Ведущий
+Masafumi  Saito
+Mai  Mizuguchi
+Katsunori  Suginaka
+Naoto  Murakami
+Дизайн боевой системы
+Ведущий
+Shigeki  Morimoto
+Koji  Nishino
+Геймдизайн особых элементов
+Ведущий
+Shigeru  Ohmori
+Yukiko  Hozumi
+Akira  Nakamura
+Проработка карты
+Ведущий
+Suguru  Nakatsui
+Tadashi  Takahashi
+Kazumasa  Iwao
+Katsunori  Suginaka
+Shigeru  Ohmori
+Yukiko  Hozumi
+Naoto  Murakami
+Проработка пользовательского интерфейса
+Tetsuji  Ohta
+Контроль и проработка карты
+Suguru  Nakatsui
+Проработка опросов и тег-режима
+Shigeru  Ohmori
+Проработка боёв по Wi-Fi
+Teruyuki  Shimoyamada
+Проработка параметров Покемонов и Тренеров
+Koji  Nishino
+Shigeki  Morimoto
+Kazumasa  Iwao
+Teruyuki  Shimoyamada
+Проработка параметров Боевого Метро
+Shigeki  Morimoto
+Tetsuji  Ohta
+Kazumasa  Iwao
+Развёртывание Wi-Fi серверов
+Takahiro  Yamaguchi
+Ryo  Yamaguchi
+Kazutomo  Niwa
+Takaaki  Takeuchi
+Mikihiro  Ishikawa
+Руководитель веб-систем
+Takeshi  Kawachimaru
+Проработка веб-систем
+Mai  Mizuguchi
+Makiko  Takahashi
+Takashi  Orikata
+Mitsuyo  Matsunaga
+Tomoko  Nakayama
+Basement  Factory  Productions
+Локализация на английский
+Yasuhiro  Usui
+Mikiko  Ryu
+Satomi  Honda
+David  Numrich
+Перевод на английский
+Hisato  Yamamori
+Tim  Hove
+Sayuri  Munday
+Редакторы перевода
+Michael  G.  Ryan
+Kellyn  Ballard
+Blaise  Selby
+Hollie  Beg
+Wolfgang  Baur
+Eoin  Sanders
+Поддержка локализации
+Rey  Perez
+Antoin  Johnson  
+Координаторы локализации НОА
+Rie  Fujiwara
+Seth  McMahill
+Joel  Simon
+Тестирование НОА
+Masayasu  Nakata
+Kyle  Hudson
+Eric  Bush
+Sean  Egan
+Tom  Hertzog
+Ed  Ridgeway
+Teresa  Lillygren
+Makiko  Szolas
+Leland  Jones
+Marko  Wallenius
+Kathy  Huguenard
+Joshua  Newman
+Kindra  Timmerwilke
+Контроль качества НОЕ
+Natalie  Lunt
+Richard  Wylie
+Aatish  Pattni
+Ben  Howard-Hale
+David  Wall
+Patrick  Gleeson
+Sam  Trodd
+Sarah  Rutherford-Bryant
+Локализация
+Teruki  Murakawa
+Kimiko  Nakamichi
+Akira  Kinashi
+Noriko  Nakao
+Ryusuke  Niitani
+Hironori  Ichibayashi
+Shuhei  Furukawa
+Менеджмент отладки
+Yuki  Tanikawa
+Masashi  Mihune
+Yoshikazu  Tanaka
+Tsuyoshi  Komura
+Mieko  Yamaji
+Takeshi  Tamura
+Отладка
+Mario  Club
+Мир и сюжет
+Junichi  Masuda
+Графика - особые благодарности
+Daisuke  Nagata
+Rika  Kunishita
+Natsumi  Nishihata
+Chihiro  Takahashi
+Shinichi  Ohnishi
+Особые благодарности
+Kenji  Tominaga
+Yuichiro  Mori
+Yoshio  Tajiri
+Teiko  Sasaki
+Emi  Endo
+Asami  Sato
+Shiho  Haraguchi
+Nagaaki  Fukase
+Hiroto  Ito
+Masayuki  Onoue
+Katsuhiko  Ichiraku
+Mayo  Ohtani
+Yuki  Kawamoto
+Sachiko  Hamano
+Haruka  Sunaga
+Kenjiro  Ito
+Tomotaka  Komura
+Susumu  Fukunaga
+Toshio  Miyahara
+Jiro  Koga
+Osamu  Suzuki
+Gakuji  Nomoto
+Misuzu  Kanayama
+Michiko  Takizawa
+Ayako  Kajiwara
+Yuichiro  Tsumita
+Osamu  Fujita
+Masayuki  Soga
+Fumie  Yokota
+Kenji  Okubo
+Soichi  Yamamoto
+Tohru  Inage
+Hiroshi  Akune
+Daisuke  Komai
+Toshio  Mukai
+Chiaki  Takahara
+Sachiko  Ikeda
+Ilho  Kim
+Jonghoon  Park
+Художники английской версии
+Eric  Medalle
+Bridget  O'Neill
+Оформление
+Kiyomi  Itani
+Yasuko  Sugiyama
+Ryuichi  Suzuki
+Sachiko  Nakamichi
+Координаторы глобализации
+Akira  Kinashi
+Noriko  Nakao
+Hironori  Ichibayashi
+Координаторы информации
+Yuri  Sakurai
+Toya  Yoneda
+Координаторы
+Shunsuke  Kohori
+Kazuki  Yoshihara
+Kaori  Ando
+Hideaki  Araki
+Продюсеры
+Junichi  Masuda
+Hitoshi  Yamagami
+Shusaku  Egami
+Hiroaki  Tsuru
+Исполнительные продюсеры
+Satoshi  Tajiri
+Satoru  Iwata
+Tsunekazu  Ishihara
+Разработано
+                 GAME  FREAK\nПеревод на русский язык: Pojirianets
+Покемон Чёрная Версия
+Покемон Белая Версия
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
