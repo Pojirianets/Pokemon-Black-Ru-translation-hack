@@ -6,5 +6,6 @@
 Перевод ведётся с помощью [sdsme](https://github.com/Skareeg/SDSME).
 
 [Группа ВК с дополнительными материалами](https://vk.com/pojirianets)
-## Что уже готово (на момент 29.07)
-- Готово 100% текста, бета в процессе
+## Версии игры
+- [Альфа версия](https://github.com/Pojirianets/Pokemon-Black-Ru-translation-hack/releases/tag/alpha-1)
+- [Бета версия](https://github.com/Pojirianets/Pokemon-Black-Ru-translation-hack/releases/tag/beta)
