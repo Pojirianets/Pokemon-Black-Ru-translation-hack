@@ -9,3 +9,4 @@
 ## Версии игры
 - [Альфа версия](https://github.com/Pojirianets/Pokemon-Black-Ru-translation-hack/releases/tag/alpha-1)
 - [Бета версия](https://github.com/Pojirianets/Pokemon-Black-Ru-translation-hack/releases/tag/beta)
+- [Релиз 1.0](https://github.com/Pojirianets/Pokemon-Black-Ru-translation-hack/releases/tag/v1.0)
